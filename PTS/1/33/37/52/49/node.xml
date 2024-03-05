@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="WMAP" unique_id="49" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704798413" ts_lastsave="1704879829">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+such as sqli,etc.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Loading wmap pluggin into metasploit.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> wmap_sites: to set the url of site for scanning
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> wmap_targets: need to be configured for scanning the targets sites
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+We can specify any path we want to scan. Here I'm gonna delte the hello path and use of only root .
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> wmap_run: It'll show all the availabe modules for our target.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+'wmap_run -e'  is used to execute all modules or specific modules (if path of the module is given as input)
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+It executed but nothing useful is found.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+It is saying thee is no vulnerabilities in it.</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="8e5659164f4700ac47f27b24fdfd91ea1be635bffc28d87bd9d2abebddb889d3"/>
+    <encoded_png char_offset="69" justification="left" link="" sha256sum="83bc17c25222fb5f9d66da6903bc4e33d4ec935a1039c9d2509b7c9464f824e0"/>
+    <encoded_png char_offset="72" justification="left" link="" sha256sum="1399314ff70c12a61721eb915a4346ac5fd5d976efd4b8e9e042430f6c2d3e2c"/>
+    <encoded_png char_offset="130" justification="left" link="" sha256sum="c08e617a4ff0669d3398043410418dba68a0b638fd613558b32d99ddc07bd8a3"/>
+    <encoded_png char_offset="206" justification="left" link="" sha256sum="f9829782ef6b92f72e2d06e583f99c79b05d237a45229e10e17268787a8a70cb"/>
+    <encoded_png char_offset="310" justification="left" link="" sha256sum="011e28e5e274594198a4dc3e817ab531de4d0914eff16cc3aef9405fa3e79fad"/>
+    <encoded_png char_offset="382" justification="left" link="" sha256sum="2b3191a82c1fc864c78afd159ec52d15fa078acc9ca3402d036de36893a4d4e5"/>
+    <encoded_png char_offset="497" justification="left" link="" sha256sum="623fbb29b9560e3093507d97f5016e92abfd57933e3e255a01942b114d4684e0"/>
+    <encoded_png char_offset="542" justification="left" link="" sha256sum="5b0207f0f205fcdacfae015faf10d24294588977dc1abeb6340c3d7c5e0f78e5"/>
+  </node>
+</cherrytree>

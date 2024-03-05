@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Samba 1" unique_id="145" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706973428" ts_lastsave="1706974982">
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text>
+
+
+It will give the OS version
+
+
+
+We have msf mofule for this
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> nmblookup
+
+    This tool is part of the samba(7) suite.
+
+       nmblookup is used to query NetBIOS names and map them to IP addresses
+       in a network using NetBIOS over TCP/IP queries. 
+       
+       
+  
+  
+  
+  
+  
+  
+ </rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> smbclient
+ 
+ 
+ 
+ 
+ Here we listed the hosts.
+ 	
+  
+  </rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> rpcclient
+  
+  
+  
+  rpcclient (1)        - tool for executing client side MS-RPC functions
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> The following is done on lab
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="2fbdeb77aeae72f43b2daf23c838348b6cbacc7d0bb1b8fd951891286defef90"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="188024a3cec61a9fcb1ba4ff15c97377122dd4ac63f820fc41c7bb95aa4dc959"/>
+    <encoded_png char_offset="271" justification="left" link="" sha256sum="4a3a81b773686c36784f71fd4d74e7fa0b2f5e85693bf94af2ece0a3d90a2d94"/>
+    <encoded_png char_offset="283" justification="left" link="" sha256sum="e1b118f664edc52b857076ab2126cc75698d4bf28040a3a6d1f7b872c5453812"/>
+    <encoded_png char_offset="317" justification="left" link="" sha256sum="72d933da47d5c0a6e3d93c95696c7f380e040c0bd7681f157878f058bc7e6f84"/>
+    <encoded_png char_offset="322" justification="left" link="" sha256sum="765e2dd28914917b9ed7b8881923bd02627c039cbb924aa73ed9ae6eb8deaa71"/>
+    <encoded_png char_offset="380" justification="left" link="" sha256sum="ed0833a9f8f33e4c5e9a8163e3b7c84843ed7fac1f2bfcb11ca8f228dc824501"/>
+    <encoded_png char_offset="456" justification="left" link="" sha256sum="51dbfcb30ced6479a8190a0089531703bf42a0fd8c2a691cf7e354adc4d29681"/>
+    <encoded_png char_offset="498" justification="left" link="" sha256sum="db847f0d7b49f9a495254da5eee2cc95f2617e3ae904b8f68035b56963a9e1f9"/>
+    <encoded_png char_offset="503" justification="left" link="" sha256sum="60c14c79774d43f302961caa83f9718c7efda96c197fdefd985bb9e93f218564"/>
+  </node>
+</cherrytree>

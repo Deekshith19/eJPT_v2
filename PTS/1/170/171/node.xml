@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Cyersecurity Basic" unique_id="171" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707210930" ts_lastsave="1707211196">
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="e595e6ff541f460ea041fa1f6d05647129bb15ac79ea48f41403391d0518a43a"/>
+    <encoded_png char_offset="6" justification="left" link="" sha256sum="195f1928883e4cd2ab5f1711aa8110a55484c99c0d8e0897b7b641df0aedf25c"/>
+    <encoded_png char_offset="17" justification="left" link="" sha256sum="f819d7acd793084ee9e95f1d30cc1ce22559fcabb0080a3d56ee41f9c83fdf89"/>
+    <encoded_png char_offset="20" justification="left" link="" sha256sum="b8b60cceb5a1716c76df51a085ea7a9f232d8954c69c6ca5639d9f4e6087edeb"/>
+    <encoded_png char_offset="23" justification="left" link="" sha256sum="18e651057184b72510752f7a2d8bd7b82a30c1ef08041d080839ef35d00cbc69"/>
+    <encoded_png char_offset="26" justification="left" link="" sha256sum="7f6e8e8b95885840b42da2762237d4345fb765646411d5f2c72551a559807abc"/>
+  </node>
+</cherrytree>

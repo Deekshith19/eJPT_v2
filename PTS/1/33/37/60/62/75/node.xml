@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Pivoting" unique_id="75" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705607153" ts_lastsave="1706805860">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Currently we are given with two machine, oly 1st one is accessible
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+2nd one is not accessible
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+Now we expoit the first machine
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">4.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we can see there is only one interface for victim
+
+
+So we add a route to the network via 10.5.30.138
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5</rich_text>
+    <rich_text>. Now using the portscan module we set the victim 2 ip as the rhosts
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We have discovered port 80 on the pivot machine. Now, we will forward the remote port
+80 to local port 1234 and grab the banner using Nmap
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we port forwarded the victim 2 port 80 to our local host port 1234
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">10.</rich_text>
+    <rich_text> Now we are able to scan the remote victim2 port 80 through our local host pot 1234
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+We can either use the ip 127.0.0.1
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">
+11.</rich_text>
+    <rich_text> Now we are exploiting the remote victim 2  , so we configured the badblue exploit options using victim 2 ip
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+set the LPORT
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+set the payload,,  here we need to have bind_tcp
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+After this we need to exploit,, but I'm not getting the meterpreter session,, try again later
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="3b93b69e060745323e47ab277fb9afb0195297d6d96bad70c1c25e68759f5cbd"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="1f9103d428ce363d18fdfa6f1c0c28c456ac196c5f7a4efbed77b91dd02b20a7"/>
+    <encoded_png char_offset="82" justification="left" link="" sha256sum="06db1d4d994c0196dd67e837989f5fb8ace8052f9a9511ea450262eed876b370"/>
+    <encoded_png char_offset="85" justification="left" link="" sha256sum="8201d0df1a44995f9e405ea2a1b9e449a677729d5715568ca8a0150f0b48741d"/>
+    <encoded_png char_offset="114" justification="left" link="" sha256sum="adf7b68f724f442809f64b1c49a720f0314ddf2d4a0320ab6beb8d3896bd9a1d"/>
+    <encoded_png char_offset="154" justification="left" link="" sha256sum="71baa20c505d9728490d2adeb485010113e27a5df982aeb3b5f2b7638c871416"/>
+    <encoded_png char_offset="161" justification="left" link="" sha256sum="e38fd1c37b900c98fed9fa2870b871de85b1e03e0285585d02c8d4ad007a389a"/>
+    <encoded_png char_offset="269" justification="left" link="" sha256sum="88e7c643456c5412471456744fff5446a85580b91cf62da0d7fc9537dff6c226"/>
+    <encoded_png char_offset="346" justification="left" link="" sha256sum="03ac4b2a08bca00247e78df6a755cc617439dabd3788eae43b2964ad6eff23e6"/>
+    <encoded_png char_offset="354" justification="left" link="" sha256sum="6e538bb65fd0684cbf258886a91d85f0bb070b9196e18c58ef20edb4e274d62a"/>
+    <encoded_png char_offset="501" justification="left" link="" sha256sum="35d1a01064509a2dd625da61d0eaf9a1eb9355e34c647b042eb451d30732b964"/>
+    <encoded_png char_offset="574" justification="left" link="" sha256sum="92922c03b24abf0be6bb1fc36eea131f6679c07f545a0dceb7e4dbf4cc50fcd6"/>
+    <encoded_png char_offset="667" justification="left" link="" sha256sum="8fdb01cc7666e51c6da7808e876386b1bbb73ab0bee168d926818ff09e6c65fa"/>
+    <encoded_png char_offset="705" justification="left" link="" sha256sum="3097c8eea4f4b64d121b1c48427897bc905e6e6df135b8903b598366c4e79c80"/>
+    <encoded_png char_offset="822" justification="left" link="" sha256sum="7fdc9c67682da43b9dba24babeb8d254a39f85b91598fbc5f68fdde29be3ed5a"/>
+    <encoded_png char_offset="839" justification="left" link="" sha256sum="9f8d82645766ba1b78699b06133b5515a05f5ffa1a00982f39662e16b4422b43"/>
+    <encoded_png char_offset="891" justification="left" link="" sha256sum="38b239f414d10defd15b65a78f3c8ff002faf6a1b2d22f18229c98507890834e"/>
+  </node>
+</cherrytree>

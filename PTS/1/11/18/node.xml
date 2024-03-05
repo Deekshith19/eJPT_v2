@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Labs" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="199" is_bold="1" foreground="#b5835a" ts_creation="1702823631" ts_lastsave="1704301052">
+    <rich_text>
+1.)A Kali GUI machine and a target machine are provided to you. The target machine is running a Windows Firewall.   
+Your task is to discover available live hosts and their open ports  using Nmap and identify the running services and applications.
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+2. 
+</rich_text>
+    <rich_text scale="h2">Video: Scan The Server 1</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Estimated time:</rich_text>
+    <rich_text> 10 minutes
+
+</rich_text>
+    <rich_text scale="h2">Goal</rich_text>
+    <rich_text>
+This lab covers the process of performing port scanning and service detection with Nmap.
+
+ Ans.)
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ 
+3.  </rich_text>
+    <rich_text scale="h4">Importing Nmap Scan Results Into MSF</rich_text>
+    <rich_text>
+
+</rich_text>
+    <encoded_png char_offset="251" justification="left" link="" sha256sum="d478e22d031a92c5527b585ac5691568df16896f6f9da504402608ee9916949a"/>
+    <encoded_png char_offset="415" justification="left" link="" sha256sum="1390b4b642a62261d2781dd435c56ed264b4a10ac8577614a7672a811a5f8ccd"/>
+    <encoded_png char_offset="465" justification="left" link="" sha256sum="973343694473e1a4a918a34405c843550b920d91d099fc4775e5eacf356636a4"/>
+  </node>
+</cherrytree>

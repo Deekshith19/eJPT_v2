@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Harvester" unique_id="13" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1702629400" ts_lastsave="1702630484">
+    <rich_text>
+1. </rich_text>
+    <rich_text weight="heavy">theHarvester</rich_text>
+    <rich_text>:
+
+The tool gathers names, emails, IPs, subdomains, and URLs by using multiple public resources like google, inkedin,brave, bing, etc
+
+</rich_text>
+    <encoded_png char_offset="151" justification="left" link="" sha256sum="72bb26966dde3c5eee05aeccde4ae0b0f63fe5579c29249e4d13e34b47698b77"/>
+  </node>
+</cherrytree>

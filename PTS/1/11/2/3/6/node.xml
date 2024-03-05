@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Netcraft: For Website Footprinting" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="#ffffff" ts_creation="1702532495" ts_lastsave="1702534355">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Netcraft</rich_text>
+    <rich_text>: it tracks and analyzes internet server usage. It provides insights into trends, popular web servers, operating systems, and hosting providers, offering a snapshot of the internet's infrastructure.
+
+
+Enter the name url of the website here.
+
+
+
+
+
+Here 199.250.200.43 is not the real ip address of the web server. The real ip is protected by netblock owner which here is InMotion Hosting Inc
+
+
+
+
+The ssl/tls section gives the info regarding when a ssl certificate expires.
+
+Netcraft gives almost all the info about the website. Go through the netcraft site to see more info related to the website we given.</rich_text>
+    <encoded_png char_offset="250" justification="left" link="" sha256sum="76dbf37b83bd08b63c387917611b0b4bb2f566ee8028ce8042a0feba942539bb"/>
+    <encoded_png char_offset="253" justification="left" link="" sha256sum="6797020a2ac6091f311b3dd321194892ccde633898891dc9aea2121d4fa4f069"/>
+    <encoded_png char_offset="403" justification="left" link="" sha256sum="cc90ca00bc01b4cb9a174217ce333859885d8a086ccb2f9050092e843b64056c"/>
+  </node>
+</cherrytree>

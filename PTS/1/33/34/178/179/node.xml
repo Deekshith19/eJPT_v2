@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Microsoft IIS WebDAV" unique_id="179" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707224604" ts_lastsave="1707224755">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="d1cafb86557c4b750671f03cf25f75407b148ed303eb5b19aa0d27a524a3675d"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="33d74d612527023d8d5cb14c3a41b09ca40277bec09c69e09564d7d940543b30"/>
+    <encoded_png char_offset="11" justification="left" link="" sha256sum="9b6f2317a7306e0e07bd4acb58890e1ef40b7bf99965dfc7ce1707db261b8b40"/>
+  </node>
+</cherrytree>

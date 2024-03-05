@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Sudo Privileges" unique_id="136" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706725531" ts_lastsave="1706727376">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Anything when a normal user executing which requires higher privilege , then he needs to "sudo"
+along with it to get higher privileges, for that he need to enter the password of root.
+
+
+In this case, if we add sudo with the command “man” , the password is not necessary. 
+
+
+
+
+Here it says the student can execute “man” using sudo without entering the password.
+This is a critical vulnerability
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+When executing, it is not prompting to enter the password and is directly moving to manual page of ls
+
+
+
+
+In the manual , we can execute scroll down, press ‘q’ to exit, etc.
+
+
+
+Instead, if we enter !/bin/bash, then we'll get the root shell since we are executing the man along with sudo privileges
+
+
+After entering !/bin/bash , press enter to get the root shell.
+
+
+
+</rich_text>
+    <encoded_png char_offset="278" justification="left" link="" sha256sum="001b847a53c2db557ea6d6f4b20016cb4052bdda51c370673ca4cbba4291fd34"/>
+    <encoded_png char_offset="405" justification="left" link="" sha256sum="1aee67cc3e64713451a63c8d588da9d647968d147295ff77d6f9406706d60e2c"/>
+    <encoded_png char_offset="512" justification="left" link="" sha256sum="a226f63bf58f2448e479cca514494f0bb76c66896e74e97d5f20131e71939b27"/>
+    <encoded_png char_offset="707" justification="left" link="" sha256sum="0b582794e27a2830fe4575b088c2e91d8667deadfb66fa616801154f7d7844f6"/>
+  </node>
+</cherrytree>

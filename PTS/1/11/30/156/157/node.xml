@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="HTTP" unique_id="157" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707051175" ts_lastsave="1707051455">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> In this module he gives brief info about dirb, whatweb,browsh to gather info about a server
+
+
+Gathered subdomains of the server using dirb
+
+
+
+
+Gathered info using whatweb
+
+</rich_text>
+    <encoded_png char_offset="97" justification="left" link="" sha256sum="b7fa7da0c28f77878d4d35baa904237f366ff5f37dd09eacd461e0423454c9d6"/>
+    <encoded_png char_offset="147" justification="left" link="" sha256sum="64ba1f779b2504b80400a89d7ff640a8db9d865fa7764598279fd9c8358e0a0d"/>
+  </node>
+</cherrytree>

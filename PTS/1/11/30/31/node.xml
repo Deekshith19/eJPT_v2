@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="31" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="187" is_bold="1" foreground="#c061cb" ts_creation="1703790686" ts_lastsave="1707982882">
+    <rich_text>
+34) What is a common use for a server?
+ Ans.) 
+
+store files for more than one computer to access
+
+collect and deliver email for an organization
+
+</rich_text>
+    <rich_text weight="heavy">All of these</rich_text>
+    <rich_text> *
+
+host a website
+
+
+35.) What is a service?
+ Ans) program on a computer that does a specific function
+ 
+ 
+36.) What is the problem with hosting a service accessible by other computers?
+ Ans.) Opens the server hosting the service to potential malicious access
+ 
+ </rich_text>
+  </node>
+</cherrytree>

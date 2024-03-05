@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMTP Enumeration" unique_id="46" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704523579" ts_lastsave="1704879796">
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+The following is done on the lab:
+
+This lab is for checking the version of the smtp and for finding the valid users.
+
+Used  auxiliary/scanner/smtp/smtp_version module to find the version.
+
+ 
+ 
+Using auxiliary/scanner/smtp/smtp_enum module to enumerate valid users. ( wordlists = /usr/share/metasploit-framework/data/wordlists/unix_users.txt)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="f396d37da0520789cb2adb5e039008cadbcfebd96addddede47e624bc488bb10"/>
+    <encoded_png char_offset="350" justification="left" link="" sha256sum="dc2cd406ce49d32d8f4586e532901612297473ed6859723523aadd0f3878a1bc"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="187" is_bold="1" foreground="#c061cb" ts_creation="1702483025" ts_lastsave="1702835707">
+    <rich_text>1.	What file contains a list of directories that are not indexed by search engines?
+Ans.)	robots.txt
+
+2. The Whois lookup utility can be used to identify the nameservers of a particular domain.
+ Ans.)  True
+ 
+3. Which one of the following DNS records is used to resolve a domain to a mail server?
+
+MX
+TXT
+AAAA
+MS
+
+ Ans.) MX  (Mail Exchange )
+
+• MX (Mail Exchange) record: Specifies mail servers for receiving email.
+• TXT (Text) record: Stores arbitrary text information, often used for domain verification and other purposes.
+• AAAA (IPv6 Address) record: Maps a domain to an IPv6 address.
+
+
+
+4. Sublist3r can be used to perform a subdomain brute force.
+ Ans.) True
+ 
+ 
+5. Which one of the following Google search queries can be used to search for subdomains for the domain INE.com?
+ Ans.) site:*.ine.com
+
+
+6. theHarvester can also be used to perform subdomain enumeration.
+ Ans.) True
+ 
+ 
+7. Which one of the following DNS records is used to specify domain aliases?
+ Ans.) CNAME
+ 
+ 
+8. Which one of the following Nmap scans can be used to perform a sneaky scan? 
+ Ans.) nmap -sV -T1 192.168.1.200
+</rich_text>
+  </node>
+</cherrytree>

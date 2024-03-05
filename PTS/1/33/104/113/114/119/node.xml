@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Automating Local Enumeration" unique_id="119" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706526811" ts_lastsave="1706528799">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">JAWS</rich_text>
+    <rich_text>
+
+
+We are going to execute this powershell script run in our msfconsole
+
+
+
+
+
+
+Copy and save it in a file
+
+
+
+Now we need to upload this file to the server via meterpreter session
+
+
+
+From the shell, enter the command of the powershell to execute the code
+
+
+
+The command are available in the git
+
+
+
+
+
+
+
+
+When executing it would take some couple of minutes
+
+
+After completion , download the file
+
+
+
+
+
+Then open the file
+
+
+The version of the windows may be inaccurate, although rest of all are ok
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="f5ea635771ebafdc43e67485bab93d6f5b9c4921dd07375514d2eab4a1c94546"/>
+    <encoded_png char_offset="17" justification="left" link="" sha256sum="122f3a5f7b9452675b147a54f2160d2948fc77f1bc503f5518fbed848bb7ca80"/>
+    <encoded_png char_offset="91" justification="left" link="" sha256sum="731f5a2786858034ad6e7beb61b8f7455c113e8bc8ef579d92b767d3dfa40daa"/>
+    <encoded_png char_offset="93" justification="left" link="" sha256sum="b5f62718bbc4f5c8144b082d980fb89651c43373028382786b50b100def88e73"/>
+    <encoded_png char_offset="95" justification="left" link="" sha256sum="7e1514ec75e7abd2d164c8230d20907fe2756c1bb9a56793ca515f49cac7bd0a"/>
+    <encoded_png char_offset="125" justification="left" link="" sha256sum="ce13749086916582441f642502e38165363256f5de6c5c449ec8eb962edca2ac"/>
+    <encoded_png char_offset="199" justification="left" link="" sha256sum="312b33a798acb251684324fed1187fb5a8d83150371fdb9e6dcf6d253341e988"/>
+    <encoded_png char_offset="275" justification="left" link="" sha256sum="dab2d1a29baf68e08a17cb90c212f2bd728893773ff7e41837e332af28da6d1f"/>
+    <encoded_png char_offset="278" justification="left" link="" sha256sum="0946fb18b7558269a2df4608f0d5260f801c27c8ac536358bf0207bb58d2fd07"/>
+    <encoded_png char_offset="322" justification="left" link="" sha256sum="b363b057dcefed9a33a9e45dc1d9e3b3fe87dbff900e9db9b8047ddae63163e6"/>
+    <encoded_png char_offset="325" justification="left" link="" sha256sum="bc2c32e116849a9fa2fe307426eaa71254e89e06bda4c02a7bd52ea025029bec"/>
+    <encoded_png char_offset="419" justification="left" link="" sha256sum="78fcd3fded25011a91f5c1884c9a6171632c53c299f0cee3063ee3070391ff56"/>
+    <encoded_png char_offset="443" justification="left" link="" sha256sum="4221e3b2ccdae1bd1f5897da9f3d80526e8101c21e63d60c78450ddc249ebaf3"/>
+    <encoded_png char_offset="521" justification="left" link="" sha256sum="938794fddd9590dd1fd3da942cc416213e3e6b7879194f6d9142aa8138ccaa76"/>
+  </node>
+</cherrytree>

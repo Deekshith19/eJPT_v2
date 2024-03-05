@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="RDP" unique_id="191" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707930132" ts_lastsave="1708368798">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following is done on lab
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+The default port for rdp is 	 but it is not present there, however there is port 3333 present.  We can check whether rdp is present in that port using a msf module
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We found rdp running on 3333 port
+Now we need legitimate credentials to login to rdp, for that we can either use hydra on port 3333 or msf module port 445 to enumerate the credentials
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Found legitiate credentials
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Logged in using xfreerdp on the port 3333
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Flag retrieved
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="57f9e06ca6bb63cc688a3af3f69523510be93541bead11837794e02ef04a0989"/>
+    <encoded_png char_offset="38" justification="left" link="" sha256sum="56448d5fdf9a417b107c28a4be873ea6198c4575947345ad0b31008476b0ebfe"/>
+    <encoded_png char_offset="206" justification="left" link="" sha256sum="a277b4132631fdac511eb2a4303bcbf9ed070a0f63713d0d7bb17fc1b2807a98"/>
+    <encoded_png char_offset="395" justification="left" link="" sha256sum="18aae041c6afb4aeb63896b73d74d9b4699c88100c88f0c5ff4b47ff5424586b"/>
+    <encoded_png char_offset="429" justification="left" link="" sha256sum="d6c8918a9643c9a90c53a9518cfb9fba61bb6d3deaf7f6c17b8738045cb0e24a"/>
+    <encoded_png char_offset="475" justification="left" link="" sha256sum="3e78b3da0098269dc6a18c3ed1da18f5afe43367a14f19cc6c0bd920a964ece2"/>
+    <encoded_png char_offset="494" justification="left" link="" sha256sum="f771e9fa8f8a764a9d2a46dd639226997fb8cf21a58da078c3ecf03a8011d84f"/>
+    <encoded_png char_offset="497" justification="left" link="" sha256sum="62fda4fb2a5a663d9883de141c9ae9f192e5e966b1fa00731ff614e3034b831c"/>
+  </node>
+</cherrytree>

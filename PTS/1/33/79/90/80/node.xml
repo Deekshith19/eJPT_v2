@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Banner grabbing" unique_id="80" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705952791" ts_lastsave="1706182058">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+The actual use of banner scripts in Nmap is to extract information from service banners, which are strings of text sent by network services during the connection establishment phase. The primary purposes include:
+1. </rich_text>
+    <rich_text weight="heavy">Service Identification:</rich_text>
+    <rich_text> Banner scripts help identify the specific services running on open ports by analyzing the information present in the service banners.
+
+2. </rich_text>
+    <rich_text weight="heavy">Version Detection:</rich_text>
+    <rich_text> They assist in determining the version numbers of the identified services. Knowing the version is crucial for assessing potential vulnerabilities associated with specific software versions.
+
+3. </rich_text>
+    <rich_text weight="heavy">Enumeration:</rich_text>
+    <rich_text> Banner scripts contribute to the enumeration of services on a target system, providing a detailed map of the network's configuration.
+
+4. </rich_text>
+    <rich_text weight="heavy">Vulnerability Assessment:</rich_text>
+    <rich_text> By combining service version information with known vulnerabilities associated with those versions, Nmap users can prioritize and focus on potential security risks.
+
+5. </rich_text>
+    <rich_text weight="heavy">Operating System Fingerprinting:</rich_text>
+    <rich_text> While primarily focused on service banners, banner scripts can also contribute to determining the target's operating system by analyzing the characteristics of the banners.
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> 
+
+Scanning the target with nmap using banner.nse nmap script
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+We can perform banner grabbing using netcat
+
+syntac: nc &lt;target&gt; portnumber
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> we can use the searchsploit to find any exploits for the found service version
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="b1aa76b69a40debfbd56962c73f422b35ed7fe4a0fde2279c16c740270676825"/>
+    <encoded_png char_offset="1217" justification="left" link="" sha256sum="8d64248bc7f54d2bd7b4f6817c094b2bdb00790de42f7700cf14c1cf183ff7bd"/>
+    <encoded_png char_offset="1302" justification="left" link="" sha256sum="f75fbb20902e54f5ead6411a8ed6db68b00c0afef50ff5805424976968876844"/>
+    <encoded_png char_offset="1389" justification="left" link="" sha256sum="adde19146c5c21d98659b231539239bd3066e302b6b4fde0d8cdca912c050547"/>
+  </node>
+</cherrytree>

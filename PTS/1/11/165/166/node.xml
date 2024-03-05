@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="166" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#c061cb" ts_creation="1707137454" ts_lastsave="1707138150">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> When must a machine with an identified vulnerability be immediately remediated?
+Ans.) If that is identified in the risk management process
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> What agencies maintains oversight of the CVE program?
+Ans.) US Department of Homeland Security
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> What is a vulnerability called when it has not yet been disclosed?
+Ans.) Zero Day Vulnerability
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>Which is not impacted by a vulnerability?
+Ans.) Authorization
+
+
+5.) How does penetration testing relate to risk management?
+ Ans.) Pentesting identifies gaps and vulnerabilities for possible mitigation
+
+
+6.) What organization maintains the National Vulnerability Database?
+ Ans.) NIST
+ 
+ 
+7.) In what layer of the OSI model are vulnerabilities found?
+ Ans.) All Layers
+ 
+ 
+8.) Who needs to understand vulnerabilities?
+ Ans.) All Cybersecurity Professionals
+ 
+ 
+9.) What size business requires vulnerability management?
+ Ans.) All businesses
+ 
+ 
+10.) Which is an example of a vulnerability?
+ Ans.) bug which gives remote code execution
+
+
+In first try</rich_text>
+    <encoded_png char_offset="984" justification="left" link="" sha256sum="24315f0f3b10085990ee0fd2757b40ddc747723c8cbd494806f647e2beacb547"/>
+  </node>
+</cherrytree>

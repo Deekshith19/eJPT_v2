@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Exploitation" unique_id="79" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#57e389" ts_creation="1705951239" ts_lastsave="1706447308">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="392e70fd5f1c900a70d49b6c260af1faa435ef76669661d9b75afbd0b66e9927"/>
+    <encoded_png char_offset="13" justification="left" link="" sha256sum="90e109232ad4f6269ecf0e603045a6d18e7d3af088040beeaa77d0108fdb71c2"/>
+    <encoded_png char_offset="17" justification="left" link="" sha256sum="9b8c754d3279b773f430aa5f92d59b8ae228c4e3b114b274c7e6fdc2c8fb9a89"/>
+  </node>
+</cherrytree>

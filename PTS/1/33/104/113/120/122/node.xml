@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Users and Groups" unique_id="122" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706549539" ts_lastsave="1706550750">
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+uid=0 means its root user
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+to check in which are all the groups where root user is present
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+To distinguish between a user and a service account is that user account has particular shell such as bin sh or bisn bash  associated with it while in  a service account has an sbin nologin or /bin/sync associated.
+
+A service account is setupped to manage a particular service and is not for login.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Adding a user to a group
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Logged in users legitimately ( ie through normal login or ssh)
+
+here it is not showing our user because we loginned by exploitation
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Log history
+
+</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="2544d77ee90d7ee0889e89675219f6008371f24990ec34b52163049470822a75"/>
+    <encoded_png char_offset="34" justification="left" link="" sha256sum="1038cb0d1a0f58a13eaaaf2b15b8b83779e5351a95340dced42ea54b51ec4567"/>
+    <encoded_png char_offset="106" justification="left" link="" sha256sum="066f35d2ae05ab4997a1e59198a50dfe129b8ced2126eae693d31231ffe0ec61"/>
+    <encoded_png char_offset="440" justification="left" link="" sha256sum="d66d2d86f340e5592abe47141ecfddfe0b50f02d64410ace3de68b9e51768cd1"/>
+    <encoded_png char_offset="511" justification="left" link="" sha256sum="a7d8671010342f0c5fd6d061833ad99e1f1132f93ed3a6ee89fd828591147d76"/>
+    <encoded_png char_offset="599" justification="left" link="" sha256sum="aec90a17bc7436bc2b66b7c228cec5ca08ee894899bca4c7d5a9c0d7a9ffd87b"/>
+  </node>
+</cherrytree>

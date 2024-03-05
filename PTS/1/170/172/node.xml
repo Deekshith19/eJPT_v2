@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="172" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="187" is_bold="1" foreground="#c061cb" ts_creation="1707211286" ts_lastsave="1707214305">
+    <rich_text>
+1.) Which part of the CIA triad deals with ensuring the same data saved onto storage is retrieved at a later date without changes?
+Ans.) Integrity
+
+
+2.) Which part of the CIA triad deals with only allowing authorized users to access certain data?
+Ans.) Confidentiality
+
+
+3.) Which regulation deals with healthcare information in the United States?
+Ans.) HIPAA
+
+
+4.) What privacy regulation applies specifically to organizations doing business in the EU and EEA?
+Ans.) GDPR
+
+
+5.) Which cybersecurity framework was designed to protect Microsoft Windows-based networks?
+Ans.) ASD Essential 8
+
+
+6.) Which framework includes a business focus and generic processes for management of IT?
+Ans.) COBIT
+
+
+7.) Which framework focuses on mitigating the most prevalent cyber-attacks?
+Ans.) CIS Controls and CIS Benchmarks
+
+
+8.) What is the most important part of a penetration test?
+Ans.) A report that brings value to the customer
+
+
+9.) What is not usually performed during an audit?
+Ans.) Penetration test
+
+
+
+</rich_text>
+  </node>
+</cherrytree>

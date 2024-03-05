@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Establishing Persistence" unique_id="78" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705742068" ts_lastsave="1706813306">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Firsr we need to exploit and obtain the root using the chkrootkit exploit and then use the cron persistence exploit
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+If it don't workout , use another module called ‘service_persistence’
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Set the payload
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+if both doesn't work use ‘sshkey_persistence’ and configure the required options
+ 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here it will add an ssh key to the system to allow remote login
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here we added public key to all the users
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We have the private key, and we can use this to key to login the remote machine
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+we saved the key in a particular file provided the necessary permissions
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+then ssh with the particular on the ip
+</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="4d051ce5ae7e622bf4689cdf51dcddbdd0cc3ff2dd25e299076682b276676761"/>
+    <encoded_png char_offset="127" justification="left" link="" sha256sum="1a9a82c667e922233df9ba39c4453c20ffa128c76297f556adf97e0e8452bea6"/>
+    <encoded_png char_offset="202" justification="left" link="" sha256sum="5ef10ac54ed3853c9f9f8b9eba2fdfecc7926b7a2d8addc584e6dad5b9c51855"/>
+    <encoded_png char_offset="222" justification="left" link="" sha256sum="c3045df697285e8b2e3ef3d876d202215644dc8c0203e5752e74dd7c1b63954e"/>
+    <encoded_png char_offset="309" justification="left" link="" sha256sum="a0d2dab7c3fb1d43544425dd8c19332e590c7e87314ea9ead880c15e0dbce1df"/>
+    <encoded_png char_offset="379" justification="left" link="" sha256sum="549da9b4300dc2408cfd33e813429afed622bc856aba29615001916a413ee79a"/>
+    <encoded_png char_offset="428" justification="left" link="" sha256sum="99f1bdef37cccad055880b2365072016ec4b1c41e4c22486b86c3d9dc1bfe394"/>
+    <encoded_png char_offset="512" justification="left" link="" sha256sum="74b6c6ad17b0a80adb77126f3d7f85346502c8aa5ad8238f35d384ee0e2b936d"/>
+    <encoded_png char_offset="589" justification="left" link="" sha256sum="1ae8c0bd9b0cd320f313b556cb76b6a67470ede014554ca5627fe069cb908e81"/>
+  </node>
+</cherrytree>

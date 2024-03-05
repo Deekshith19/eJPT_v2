@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Port Scanning &amp; Enumeration" unique_id="106" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706381115" ts_lastsave="1706382602">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+We have vsftpd, httpd(DAV) ,apache tomcat and telnet,etc vulnerable here
+
+
+
+
+
+Herre we have exec?, login? and ingresql? , ie nmap is not surre what it is. So we need to do check its banner
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+Banner grabbing:
+
+
+
+
+
+
+When we tried to banner grab on port 1524, we got a bind shell since a shell is configured on the server and is listening and we are connecting it with netcat
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="745c4053fbdb76b1b9401ad75b66962c8eabee92a985e384bf172d2ea37cd8bf"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="0f88a79ca0a104f1229b36747a26d3d8dc6b4b0af0b85441cb5ba0774e38ea5d"/>
+    <encoded_png char_offset="87" justification="left" link="" sha256sum="a0073a70c63606181ab1f97674e89584ee9a3f0b122547e3c815041611dabdb2"/>
+    <encoded_png char_offset="224" justification="left" link="" sha256sum="756969b425b1d16be33e62eed041ba0ee5665a7698701cef6af089aabfc4e28f"/>
+    <encoded_png char_offset="389" justification="left" link="" sha256sum="9b08c7f713628dd325d4a80ac3c4fdacf9e3703135b0ff2944de7c178f6c39ff"/>
+    <encoded_png char_offset="392" justification="left" link="" sha256sum="a2b46adac07216fd640b07842c76b0f3921a77125ea144957b31f30badbbb314"/>
+  </node>
+</cherrytree>

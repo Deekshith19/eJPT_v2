@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nessus" unique_id="168" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707156801" ts_lastsave="1707157207">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>Following is done on the lab
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="33" justification="left" link="" sha256sum="a213040eee60670d745f1f0b5beb3090db51297908d0644af309d4978f5abef7"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="3e6af1c5d30d9cceca0955ca34fecfb45470c94e996174f848eb6ff8718eedd0"/>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="27f5348ba9ba0b1b054de12c7ab92d9a1b28d770fcadf19283ba1d0ba596f247"/>
+  </node>
+</cherrytree>

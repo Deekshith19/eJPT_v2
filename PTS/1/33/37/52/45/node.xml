@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SSH" unique_id="45" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704516979" ts_lastsave="1704879786">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here I'm going to do the lab session:
+
+Using auxiliary/scanner/ssh/ssh_version to find the version.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Setting the module to auxiliary/scanner/ssh/ssh_login and setting the required wordlists for user_file and password_file to bruteforce the password.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Then run exploit to enumerate the username and password.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here you can see the the command shell sessions are opened. That means the ssh is done by entering username and password and we can directly enter to that session.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Or we can type “ ssh sysadmin@192.96.53.3” to enter into the ssh.
+
+Now search for the flag, the flag is presnt in root directory.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Alternatively we can find all the users first by using the module auxiliary/scanner/ssh/ssh_enumusers first and then find the password using the previous module (auxiliary/scanner/ssh/ssh_login )
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here we found all the users using the module.
+Now we can find the password for each users seperately.
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="02d1781384fbe30eea1b4a42ecd2ee663b67a9b6ccb80fa5bb2bfc297a6264bd"/>
+    <encoded_png char_offset="108" justification="left" link="" sha256sum="194e688bafc22659283b4717209c5cba3d40933b9224b9171081949ccb8224f9"/>
+    <encoded_png char_offset="262" justification="left" link="" sha256sum="5c1737d9786399c7ac8024efc93392c03c419ab0f947cfc3cac3c8d155098ada"/>
+    <encoded_png char_offset="265" justification="left" link="" sha256sum="9c9a3acab4a42990a834cd813ebaf33494b47ca7da2488ad1634652d3cb4d407"/>
+    <encoded_png char_offset="325" justification="left" link="" sha256sum="fae9c9621d6c2c789017eae8c10de626ce7888bb4c76e48d070640068c7d75f5"/>
+    <encoded_png char_offset="493" justification="left" link="" sha256sum="0540f3c0a70a7ea96c3f1efac35245d860bfc8912b39b1fc15137f0428af0712"/>
+    <encoded_png char_offset="626" justification="left" link="" sha256sum="d472ae465b791b89c311dd09f484a2625e119e42f4e1c4426e50e52d069b7ff1"/>
+    <encoded_png char_offset="828" justification="left" link="" sha256sum="397b6f7694a81d9b5104a8d8e9125f5bfe32fe279c0be1c7f566a853777a757b"/>
+  </node>
+</cherrytree>

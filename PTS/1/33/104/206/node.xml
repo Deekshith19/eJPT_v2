@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Unattended Installation, Searching for password in Windows cofiguration files" unique_id="206" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="38" is_bold="1" foreground="#99c1f1" ts_creation="1708237794" ts_lastsave="1708245443">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Here we are going to find any misconfigured unattended.xml installation file which contains usernames and passwords. Here the passwords will be in base64 format
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following is done on lab
+
+
+Created the payload
+
+
+
+Hosted and downloaded the file
+
+
+
+
+
+
+
+
+Executed the payload from the victim machine
+
+
+
+netcat got the connection but not able to get the shell
+
+
+When tried with multi/handler we got the connection
+
+
+
+unattend.xml file is located here
+
+
+
+
+
+
+Download and open the file
+
+
+
+
+Here we found the username andpassword,,the password is encoded in base64 format
+
+
+
+
+Saved the password in a file
+
+
+
+Decoded and we got thr password : Admin@123
+
+
+
+Now we are exploiting the server to get the admin access
+(here I started the lab once again and new target ip formed)
+
+
+this is the target
+
+
+
+
+Got the meterpreter session
+
+
+
+
+
+
+
+
+
+Retrieved the flag
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="195" justification="left" link="" sha256sum="9e3ada9b80258a39de2b0cd6ef11fe2cf8c5ba0f25ac21c1c68430d3f44fd86a"/>
+    <encoded_png char_offset="251" justification="left" link="" sha256sum="66f662fc379249e9de93ff1ddaf7e06a05899480f0051260818742be4d7e5cf0"/>
+    <encoded_png char_offset="254" justification="left" link="" sha256sum="56135532f42b2f71589d4a8e0c8090b10dbfefbcdb2b00bf66281a1cdc52d681"/>
+    <encoded_png char_offset="306" justification="left" link="" sha256sum="789f5a45ac5746617a867d413da74f2a64baffb3f477d0f760a55a415b6e9ac7"/>
+    <encoded_png char_offset="309" justification="left" link="" sha256sum="426c5054ed3ef8ca3c764df5a6f7c631821bfa333f20f5d87381c20e0693b5b7"/>
+    <encoded_png char_offset="368" justification="left" link="" sha256sum="8aeffe7da579d44b4dbcbdd136c42a1a5223fa0321b0e21471dc6c702506ad36"/>
+    <encoded_png char_offset="459" justification="left" link="" sha256sum="5bd08936cf69bf725ad3348279c48f5bc12a12b5f8887598f8bdc955612bd4ce"/>
+    <encoded_png char_offset="465" justification="left" link="" sha256sum="ccca2b3011ea172b3ed288334dbfd2be65ac8a95fa9ccbf7d315fff2cf0d84ad"/>
+    <encoded_png char_offset="497" justification="left" link="" sha256sum="967f63694d6f423dbd222b12612d204e20b28b9c0f01503ce7153298627a0863"/>
+    <encoded_png char_offset="583" justification="left" link="" sha256sum="8e68e520e4b191499a835386fdf14e93e9cbfbdcf1311d6bae5584085a3c9f62"/>
+    <encoded_png char_offset="616" justification="left" link="" sha256sum="0e73b0f097aacee77a777eff9cfb47ac0d21a66da6dfb2b0c1e442751467cab5"/>
+    <encoded_png char_offset="783" justification="left" link="" sha256sum="62ff1093b665895392cd6d2a05de748111e6daede4d44f8e104c107c9fddc410"/>
+    <encoded_png char_offset="805" justification="left" link="" sha256sum="ed4a7825d11b756cb7ad026a43bb8537ce04ce98fd9f69c1cfce5a381ad96075"/>
+    <encoded_png char_offset="838" justification="left" link="" sha256sum="7d950693cbda7a60fbf117e5e094219f14d7d9322ead0fe820bad0eb89a1d308"/>
+    <encoded_png char_offset="847" justification="left" link="" sha256sum="ad80efffd1e2a11a32e690b6fd1a9865d509d804c3c473636872c5ded64c1712"/>
+    <encoded_png char_offset="870" justification="left" link="" sha256sum="61373aff869aa0f6b1fc6361ef1e766976ec168b6754dac3bbbe7b79d0bbf4ca"/>
+  </node>
+</cherrytree>

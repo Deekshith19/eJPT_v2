@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="IP addresses" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1702466547" ts_lastsave="1702622533">
+    <rich_text>1. </rich_text>
+    <rich_text weight="heavy">Host:</rich_text>
+    <rich_text>
+
+host is a simple utility for performing DNS  lookups.  It  is  normally used to convert names to IP addresses and vic versa.
+
+synatax : 	host  &lt;name of a website&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+2.	</rich_text>
+    <rich_text weight="heavy">Robots.txt</rich_text>
+    <rich_text>
+ It is a simple text file placed at the root of a website that provides instructions to web robots about which areas of the site should not be crawled or scraped.	
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> 
+
+
+
+
+3.</rich_text>
+    <rich_text weight="heavy">	Sitemap
+		
+</rich_text>
+    <rich_text> This file contains references (URLs) to multiple individual sitemaps.
+ Each referenced URL in the </rich_text>
+    <rich_text family="monospace">sitemap_index.xml</rich_text>
+    <rich_text> file points to an individual sitemap.
+ Individual sitemaps provide detailed information about specific sections or categories of a website.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+4. </rich_text>
+    <rich_text weight="heavy">Whatweb</rich_text>
+    <rich_text>
+
+WhatWeb  -  Next  generation Web scanner. Identify technologies used by websites.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text weight="heavy">
+ </rich_text>
+    <rich_text>
+
+
+
+5. </rich_text>
+    <rich_text weight="heavy">HTTrack </rich_text>
+    <rich_text>
+
+httrack - offline browser : copy websites to a local directory
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 	
+
+
+
+6.  </rich_text>
+    <rich_text weight="heavy">Whois</rich_text>
+    <rich_text>
+
+ whois - client for the whois directory service
+
+It is a command-line utility that allows you to retrieve information about domain registrations. It provides details about the domain registrar, registration and expiration dates, name servers, and contact information for the domain owner.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+whois using ip
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="174" justification="left" link="" sha256sum="92b9864074871cce4d110aee26510a792b34a601ea62263ebf99ac2f55ff2821"/>
+    <encoded_png char_offset="358" justification="left" link="" sha256sum="0fb11100a52fd2818b130634faee8d29d05ffbc27152663f866802a912151709"/>
+    <encoded_png char_offset="636" justification="left" link="" sha256sum="3336699ea85fa004d45a8e71b65aa73a9ec0b77c41fc5416854862bae6600455"/>
+    <encoded_png char_offset="737" justification="left" link="" sha256sum="cf726c19687513b5d327cc9a5a37d190a22468822f04821839c63876278b25af"/>
+    <encoded_png char_offset="821" justification="left" link="" sha256sum="5f520afdd8646d7bd7996c5dad51174585942e01b195862f1dcbc3e81d5e68b7"/>
+    <encoded_png char_offset="1130" justification="left" link="" sha256sum="dd043022a0e0951b1752fa2a2a3a7eb224a76590521cb4ea568dcd50afcd9cf0"/>
+    <encoded_png char_offset="1150" justification="left" link="" sha256sum="c87af11eb17f7126b002843def98b845cbbb7493cb6e610d1f9677a857f871f5"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="PHP" unique_id="108" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706423474" ts_lastsave="1706429474">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+Sometimes “phpinfo” will be provided in the webserver, which will give you the info about the php
+
+The version of php is 5.2.4
+
+And we have exploit for this
+
+
+
+
+In the python exploit code,
+
+we need to modify the pwn_code part
+
+if we execute the exploit without injecting the payload,  we'll get
+
+
+We get this,
+which is same
+
+Now we need to inject the payload,
+This is the payload
+
+
+We can generate the required payload from the reverse shell generator
+
+
+
+
+
+
+
+Injected the code in the exploit
+
+
+
+
+Now we start the netcat 
+
+
+And run the code , 
+
+Code ran successfully without any error
+
+
+However we didn't get the bash session or reverse_shell
+
+
+So did a little modification in the code
+(3-&gt;4)
+
+
+Now after running the code, we successfully obtained a bash session or reverse shell
+
+
+
+
+
+
+We can do all this in metasploit also
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="732c7ffa21c2cac1a9893ef0b8c09758e40eade81b852417e5a2d29dde14132b"/>
+    <encoded_png char_offset="104" justification="left" link="" sha256sum="1f4216f4b2048207f754a88d6a6b7ffd24139278c586c42c583d08759faa61e3"/>
+    <encoded_png char_offset="164" justification="left" link="" sha256sum="9066be9b425f0a62adee5d5f0d83a857c19aac8a5bdd44ea6db4903f7c4b97d5"/>
+    <encoded_png char_offset="197" justification="left" link="" sha256sum="1a00090536ed08ba6102eed97c3714c2ce6b1da57fcd5b9695dc1756dd071d28"/>
+    <encoded_png char_offset="305" justification="left" link="" sha256sum="e3fcf729d4ade0f80e531fcecde1e3fb3769d467fa6a97c62d492b5237b3855b"/>
+    <encoded_png char_offset="320" justification="left" link="" sha256sum="aa7482e29d187b4a74dc4c38d70cf8d5d0eb9c5669e6c7f87cb5312a2ed50bea"/>
+    <encoded_png char_offset="371" justification="left" link="" sha256sum="75a14d472ca1d3099ba572bd9b762592d89a21126e2e452a91cad125f91fb767"/>
+    <encoded_png char_offset="464" justification="left" link="" sha256sum="4fcdff8be6400a976b45e5fb9349c0cd1a2c130a10ee52d44292827d17fcee11"/>
+    <encoded_png char_offset="471" justification="left" link="" sha256sum="f824632b24ea8d09a96993bfdbcd08ef1542b3bb298267de3060f4dc4e4264dd"/>
+    <encoded_png char_offset="535" justification="left" link="" sha256sum="9269ee99f8de6cb32ff3cd30a0d107d3d5e80e5e88a6c219004e9c1049ca7a6f"/>
+    <encoded_png char_offset="558" justification="left" link="" sha256sum="b4ed08882ad77b86576557a3337c04d30802006181c59f62ce6d17ca280ae815"/>
+    <encoded_png char_offset="601" justification="left" link="" sha256sum="2f554aeab08a5bfccbc7e495065507e9b1844202b7ee3cfa78fadeadefb62c85"/>
+    <encoded_png char_offset="702" justification="left" link="" sha256sum="9d34bfc3a141765018b0f1612f7e496a713b0042264f223a2d5a78c35a387b2e"/>
+    <encoded_png char_offset="797" justification="left" link="" sha256sum="2172fa348b2c53bdc5aa245013b06f99b4b90ec12af0edcf69b4280e708f3789"/>
+    <encoded_png char_offset="800" justification="left" link="" sha256sum="c3030a6686a9754fb952ee430278e115fc4dc7a2e76b208d7d9d35fae61b420a"/>
+    <encoded_png char_offset="803" justification="left" link="" sha256sum="ee6596710e4a98cdbba0c7a01efdce20187de416acf949aeabbc9fcf78b352f3"/>
+  </node>
+</cherrytree>

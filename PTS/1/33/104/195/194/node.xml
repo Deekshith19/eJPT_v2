@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Windows NTLM Hashes" unique_id="194" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707983342" ts_lastsave="1708016941">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on lab
+
+
+
+Exploit and then migrate to lsass.exe
+
+
+
+
+
+Now we can either copy paste this hashes and crack it using the johntheripper or we can use a module in msf to crack them to retrieve the password
+
+
+
+
+
+We are going to use msf module to crack the hash
+
+
+
+
+
+
+After pressing run command we'll get the passwords
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="537a8154c2a75643a46a2ab497c170599c666a071d16aaf5f3af8474697d8f50"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="33848cc25e36b498db452482a893e49041f5d123126930be787fdb7457e410eb"/>
+    <encoded_png char_offset="11" justification="left" link="" sha256sum="cdf480025671a6d28f4e844a59aa5c3fc8ee0c2ca06dfe43cf173b37c7137a33"/>
+    <encoded_png char_offset="15" justification="left" link="" sha256sum="d81daa17265ca27496f7ea1185f2fee7e2c3bf125016e1282d03f4f74dece066"/>
+    <encoded_png char_offset="20" justification="left" link="" sha256sum="be6780ecdd1b4d053dd77e4c5234cd5b99dc81add492d887a479fd11235934d5"/>
+    <encoded_png char_offset="61" justification="left" link="" sha256sum="3fa5c4246ae51ee6a40c36de1e88954e28824426fe0e175f94094e5aa33d313d"/>
+    <encoded_png char_offset="105" justification="left" link="" sha256sum="b5b109b1ba2f21e6d1d1a59eabbde773640641fea956745d37adb8b9e001d39b"/>
+    <encoded_png char_offset="258" justification="left" link="" sha256sum="a809918b3dad0cb3aadcce20e2f3a381c617da6c9e31a003b7fbc160cad7494f"/>
+    <encoded_png char_offset="311" justification="left" link="" sha256sum="d8acad319ea5825402235b2283f27a6edaea792004754daba6307610152fcf37"/>
+    <encoded_png char_offset="367" justification="left" link="" sha256sum="661b8ff525fa2fdafaa4e17ecdc74eae325e5d82b64948f474f502dfcbd5d977"/>
+    <encoded_png char_offset="372" justification="left" link="" sha256sum="6a140a0c4971c3bdb95f9477c495a6ea430bfff7ebda17484da3311fe4bbb51a"/>
+  </node>
+</cherrytree>

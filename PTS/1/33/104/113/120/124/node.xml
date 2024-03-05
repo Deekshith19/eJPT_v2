@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Processes &amp; Cons Jobs" unique_id="124" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706554552" ts_lastsave="1706608737">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Cron jobs mean scheduled tasks.
+We are going to misconfigure the scheduled tasks to tget the elevated privileges
+
+
+
+Unfortunately it is not installed in the target system
+So we switch to our system to see the output
+
+
+Which means there is no scheduled jobs for root
+
+
+
+Processes releated to the root user</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="7ae99417b02163fde5038332f76196c6492a6a61e5a3d2d511f3fe2fa6a073a7"/>
+    <encoded_png char_offset="123" justification="left" link="" sha256sum="d8a64177c165fc80b0903cad2fc53cebe5eb1bc82fd5d7623ab735f5999cf13f"/>
+    <encoded_png char_offset="226" justification="left" link="" sha256sum="b75b147301a09fdee26833c4a1c763eb4b2a3e5a58effd321c3d934470ea943a"/>
+    <encoded_png char_offset="278" justification="left" link="" sha256sum="90f277beb6ea50fe493776d18f4d939cab51511745bab1f90090f3a4c6881178"/>
+  </node>
+</cherrytree>

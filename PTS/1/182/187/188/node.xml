@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nikto" unique_id="188" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707756079" ts_lastsave="1707757809">
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Found subdomains
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+Scanning the whole url to find any vulnerabilities
+
+
+
+
+Here we got some url of the /etc/passwd
+
+After going to on one url, we found the below	
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> To get the gui of the search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+Following is done on lab
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="7c4b9f34693f13f0c371c08f31c22bb1148fa1182a192a2070992994d155de34"/>
+    <encoded_png char_offset="10" justification="left" link="" sha256sum="69528c0db018d2e2794339b36d6fc1bbfc560e66520e9d54c147861b8615d913"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="0ede7699ba6ada9e30190a00bd0afb7543c805c258374870115e286bf2fbb73b"/>
+    <encoded_png char_offset="40" justification="left" link="" sha256sum="3bc4a69d088811799bd2b14f8449424c79693f92d439a75e1ce3653232e4f8fc"/>
+    <encoded_png char_offset="43" justification="left" link="" sha256sum="e5d7b4e5532aeee1e469be1b65559e9303125f1ea7ec2ccb1264a7b690e77bdd"/>
+    <encoded_png char_offset="99" justification="left" link="" sha256sum="fd9a0a4ed19d3ab2b011460b5d84665ce089b775faf7f7c24dd9203878bbdfe8"/>
+    <encoded_png char_offset="190" justification="left" link="" sha256sum="9cbb46ed1297252ea2bb6fec7e8cfbc1f178a92b328aedd63480e2e6448657f4"/>
+    <encoded_png char_offset="231" justification="left" link="" sha256sum="e6a792d85221edfc50748d1348c58732b56d9c310345dc9f4a6e84fb7c9aea9a"/>
+    <encoded_png char_offset="235" justification="left" link="" sha256sum="119e27c5a2a1140e82dbd0243b6c94a52fbd59110e8d45e44a2e26a6ffd4d865"/>
+    <encoded_png char_offset="238" justification="left" link="" sha256sum="a5ec94dce1555c22f9f3cc11284cda2fb6c896e6aaf1f623ae57f3893f1b65a1"/>
+    <encoded_png char_offset="276" justification="left" link="" sha256sum="ddd00ad3e2e6ab92572fc031df373d02a3df51a2a37b3971c40c6583801f3e0e"/>
+    <encoded_png char_offset="279" justification="left" link="" sha256sum="a65fe6936740420d60b9669c664aaffbab86f340baa1da5b332c0740c010be47"/>
+  </node>
+</cherrytree>

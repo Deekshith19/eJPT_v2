@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="EXAM" unique_id="215" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="110" is_bold="1" foreground="#57e389" ts_creation="1708320728" ts_lastsave="1708460508">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">10.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">11.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">12.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">13.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">14.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">15.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">16.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">17.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">18.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">19.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">20.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">21.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">22.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">
+23.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">24.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">25.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">26.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">27.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+$S$DZcGD5qcb6xso1E/Mu6DJP4uPi5DfY28kBEyuIab8Pod1saBaImN
+The above is hash of dbadmin
+I cracked it and tried xfreerdp with dbadmin. The obtained place is root having same password as "sayang"
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">28.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">29.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">30.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">31.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">32.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">33.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">34.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">35.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="00172c2b1e60743a3eda6d7491adb9c53e30065170fd7605553da3b3522f0ab3"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="b9031f510f9e224ad60c9e8d86eb3d8bbfe641777920686eb3ce7c31437c70db"/>
+    <encoded_png char_offset="18" justification="left" link="" sha256sum="4acfb4d84e47d4b29089c7bdbbfc7a7b54c7cb3236bb7ed95ef9a96b179be590"/>
+    <encoded_png char_offset="21" justification="left" link="" sha256sum="9840c6bc93d19084f635e19514c7aa6ab197d5e2a023ac2f2e884f92c2eec9fe"/>
+    <encoded_png char_offset="30" justification="left" link="" sha256sum="79a3f342752c078231624bf498967bd650513da646b6661a84a92f374b5f2be9"/>
+    <encoded_png char_offset="33" justification="left" link="" sha256sum="894eb5ca161b7b8a55d325a70c10f75637ead55e6c6af39e37b143384253279b"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="dfcac0aeafbdc3aac6a43fc020b5488ad3eb2c50aa61aa135a0cd9b02a1e2d7f"/>
+    <encoded_png char_offset="47" justification="left" link="" sha256sum="a0145c1e0e03417495e5a118604000f86eee9249f0ec8a0d36abd44fc2845aff"/>
+    <encoded_png char_offset="50" justification="left" link="" sha256sum="631932a39ac2f8673fcd89632496e9a916bf9d511f4369393181645ad86719a2"/>
+    <encoded_png char_offset="61" justification="left" link="" sha256sum="75ce3db4321d9343aa1139ffc320a87cf9e94ed1903903b0f09d6a2b6db55787"/>
+    <encoded_png char_offset="64" justification="left" link="" sha256sum="6d6a5f5409c3757c4d241c405f571137a32aee13f41cf419578dea6d269fad5f"/>
+    <encoded_png char_offset="67" justification="left" link="" sha256sum="3e791ea866b6aa4b1a12c4ccfa78f6bad22b9c446b02628e7282339774ea15bd"/>
+    <encoded_png char_offset="78" justification="left" link="" sha256sum="741fa29f774ecb5bc9a9638f9d91ad288a4a456fbe83f53eea5ad5f3cc8a66fb"/>
+    <encoded_png char_offset="82" justification="left" link="" sha256sum="d5b0431d4153b01693c1034d2add6510fa751bc097fd4b302bb467733e07f7a0"/>
+    <encoded_png char_offset="92" justification="left" link="" sha256sum="72a581936c599608a1be13ea55fef15c3706920d1d790cee29773e20976d5604"/>
+    <encoded_png char_offset="95" justification="left" link="" sha256sum="5ac0535347dcba9fc017d6b67a983caacd3c34cf7d2137b8fcb04719a270ca9a"/>
+    <encoded_png char_offset="107" justification="left" link="" sha256sum="68d445ef23037edfd82ea30580f35d0cdede30a04d93b3f31d33da48f2686fc7"/>
+    <encoded_png char_offset="110" justification="left" link="" sha256sum="03f869aab602ab3002e173fb9142bad6e802e33cb26bfb9cf3909df5eb49ef99"/>
+    <encoded_png char_offset="125" justification="left" link="" sha256sum="3b4d3cc59107b431717f7d680b07e9071d5b877dd9b955b521f00859c678d6a4"/>
+    <encoded_png char_offset="128" justification="left" link="" sha256sum="22b9fd1f2bf2924fd2bb0ce84f5859bf75bbb4f60cc9a5c451d5124942375440"/>
+    <encoded_png char_offset="139" justification="left" link="" sha256sum="8350022040589691696c7a4907064489ae26571438a54abb433818016b775d7b"/>
+    <encoded_png char_offset="141" justification="left" link="" sha256sum="19a134af44000bbeefed2e48c486f896382a16d5a49fcd5251f2d9773d35cdff"/>
+    <encoded_png char_offset="149" justification="left" link="" sha256sum="c16c6c605294565a9de0d67bed2d64092d3eb59711c922a0c1c20e2cd2f49b8e"/>
+    <encoded_png char_offset="151" justification="left" link="" sha256sum="4629cb9fca5900a3dcdad99a586566ec6932ec7461629c933cd08aa0e894ee98"/>
+    <encoded_png char_offset="154" justification="left" link="" sha256sum="efe9b23a6897e0f09a7e1d55991c3af111be6eecc216ee46e84721600c5ee28a"/>
+    <encoded_png char_offset="166" justification="left" link="" sha256sum="40f1c2e00402f3e3a04a12ebe1e61e71f49eaebd7726fd226503537238ff79b4"/>
+    <encoded_png char_offset="169" justification="left" link="" sha256sum="8f3d0018145a91f1428bea65eeb00ad4c1a4e93cb42110560f7c7cdf2a715ac1"/>
+    <encoded_png char_offset="178" justification="left" link="" sha256sum="f8f36eefb5e44d8fdea38dd749ba0ec69d8f9a86842c872e158ebf1011f1dd93"/>
+    <encoded_png char_offset="187" justification="left" link="" sha256sum="122116fad30a70393752bc881e16fc1421a8554002c21cfbdd9701f83639d616"/>
+    <encoded_png char_offset="190" justification="left" link="" sha256sum="84de5f63d9f950fba6b70a24950a054032f245e40d070ecf8a1df6592d706c50"/>
+    <encoded_png char_offset="200" justification="left" link="" sha256sum="352f229885f7bc8adf1c48a84a8de68f96a9b146cc7f59591a1c4ea11f25c9fa"/>
+    <encoded_png char_offset="203" justification="left" link="" sha256sum="271be2cd1aaf3fa9b30a4ad92686611227ed60d261d97ad29363e370dc25b44e"/>
+    <encoded_png char_offset="214" justification="left" link="" sha256sum="3f074a3ffc741d5111e628b3188c7bdd3b73d4a1b3e215fc75a89fc08673c3f6"/>
+    <encoded_png char_offset="217" justification="left" link="" sha256sum="d59d57ea0e78deac33af3040701fb10b830d175047f0bc163e0caa82ebc96ef1"/>
+    <encoded_png char_offset="220" justification="left" link="" sha256sum="92b73e644d95c1324874111a745899474504b956d33f98bde0cd8a77e312eed9"/>
+    <encoded_png char_offset="229" justification="left" link="" sha256sum="b7bdec4239b3671fc1eea16972a674979cbb4c41f65145d0e66c177ea76f28b7"/>
+    <encoded_png char_offset="232" justification="left" link="" sha256sum="7eb7d639ea8eff195b744422f01d51f6913d75a7324030f1a64fdc2de0b5ed70"/>
+    <encoded_png char_offset="243" justification="left" link="" sha256sum="aed3e0d2249d55f2e37701ceed8a370904e2521d2e7ac79e3a559bcdb7ef6201"/>
+    <encoded_png char_offset="246" justification="left" link="" sha256sum="ef0e5c0e6a18f327d9fdb2ae6205a28347e63d1a27cc54a5371367832a9cc3aa"/>
+    <encoded_png char_offset="255" justification="left" link="" sha256sum="1cd3c3242ba0a82306c54dcceface8908147fe0b77adef3295da45f8ba59a8da"/>
+    <encoded_png char_offset="258" justification="left" link="" sha256sum="c745a7adbc5162c6ab24e7d148ba2de41b803eb292d8c2bd981ab03eae8a6b09"/>
+    <encoded_png char_offset="267" justification="left" link="" sha256sum="22d1cd60da1c9c7f7898c16648e2229bc74307462714e6ea764e08958d916d48"/>
+    <encoded_png char_offset="277" justification="left" link="" sha256sum="7a74126e017ff2b73e72d9db41d486996804ac8ec8e72fd0f97e5829a34466c7"/>
+    <encoded_png char_offset="280" justification="left" link="" sha256sum="fa29c9fb78ab3eea6eccfbdcc714cbfef2b334afa0e01ed810055fae052dbf0a"/>
+    <encoded_png char_offset="289" justification="left" link="" sha256sum="c30cc582d75471e36f0698d821050376e0e298f71beeec8f1634316fb0a1e6e8"/>
+    <encoded_png char_offset="292" justification="left" link="" sha256sum="e0a8c7af12b2e29ba8db98a3ccd127f797afa2dd577b3e850b89a21c7daeec35"/>
+    <encoded_png char_offset="302" justification="left" link="" sha256sum="045c00207359c471f638dc83c71eaea3914e37150b53fefa857998cc24b0a649"/>
+    <encoded_png char_offset="305" justification="left" link="" sha256sum="4c5b492afb003b1f23f826ed6d9a884713d38d2f65072c09d9ca70c655bb2c7a"/>
+    <encoded_png char_offset="316" justification="left" link="" sha256sum="94535cfd7e90a2b37cfe7a4a5775b3c15bec1b5b91d391a40974182350ec81aa"/>
+    <encoded_png char_offset="319" justification="left" link="" sha256sum="6196f6ba1e5b9dbc641c1d10cff505fc512a57ceb5c1c09e72e694080a3c93c1"/>
+    <encoded_png char_offset="328" justification="left" link="" sha256sum="f65321290e03de2fd5794253008f0e46f6e9f2cc7141f2ebe454c23671167e10"/>
+    <encoded_png char_offset="331" justification="left" link="" sha256sum="8a6abc3b0b164f30887ecf8623a977e4da77135f654331c31fc94799fa5ab9c2"/>
+    <encoded_png char_offset="341" justification="left" link="" sha256sum="5acd8c91b028ce9e14b1989b9784c5c8556039e3b78a7dfa8b61f1a8bf90379e"/>
+    <encoded_png char_offset="344" justification="left" link="" sha256sum="54f36709a1be2e8a63d750557987f1701b13c3da47cdd7bda26cc194c8c9f575"/>
+    <encoded_png char_offset="353" justification="left" link="" sha256sum="7417bfd072324401aab064cef01c679253977c90c7d622a59a4ba420e955203e"/>
+    <encoded_png char_offset="547" justification="left" link="" sha256sum="8445f83d84d202e161b7deecf1f8323b03d72483ce66e1e8ebdfd43d29dc3f8a"/>
+    <encoded_png char_offset="556" justification="left" link="" sha256sum="aeaf626e5e913cbcd531b73aa233f90397c0f9c456de4c2adfd616a6647ce167"/>
+    <encoded_png char_offset="559" justification="left" link="" sha256sum="528df536aae8f4430d59271ba71aca2f996d844dc64ee692a75cd7fbf7ad951c"/>
+    <encoded_png char_offset="567" justification="left" link="" sha256sum="696dbcfd6cee69204b457622ed0cfce10d1a6629718b7dfe08414f49b006d288"/>
+    <encoded_png char_offset="570" justification="left" link="" sha256sum="719d19c4d5bb8703d3032dea37c52760e7e6dc386611752c5d18c0fc1f33c917"/>
+    <encoded_png char_offset="573" justification="left" link="" sha256sum="0985ebea3e188e0d3fe25dd8d5c451109335d03a16d4875be16e0ac87cf46287"/>
+    <encoded_png char_offset="583" justification="left" link="" sha256sum="38c7b34e926c65dbd0bea22542b4cd0c66266ce214d22febd3829c0fa0a4fe28"/>
+    <encoded_png char_offset="586" justification="left" link="" sha256sum="412fae19dee4ddc496f5e047df0d0d26b0f2b82a98c27bfba2dfa818b046149f"/>
+    <encoded_png char_offset="595" justification="left" link="" sha256sum="ad3289e999c66c9895c1c9894c6748af1726308abc24c1816ee253e06d92ba26"/>
+    <encoded_png char_offset="598" justification="left" link="" sha256sum="778af5f14132bac0bcbe6000b3eff4591d5b60e78967d15126a4eeb5834125bf"/>
+    <encoded_png char_offset="607" justification="left" link="" sha256sum="ccd0ade8e5cf5790a08409e086d00db7732a1b5ee53156792ab3b214e897299d"/>
+    <encoded_png char_offset="610" justification="left" link="" sha256sum="0a972b2fe2d8b48c9ce3f8fba3587216b996c12da5194713f05fe0b0c21e988f"/>
+    <encoded_png char_offset="619" justification="left" link="" sha256sum="cedb3195145ed4da1a8087bb25de5bb8bf4cdaced2daf4ec1d6588459a9e2f2f"/>
+    <encoded_png char_offset="622" justification="left" link="" sha256sum="290150180003faa58562df4b6800cf28761ed1397596f4e4e1dd563b7c0e86da"/>
+    <encoded_png char_offset="631" justification="left" link="" sha256sum="a3ea810b0e53cbab1de32a58385712898ac8d0abe8b3aa00875d074c42d44a10"/>
+    <encoded_png char_offset="642" justification="left" link="" sha256sum="7c7ace27e6049d3fac460f9f8aea168a59a08b083eb27e0074ffb647ab39fd86"/>
+    <encoded_png char_offset="645" justification="left" link="" sha256sum="e970a8c0f19d01c2e9d10c98ac150f9f4d54babaffcc03bcc85d1a3099de695e"/>
+    <encoded_png char_offset="648" justification="left" link="" sha256sum="7a613053f5c75e99090c26c0660fd74cd15edaaad9fb7c630db05d5d9f6d2d99"/>
+  </node>
+</cherrytree>

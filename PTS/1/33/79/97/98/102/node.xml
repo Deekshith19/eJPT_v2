@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMB" unique_id="102" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706206794" ts_lastsave="1707416015">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here they obtained pssword for administrator of smb server
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Also they are enumerating the password of vagrant user,, which is  also vagrant(password)
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Now we are trying obtain the shared files using a tool called SMBclient tool
+
+(SMBclient is tool to access shared resouces on servers)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+However we failednto obtain the resources
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+(This share enumeration can also be done in metasploit)
+ SMBMap  allows  users  to enumerate samba share drives across an entire
+       domain. List share  drives,  drive  permissions,  share  contents,  up‐
+       load/download  functionality, file name auto-download pattern matching,
+       and even execute remote commands.
+       
+       
+       
+       
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Enumerating all other users on the system
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Users enumeration can also be done using msfconsole
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+psexec.py is tool that allows to login to remote server via smb
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+We can also utilise SMB/psexec module in metasploit to do the same
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Now we are going to login without credentials  by exploiting eternalblue vulnerability.
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ 
+ 
+ 
+ 
+ </rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> The following is done on the lab
+ 
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ 
+ Flag retrieved
+ 
+ 
+ </rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="ff4f64570f8b0e7e117d489d5e0468e91b5655b4779e0577a482b2604fe6324d"/>
+    <encoded_png char_offset="66" justification="left" link="" sha256sum="742a9d06f1cdf34df303a2086dad80340acc2eb29d3c38556b3f36e10ac3afe5"/>
+    <encoded_png char_offset="301" justification="left" link="" sha256sum="ea9066600237440caba8fc6421c4a2c42579fc91ca225b9082dd2f1ae4548d58"/>
+    <encoded_png char_offset="348" justification="left" link="" sha256sum="573e8a5702556d1d86f7501ca22d588f611cd8bc7cef9dce73131e51d5dc1335"/>
+    <encoded_png char_offset="756" justification="left" link="" sha256sum="f70f52d8aa5384f556f5383b4d3dfcac40a2253478f9787b4f97e4afe233b5c1"/>
+    <encoded_png char_offset="759" justification="left" link="" sha256sum="e1b86f00556b078d5108ef59f985124978ac356a9276d309ff2719c69a2fbd6d"/>
+    <encoded_png char_offset="762" justification="left" link="" sha256sum="31eb1dc7ac658a1df8c1f811e22a3d0fafccb56c3c9ce888385c91936a848fc2"/>
+    <encoded_png char_offset="818" justification="left" link="" sha256sum="16b7462d3ef72dc3157ffb715e822bcbabc51c0b244d20fc64ee99b02dfbe27b"/>
+    <encoded_png char_offset="825" justification="left" link="" sha256sum="9b865887c1705ba6f7ab783e875eb7227da539ce72bff28c10f6aa0b072b6edd"/>
+    <encoded_png char_offset="892" justification="left" link="" sha256sum="a92d0fd26566608ceab590c415cce009f7be2ccb40a9f4058498311d99034402"/>
+    <encoded_png char_offset="964" justification="left" link="" sha256sum="d7d1c056e828549c66fbea44f58e57d3b44cc6e6b0cd07ba307f0e9a6b0616aa"/>
+    <encoded_png char_offset="967" justification="left" link="" sha256sum="66c98e2334515d6d03d27b802e824335cc9ec099f73752283bead9e3b90045d4"/>
+    <encoded_png char_offset="1067" justification="left" link="" sha256sum="68391f3a2375ca8237b8322e5e72ec1ef9fb113be64806296431c353bcd59963"/>
+    <encoded_png char_offset="1123" justification="left" link="" sha256sum="d733b1e95b6ed8f3d3aa97259054342549cd317633abdee1566781eb55dea6e4"/>
+    <encoded_png char_offset="1132" justification="left" link="" sha256sum="b2ac019a18607e81c74b0096b3fc8d77c796a18d90288980dee0c6aeeec49d11"/>
+    <encoded_png char_offset="1137" justification="left" link="" sha256sum="ba2b86f2876677e883d53b07e633c75cf4a79c7b4f67a6269e4f3d875016a9c1"/>
+    <encoded_png char_offset="1144" justification="left" link="" sha256sum="91377c802cc12fa58e0d710964840529ebaf9369c08a556498620867b0187795"/>
+    <encoded_png char_offset="1149" justification="left" link="" sha256sum="d2983d0b7191ba62547d66ae43db2ae214c117318abebd3011c5c60a5e1d95a8"/>
+    <encoded_png char_offset="1156" justification="left" link="" sha256sum="71800ddbabba5982f67e2f718cba34ad5c530b59e4e809fb17e5d80c6a538c27"/>
+    <encoded_png char_offset="1179" justification="left" link="" sha256sum="7d5eec69e1c1a2ac61402475c569cba52b46a6f9b99e12254fdc4bd2ed05b1c7"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Fundementals" unique_id="38" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704277033" ts_lastsave="1704372007">
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> ‘show’ command is used to view various parameters
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> ‘search’: to search any modules or any other in metasploit
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> ‘use’:  To  use a particular module.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">6</rich_text>
+    <rich_text>. Setting Rhosts and ports for scanning
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+</rich_text>
+    <rich_text weight="heavy"> 7.</rich_text>
+    <rich_text> ‘back’ : for going back to deselect the module
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text>  Searching cve's
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text> "session" refers to a connection or interaction between the attacker's system (the Metasploit framework) and a compromised target system. When an exploit or payload is successfully delivered and executed on a target, it establishes a session that allows the attacker to control and interact with the compromised system.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">10.</rich_text>
+    <rich_text> Connect
+11. 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> 
+
+
+
+</rich_text>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="87605b8f3a4d995e445de08047635ec216684ee33202b158c3e04a45c7e3fcc9"/>
+    <encoded_png char_offset="9" justification="left" link="" sha256sum="58169c7777812c7161011873082261742179ee6239f16908bf99c0c9cd7eee8a"/>
+    <encoded_png char_offset="66" justification="left" link="" sha256sum="0a4fcae61b3e5c6a26c9ce7ded1ab31a0655a9bb5076c41fcc6d2e09cc6bffbd"/>
+    <encoded_png char_offset="69" justification="left" link="" sha256sum="c5dfe0064f57e9d2c8ad0f4b0ad3168a122bf4e8d7c7444e341d46498b6ec419"/>
+    <encoded_png char_offset="135" justification="left" link="" sha256sum="4850018e988378e1595997ae7696bc3ed4a58e0881d699f26e8d6475011dd05e"/>
+    <encoded_png char_offset="138" justification="left" link="" sha256sum="76b910246c8ba25e3f1bdb69a0a3c099b7993e6b8852e2820784cf169e867eae"/>
+    <encoded_png char_offset="181" justification="left" link="" sha256sum="5fef34ee58c06302b3b353b651e913ace2654e9b4c5f15e262d7a8f5717c8223"/>
+    <encoded_png char_offset="226" justification="left" link="" sha256sum="58756ee7a58bc752f9ceeccfbb62aaf50297ca3191376c1591e557246693fcd8"/>
+    <encoded_png char_offset="231" justification="left" link="" sha256sum="367e6e3a5506aa08398074131a17635c4d2655e826e7238017290febc69d2904"/>
+    <encoded_png char_offset="289" justification="left" link="" sha256sum="ac0653102f86e6aed8cc1e0017684ffcbf7b8383ba5779a52d73153e4a9cecfd"/>
+    <encoded_png char_offset="314" justification="left" link="" sha256sum="8f7b754146fe9ccbc4bbd89825a1764cb16524b7dac20270de0b2e001c19b6f9"/>
+    <encoded_png char_offset="645" justification="left" link="" sha256sum="f790b7a5ea2d2f8dbbb39a42b1acbc4937dea00f4bf2fdf8eb6bc23a31003c2d"/>
+    <encoded_png char_offset="666" justification="left" link="" sha256sum="791bfeacd26ed8dd8bfa0ed11ca486c0283c4dab7ae648f97b99d17c0ed0c2bd"/>
+  </node>
+</cherrytree>

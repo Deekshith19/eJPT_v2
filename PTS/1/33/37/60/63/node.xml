@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Linux" unique_id="63" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="115" is_bold="1" foreground="#cdab8f" ts_creation="1705213470" ts_lastsave="1705742068">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+a. To view the configuration files  : enum_config
+b. To get the environment variables: env
+c. To view the network configuration : enum_network
+d. Antivirus check: enum_protection
+e. Gather system and users info and installed packages: enum_system
+f. To check the system is in a container or a VM : checkcontainer and checkvm
+g. To view all the users history: enum_users_history
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+Exploit the samba vulnerabity using the samba pipeline exploit and get the session
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+And then upgrade it to meterpreter session
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> To view the configuration files  : enum_config
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> To get the environment variables: env
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> To view the network configuration : enum_network
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> Antivirus check: enum_protection
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> 
+ 
+ 
+ 
+ </rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text>  Gather system and users info and installed packages: enum_system
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> To check the system is in a container or a VM : checkcontainer and checkvm
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text> To view all the users history: enum_users_history
+ 
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="852b3c2978ce147ce157485a5912413733af4f9a240d33985f69e3b6d31d9eef"/>
+    <encoded_png char_offset="474" justification="left" link="" sha256sum="1569767ce07e391d2d87e1ba43dee538f8eecb8cde07873f6346e6778eb53e4e"/>
+    <encoded_png char_offset="572" justification="left" link="" sha256sum="be35d7bb217832ab0aa88e754cf7224633cbe5aca145832b297c8527d86adfa9"/>
+    <encoded_png char_offset="575" justification="left" link="" sha256sum="892e8d257995cae07ce5f0fec1254dbf4dcfb1d33055d43a0ae20228e733b038"/>
+    <encoded_png char_offset="622" justification="left" link="" sha256sum="090f7a606e8106af318f54636186901ea8387d026d9fe8e5a8989fa25afda6a7"/>
+    <encoded_png char_offset="680" justification="left" link="" sha256sum="477a4dfa44f8a35fdac9508a600d641fa19d7f78a0978e83d09abab1396a3cd0"/>
+    <encoded_png char_offset="683" justification="left" link="" sha256sum="fb1478068d1e21255e977c572fadc44190f486343541c7cb5045ebaa880f2373"/>
+    <encoded_png char_offset="686" justification="left" link="" sha256sum="1eda53abde8da73ddde26e49aa2a82aed85ecd55c4676a0aa435c410023de232"/>
+    <encoded_png char_offset="729" justification="left" link="" sha256sum="2154c77c085ea2deecb9d53b0b8d5fc949c8641dbe1fc409d1aafb05f316bfbb"/>
+    <encoded_png char_offset="734" justification="left" link="" sha256sum="54055bf5524d2586ab777ea1ff11efeccbe0ea69820d920ddcd29793c6a8bca7"/>
+    <encoded_png char_offset="816" justification="left" link="" sha256sum="0365e63df626fbac8014e67d9cbc6a6c8f92a4c1b1a097b1ad1e6b015a3b93db"/>
+    <encoded_png char_offset="819" justification="left" link="" sha256sum="6efb2cc0cad718bf0a31afa25fcc132c53c2f75b04aa785887e350daa4d2ff1b"/>
+    <encoded_png char_offset="905" justification="left" link="" sha256sum="488b83eafd97dab90aef4d7c50a4fb4f5ae2367cfcd9a511203f78c65b938240"/>
+    <encoded_png char_offset="908" justification="left" link="" sha256sum="1322a3bc777b144dca5676b666f770010d6a42a10ee8a93d5237b0cd52efab1a"/>
+    <encoded_png char_offset="912" justification="left" link="" sha256sum="3508c6baa110c2c3a53c535e240ca2ba1026cf7377f0ebda0026a58bf5e449f0"/>
+    <encoded_png char_offset="974" justification="left" link="" sha256sum="c045ca9e22aaff614eeed2a8bb913e4b99ec1d32f57fc2ea410bc4419cdba38e"/>
+    <encoded_png char_offset="977" justification="left" link="" sha256sum="9818c8ff9b3a346deede52e058c6392cc509bbfc1b4de9a60ae4984028228790"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Http Enum" unique_id="183" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707680153" ts_lastsave="1707681440">
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>All those curl things can be done using burpsuite
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Change the methods (GET, POST, etc) to get different response
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+
+We can also change the location to where ever we want to , first I chwcked the response of the root directory then now the login.php
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> 
+
+We can also create files in the web 
+
+
+
+Here we created hello.txt with content “Hello World” and also we need to assign the length of the text in Content-length
+
+
+
+
+Using GET request ot view the content
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+Deleting the file
+
+
+It shows like that
+
+
+Content got deleted
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="c52f900e41d68a7f87d9e83ce74b90e720b38213bc334baf551b7e459b2ea66e"/>
+    <encoded_png char_offset="14" justification="left" link="" sha256sum="a74f177abea7b9c0518957b0fb6516feafc3ad60e87d16818ab437fd3109a19f"/>
+    <encoded_png char_offset="20" justification="left" link="" sha256sum="2fdacfccaf4015bf022b04c38a1a34113c7fadef86cd9ed013d30dd955e3f816"/>
+    <encoded_png char_offset="24" justification="left" link="" sha256sum="eb87f39e68a0d8bca5dfac8a91cbee9ec591d3c0747f3b3a633d3e644e43fd93"/>
+    <encoded_png char_offset="83" justification="left" link="" sha256sum="bef68c1c90d6b40aa3a7b891716e4fb868dafd4a1b1d0d0622e0bc6fd79f22a0"/>
+    <encoded_png char_offset="150" justification="left" link="" sha256sum="a3d08a2f10c6897f3b2b1e898ff732a4d996668b0d84af7ef25aa82675a3a8da"/>
+    <encoded_png char_offset="155" justification="left" link="" sha256sum="a7172037aca1b18631e12660c7616cbf8e70c821bc71e62d25d9cfbcd9d03e15"/>
+    <encoded_png char_offset="298" justification="left" link="" sha256sum="6ba6d7f710578732329ec9af85282ad5f91151a5548e83f2654781cfc0384407"/>
+    <encoded_png char_offset="348" justification="left" link="" sha256sum="649cb6c1ea36c5285316358323456c73ddc71c3c49d785ca082e853f08e5b0e5"/>
+    <encoded_png char_offset="473" justification="left" link="" sha256sum="183e212cd295ae2a7bbab3f64412f944de0a3169b4700b31833d83b8358ee701"/>
+    <encoded_png char_offset="516" justification="left" link="" sha256sum="39314e1d6590f49b23686839e43708e62ca46204bd616a745112404d030920d8"/>
+    <encoded_png char_offset="545" justification="left" link="" sha256sum="8130c9780f407df0b67bdffedc03fe3eb5f85f272059077230cb29ce782a1f84"/>
+    <encoded_png char_offset="588" justification="left" link="" sha256sum="93f5ae22deba336ce657b02b1aab8913b1afe111f026f74ed01fe907ba9aec04"/>
+  </node>
+</cherrytree>

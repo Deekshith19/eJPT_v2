@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Case Studies" unique_id="167" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707138134" ts_lastsave="1707156291">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Heartbleed</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Eternal Blue</rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left">
+
+
+</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> log4j
+
+It is a library used for logging in java
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+84% of java applications used log4j earlier
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="2d2cfc25b97e8b891ec81163772af774932f68b94c1ff65c5c2023cd5e79892a"/>
+    <encoded_png char_offset="24" justification="left" link="" sha256sum="d6fea48ead1fb12e5df2153dee635f316eda379c964012535edae50031d64157"/>
+    <encoded_png char_offset="27" justification="left" link="" sha256sum="1119060c7bfc9548f14d3678e550b09c581e7c9b7fdc732d1a0ae16bc7933843"/>
+    <encoded_png char_offset="52" justification="left" link="" sha256sum="5b4018f3c994f9524e582fdb4b746678241c82ea01048c7ad480839b0c5bc9f1"/>
+    <encoded_png char_offset="55" justification="left" link="" sha256sum="58f82edf74c43ea1e156808f2c350de592707b7073e6f41c0e6206f98d367f4f"/>
+    <encoded_png char_offset="58" justification="left" link="" sha256sum="b7163aea16c874fff73207c17cc1d69a2ce973bbbafed8936b264162e2340f07"/>
+    <encoded_png char_offset="62" justification="left" link="" sha256sum="bcc055e783c74908c3d0ee8f042a99bf6c184500d5775d5c7822512c4f3cb205"/>
+    <encoded_png char_offset="66" justification="left" link="" sha256sum="a60671f447dff7adabef1c7bf6e8d0383c037082606cc1c078ef118bec3c0027"/>
+    <encoded_png char_offset="127" justification="left" link="" sha256sum="90132fc9ff26b8642de7ebae9b67a96d2144b3889cf6d68655104d061309329f"/>
+    <encoded_png char_offset="130" justification="left" link="" sha256sum="3c2ef35d42a0609a343b85a7b48fdd9e4e7634d0cddf21b90940073084d2f84b"/>
+    <encoded_png char_offset="133" justification="left" link="" sha256sum="9b00222455e8c02bf5208f607a142b3501425c166f243f1ba4056c3b8c624ea7"/>
+    <encoded_png char_offset="138" justification="left" link="" sha256sum="0e5a6a7c992be5753fd9b1d5e912bc6c942379a712cf7868510a9d0d5dfd868b"/>
+    <encoded_png char_offset="188" justification="left" link="" sha256sum="d8f168af8976768e9b59635b4df40fe82bd732ca9cc0a29c9c05fed34d842680"/>
+    <encoded_png char_offset="192" justification="left" link="" sha256sum="6c3fb7585f487a177afb31a78c27554035b9b6b9b1240bffec7990e6a086a8f6"/>
+    <encoded_png char_offset="196" justification="left" link="" sha256sum="47ee4ff91d19ff9fe74123c18819ee39c846be2c8d317cbe491fea28f98fefa6"/>
+    <encoded_png char_offset="199" justification="left" link="" sha256sum="7ed22f6643c827adca967244c6d814d4f0fe1575c0dd1120ad64897a2ceeab8f"/>
+  </node>
+</cherrytree>

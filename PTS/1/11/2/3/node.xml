@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Passive Information Gathering" unique_id="3" prog_lang="custom-colors" tags="Passive Information Gathering" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="200" is_bold="1" foreground="#99c1f1" ts_creation="1702453234" ts_lastsave="1702630762">
+    <rich_text>
+1.		</rich_text>
+    <rich_text link="node 4">IP addresses</rich_text>
+    <rich_text>
+								Host
+								Robots.txt
+								Sitemap_index.xml
+								Whatweb
+								Httrack
+								whois
+								
+2.	Directories Hidden from Search Engines
+3.	Names
+4.	Email Addresses
+5.	Phone Numbers
+6.	Physical Addresses
+7.	Web Technologies being used
+</rich_text>
+  </node>
+</cherrytree>

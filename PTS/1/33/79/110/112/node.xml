@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Obfuscating PowerShell Code" unique_id="112" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706456426" ts_lastsave="1706458522">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+Clone this repository to our system 
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Then open the powershell and go to the cloned directory
+
+
+Then import an obfuscation module
+
+Then we call the invoke obfuscation
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+Copy a powershell code
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+or generate from the reverse shell generator
+And then save the code into a text editor
+
+with an extension".ps1"
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+Loading the file
+
+
+
+Now we encode the file
+
+
+
+
+
+Then after selecting 1st option
+
+We got the obfuscated code
+
+
+Other wise we can select other option 
+
+
+
+After configuring the required options
+
+
+We'll get a new obfucated code
+
+
+Save the result into a file with “.ps1” extension
+
+
+
+Now like we done earlier , host the obfucated file in a server and download into the victim system while the netcat is listening in the attacker's system
+
+
+
+
+
+
+After selecting and executing the file, we got a reverse shell(powershell here)
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="409cb3ca1d395e4872f93a579c4c312239e8beb980e9b3886c414ee5811a6ed6"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="b36734533f565bb5015f5d3197280f36a569a695d09a916cc502b8e64d12a410"/>
+    <encoded_png char_offset="11" justification="left" link="" sha256sum="ca83db65e6e4bc34221f988cf59b2eb047557ff84785a4c4ccb18f07caa82283"/>
+    <encoded_png char_offset="50" justification="left" link="" sha256sum="d60a6ce8d3d4fd539b65efb974fea0c87518f6b4dbc588c5583c94321c5a9e71"/>
+    <encoded_png char_offset="116" justification="left" link="" sha256sum="1e944f2a291d22fff64dc077934a28deffd5ecb8723f8a34a2531652487b505c"/>
+    <encoded_png char_offset="189" justification="left" link="" sha256sum="7eab34784a987243baa2e4b89d8b6e8e176590bd9c4b38c02e2db91646156ad5"/>
+    <encoded_png char_offset="220" justification="left" link="" sha256sum="7ff1bba21fffb266243ef05a01883517a4bfb30b31a8c957ad6cc4dcdec343f7"/>
+    <encoded_png char_offset="309" justification="left" link="" sha256sum="5bb5ac1fce57e8d51472e7aeb54fd3211f588ee8769639e7d5951895c2a8b173"/>
+    <encoded_png char_offset="335" justification="left" link="" sha256sum="2e37d9fcce7f9484b2afa55ae811c8d720d2bf552a233c9d067ab801d6197a3f"/>
+    <encoded_png char_offset="361" justification="left" link="" sha256sum="97c51d96a45575fb671519d273a1e7f9d7932ca3ae230fd74b5394ea0c28edf7"/>
+    <encoded_png char_offset="388" justification="left" link="" sha256sum="8557e130d79fbcca93660c85e18e4c764703dd8f42ab126750ddcd75aaee6647"/>
+    <encoded_png char_offset="425" justification="left" link="" sha256sum="f6ac9bd2b49e22174121b6579c95707c15fc46aeee36ec5e012ad4cc8754fc90"/>
+    <encoded_png char_offset="495" justification="left" link="" sha256sum="ca506e3cbca583aecf5cb48d36ab6476784d8bbcedb888be54a0a647307b946c"/>
+    <encoded_png char_offset="498" justification="left" link="" sha256sum="7696dff040b6a6e97dc33ae11ff9ed1ed109d87ca7585bef21fb0a868c268673"/>
+    <encoded_png char_offset="540" justification="left" link="" sha256sum="74664aca023d3b2ca55c06060ceaabf4fdc8c7b0a343dfd6ab7cf9543000faa9"/>
+    <encoded_png char_offset="574" justification="left" link="" sha256sum="e3d88e21186eeed33810b146dd22efbfad368ae5b1a89e95e3cee0281086bafa"/>
+    <encoded_png char_offset="784" justification="left" link="" sha256sum="cbca81a5e2d1dfff23251a997a420c42e879bd92a57b83a94357c4003e84dd6d"/>
+    <encoded_png char_offset="786" justification="left" link="" sha256sum="b4cf0c614b0416a59145dea97bd2387f1b93b635d39a826ba5090825bdd2da88"/>
+    <encoded_png char_offset="789" justification="left" link="" sha256sum="ad44531e4e17339ade6b17d870ba0c6bf493d2c153d949f7f67fd6fbc3a83838"/>
+    <encoded_png char_offset="873" justification="left" link="" sha256sum="f81f927b5eeb48a327f2e01fa62de23de1f7ec9687dcbaad428780635f4cb5b9"/>
+  </node>
+</cherrytree>

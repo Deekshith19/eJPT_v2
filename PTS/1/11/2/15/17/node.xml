@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nmap" unique_id="17" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="37" is_bold="1" foreground="" ts_creation="1702801652" ts_lastsave="1704359336">
+    <rich_text>
+1. </rich_text>
+    <rich_text weight="heavy">Nmap</rich_text>
+    <rich_text> :
+ Network exploration tool and security / port scanner
+ 
+ Host discovery in the subnet.
+ We can discover hosts using many methods using flags such :
+  -sL: List Scan - simply list targets to scan
+  -sn: Ping Scan - disable port scan
+  -Pn: Treat all hosts as online -- skip host discovery
+  -PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
+  -PE/PP/PM: ICMP echo, timestamp, and netmask request discovery probes
+  -PO[protocol list]: IP Protocol Ping
+  -n/-R: Never do DNS resolution/Always resolve [default: sometimes]
+  --dns-servers &lt;serv1[,serv2],...&gt;: Specify custom DNS servers
+  --system-dns: Use OS's DNS resolver
+  --traceroute: Trace hop path to each host
+
+
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ The discovered hosts ip can be further used for port scanning.
+ 
+ 
+ 
+2. </rich_text>
+    <rich_text weight="heavy">Netdiscover</rich_text>
+    <rich_text>: 
+ 
+ It is used for host discovery in a network
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here the output is the upper section.
+
+
+
+3. </rich_text>
+    <rich_text weight="heavy">Portscanning with Nmap</rich_text>
+    <rich_text>:
+
+Windows server may block nmap scans, so use the -Pn flag.
+
+'-p-' flag can be used to scan all the from 1 to 65535
+
+‘-p 80,443,etc’ for  scanning specific ports
+
+‘-p1-1000’ scanning the range of ports from 1-1000 or else we can specify any range like this
+
+‘-F’ for fast scanning, scans fewer ports
+
+‘-sU’ scan UDP ports
+
+‘-v’ to increase the verbosity( ie displaying the amount of information). If I want more info to be played add the flag '-vvv' for maximum verbosity.
+
+'-sV' for getting the service version of open ports. There are also other useful flags for service version detection.
+
+‘-O’ for OS detection.
+
+‘-sC’ default nmap scripts on open ports
+
+‘-A’ Aggressive scan; combination of -O,-sV,-sC
+
+‘-sn’ no port scanning after host discovery
+
+‘-T’  paranoid|sneaky|polite|normal|aggressive|insane (Set a timing template)
+          You can specify them with the -T option and their number (0–5) or their name. The template
+           names are paranoid (0), sneaky (1), polite (2), normal (3), aggressive (4), and insane (5). The first
+           two are for IDS evasion. Polite mode slows down the scan to use less bandwidth and target machine
+           resources. Normal mode is the default and so -T3 does nothing. Aggressive mode speeds scans up by making the assumption that you are on a reasonably fast and reliable network. Finally insane mode
+            assumes that you are on an extraordinarily fast network or are willing to sacrifice some accuracy for speed.
+            
+‘-Pn’  to skip the host discovery phase and proceed directly to the specified scanning options. This can be useful in situations where the host discovery probes are being blocked or when you want to conduct a scan without waiting for the host discovery phase to complete.
+
+eg.)
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+A Kali GUI machine and a target machine are provided to you. The target machine is running a Windows Firewall.   
+Your task is to discover available live hosts and their open ports  using Nmap and identify the running services and applications.
+
+
+# nmap -sn -PS target : This sends ICMP Echo Requests and TCP SYN packets to determine reachable hosts.
+
+</rich_text>
+    <encoded_png char_offset="704" justification="left" link="" sha256sum="0a85dc2783d00a3ea63a91b79e665fc888c62d5ff70e8c410bc20d1c10193444"/>
+    <encoded_png char_offset="842" justification="left" link="" sha256sum="c3120d820ff0794fb600dbdf3ed0330001d875d3ada92c416172c5c157b1ba68"/>
+    <encoded_png char_offset="2685" justification="left" link="" sha256sum="f368879b4f1859f4fdb31ec76eff19aaff15eac636b621ae0b52f5e3971bc9ba"/>
+  </node>
+</cherrytree>

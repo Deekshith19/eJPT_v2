@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Targeting Microsoft IIS FTP" unique_id="100" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706184805" ts_lastsave="1706201587">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we are trying to check anonymous ftp access is enabled or not, that is a configuration where anyone can login to ftp server without providing legitimate script
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We have an nmap script for scanning the with ftp-anon
+However after scanning it didn't give much info
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+When we tried to login directly to ftp server using anonymous as username, it failed.
+So anonymous ftp access is not enabled.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Now we are going to bruteforce the username and password
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ Above used is hydra to enumerate the credentials. (Later we get another user : vagrant with passwd: vagrant )
+ However we can metasploit for bruteforcing
+ 
+ 
+ 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We logged into the ftp server, and we don't have anything for exploiting.
+However there is ‘.asp’ where  ".asp" files are designed to be executed on the server side of a web application to generate dynamic content before it is sent to the client's browser.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Yes it is executed since it does not shows any error	
+
+
+Now we can generate asp reverse shell using msf venom and upload the asp file to the ftp server so as to execute to get the reverse shell
+(However it is not sure it'll get exploited, atleast we need to try that technique)
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we generted a payload for reverse shell with .asp extension and we are going to upload this file into ftp server to make it execute to get the reverse shell
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We have uploaded to shell.asox to the server.
+
+Now we need to setup a multi handler to listen for the incoming connection to get the reverse shell
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Set ups the multi handler and now we are going to execute the shell.aspx by opening it.
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+The shell.aspx got executed but an error popped up and  we didn't get the reverse shell.
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+The above things are also done in the lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+   
+
+   </rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="409ac276e7995ac71aac0a25aa3a477313573532d0aabf6876853c13c5cf3da3"/>
+    <encoded_png char_offset="173" justification="left" link="" sha256sum="5ffaf6a46cd278660d8eb049e7631c1464378b4aa15dd94e766045a0da61a7a4"/>
+    <encoded_png char_offset="279" justification="left" link="" sha256sum="05e90db4707f0dd0130a34f6a0dc582990852a2399466252b1bcc26cc8fdd8cc"/>
+    <encoded_png char_offset="472" justification="left" link="" sha256sum="b1e2ce401f8f5cd35435b9591fb0a9573f6fab81358b539385cc3afdd01ff6ad"/>
+    <encoded_png char_offset="635" justification="left" link="" sha256sum="e0031bd5e167e0cf367da5f8e4a392fccb3feed6a94be44e999173dc084e65b8"/>
+    <encoded_png char_offset="895" justification="left" link="" sha256sum="8751b9879261a5db15a3abb1fd4911e9a12d961a47f101bad8238500c0318a63"/>
+    <encoded_png char_offset="1180" justification="left" link="" sha256sum="107412602448b4f96f8e93c1168201c91d36422c204ab9412519b60bbc4d2f8c"/>
+    <encoded_png char_offset="1345" justification="left" link="" sha256sum="533b89fe6dcc18867f68ef649f9279407cc4b7c8aa4f4738b52ee7bb6c35d0e6"/>
+    <encoded_png char_offset="1347" justification="left" link="" sha256sum="a4e06a19debfeb3b97eb44b9fb46a3d372dd9c72aa067c72e1bf7bcadc90abc9"/>
+    <encoded_png char_offset="1498" justification="left" link="" sha256sum="21a18d9030dee6111ee0e9c91e17a23ae8dafcd0eccae4e6f0ac642890f6269c"/>
+    <encoded_png char_offset="1590" justification="left" link="" sha256sum="ffb13411264635b831a4e7214e1971eb6068e9b0df508289664e64f5e6dad03c"/>
+    <encoded_png char_offset="1733" justification="left" link="" sha256sum="f03b681ec508c9004336e05cfaa980283d334a047728c6bf43b74fbc3b24d456"/>
+    <encoded_png char_offset="1736" justification="left" link="" sha256sum="1bebb061effed3da0f17210b7311b5ef4d80fe01c9b8a51123d5dbc0e0559f26"/>
+    <encoded_png char_offset="1739" justification="left" link="" sha256sum="128e0018aeb2bf1fd632196c947d80401c0f43e94d6ef3b112b216129e2e4c8e"/>
+    <encoded_png char_offset="1742" justification="left" link="" sha256sum="22a1f195067a7d683ef9ad666cb17be437d469f8d1e58dca2ea0e0a3d30b7d20"/>
+    <encoded_png char_offset="1745" justification="left" link="" sha256sum="e44aaef29ab2a8c0fe9351dea311c9fb3ad41a600016a39b09b4769c35f77145"/>
+    <encoded_png char_offset="1751" justification="left" link="" sha256sum="38287ee8cf1d898dc75f17bf3672145222353a19b61bc2264605b84f7e81e05a"/>
+  </node>
+</cherrytree>

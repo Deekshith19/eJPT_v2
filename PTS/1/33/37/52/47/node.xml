@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Vulnerability Scanning with MSF" unique_id="47" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704539323" ts_lastsave="1704879822">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> We are able to search the exploit of any particular version of a service.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here MYSQL 5.5 is the version of mysql services.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+The above is also possible
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>  </rich_text>
+    <rich_text weight="heavy">Searchsploit:</rich_text>
+    <rich_text> 
+ We are able to search the exploit of any version using this.
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> 
+ 
+ 
+ 
+ </rich_text>
+    <rich_text weight="heavy">3. db_autopwn</rich_text>
+    <rich_text>: 
+ A plugin in metasploit which is used to sort the exploits  of any particular given options
+ 
+ 
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="79" justification="left" link="" sha256sum="cc482274819f772cd8370a7e5d957350522f10bcdcbf4b3eab583dbf75a47476"/>
+    <encoded_png char_offset="132" justification="left" link="" sha256sum="dd8946c6c9cadd91a1ea5318e8ccc1c690a71e90d66edf7286e33854844b0637"/>
+    <encoded_png char_offset="248" justification="left" link="" sha256sum="7f31d334a0a7995fbd9b6ffd937f8f72a2baba288ecdd727374cc103fbce749c"/>
+    <encoded_png char_offset="373" justification="left" link="" sha256sum="55a032d21ac530eb929684600bfcf19f590f584309660ea4bb62e63305ec1d8c"/>
+  </node>
+</cherrytree>

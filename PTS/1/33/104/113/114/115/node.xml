@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Enumerating System Info" unique_id="115" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706465371" ts_lastsave="1706467472">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+In the OS Build &amp; Service Pack, here it is given the build is 7600 and Service Pack 1
+This is helpful during privilege escalation
+
+
+By enumrating installed updates/hotfixes, we will be able to identify the patched services and with that info we are able to select which are all the exploit can be used against the system.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Here we exploited a rejetto vulnerability and got the meterpreter session
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> The ‘systeminfo’ command in the shell gives you more comprehensive info
+
+
+
+
+
+
+To get more info about the hotfix
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="ce339f3c44dc49c87deb177166bd610cf34bc231d02fe88e3a10853e86cf288e"/>
+    <encoded_png char_offset="410" justification="left" link="" sha256sum="a3d4118f617be2ab362e36ec77e3cc914c3d4e54313d03e9e0c8df7ec3fa35f4"/>
+    <encoded_png char_offset="491" justification="left" link="" sha256sum="a2427da7108fef73c8fe7a9c9a23c8ad1fbfc4659ddc25784181e3bd21077574"/>
+    <encoded_png char_offset="494" justification="left" link="" sha256sum="f5c8c800177dda2a1f78e37547c510947cc41f9d15ffefe3f1195347fb137ec8"/>
+    <encoded_png char_offset="532" justification="left" link="" sha256sum="5ee966f6314707b39df72bdc29c75753abdc850955aa6e2c1369d4274c098fd4"/>
+  </node>
+</cherrytree>

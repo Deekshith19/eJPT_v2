@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Host Discovery Techniques" unique_id="27" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1703321489" ts_lastsave="1703321697">
+    <rich_text></rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="0ee160ec291b0a7d11279ce8f6ce22263847fb2572b341ae24d7484ecce82aa7"/>
+    <encoded_png char_offset="1" justification="left" link="" sha256sum="b1435cb471afa961d9a787f5d79c026167c920378bb0dc4434d202d77c22350b"/>
+    <encoded_png char_offset="2" justification="left" link="" sha256sum="fb13c5bb20e8d1b1e3fc5db6ddf9f89cf3838504ca0dbbba31cec21e55992df6"/>
+  </node>
+</cherrytree>

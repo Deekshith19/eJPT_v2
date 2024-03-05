@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="MS SQL" unique_id="163" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707122630" ts_lastsave="1707130421">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+nmap &lt;target&gt; -p1433 --script ms-sql-info
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+nmap &lt;target&gt; -p1433 --script ms-sql-ntlm-indo --script-args ms.sql.instance-port=1433
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+This command will perform an Nmap scan against the specified target on port 1433, using the </rich_text>
+    <rich_text family="monospace">ms-sql-info</rich_text>
+    <rich_text> script to gather information about the Microsoft SQL Server. 
+
+
+msf module is availabe for this
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+User and Password enumeration using Nmap scripts
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+This utility is availabe on msfconsole
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+
+Querying the MsSql db using nmap scripts
+
+nmap &lt;target&gt; -p1433 --script ms-sql-query --script-args mssql.username=admin,mssql.password=ann,ms-sql-query="SELECT * FROM master..syslogins" -oN output.txt
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+The Nmap command you've provided is attempting to use the </rich_text>
+    <rich_text family="monospace">ms-sql-query</rich_text>
+    <rich_text> script to execute a SQL query against a Microsoft SQL Server instance on port 1433. However, there is a small issue in the script arguments. The correct syntax for specifying the SQL query is using </rich_text>
+    <rich_text family="monospace">mssql.query</rich_text>
+    <rich_text> instead of </rich_text>
+    <rich_text family="monospace">ms-sql-query</rich_text>
+    <rich_text>. 
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Hashdump with nmap scripts
+
+
+
+
+
+
+Module for hashdump is available in msf
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> Commands in the shell using nmap scripts of mssql
+
+nmap &lt;target&gt; -p1433 --script ms-sql-xp-cmdshell --script-args mssql.username=admin,mssql.password=ann,ms-sql-xp-cmdshell.cmd="ipconfig"
+
+
+
+
+
+
+
+
+However, there is a better exploit module where we will get the meterpreter session
+
+
+
+
+
+
+This module can be used to execute the cmd shell command
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> Enumerating users
+
+
+This module does not require admin to be the USERNAME
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> The following is done on lab
+
+
+
+
+
+
+
+Finally we got the shell
+
+
+
+Flag retrieved
+
+
+
+</rich_text>
+    <encoded_png char_offset="47" justification="left" link="" sha256sum="ce1a2d3bc00ec885448124dc7137452da5fc3c83e88d6fac3a05b0ce7d5c8901"/>
+    <encoded_png char_offset="145" justification="left" link="" sha256sum="d62f25bd3f2d6d7d4052675b5d83f795411ead3d8bd5032b5e89a3b1b040dbc8"/>
+    <encoded_png char_offset="348" justification="left" link="" sha256sum="da8c8ef02fc59681c28892cdc6d3b065486ca9de0b5a5bcea3bc0f4b04d584e3"/>
+    <encoded_png char_offset="407" justification="left" link="" sha256sum="790c9fc0698c389454d3b50d33254eea08adcbcf307eca60e3896d1b9e19b483"/>
+    <encoded_png char_offset="450" justification="left" link="" sha256sum="aad15aa90bd8f7f4b07f07a6488733b0fddcbe3c4d2852188ee893f7c9bc3528"/>
+    <encoded_png char_offset="662" justification="left" link="" sha256sum="dd8f34ccdeafa9144459e007e54627371f0de82423509910d295ea52fe45bb76"/>
+    <encoded_png char_offset="976" justification="left" link="" sha256sum="21e43799947e71f5ebf9a3c7da802a648ff0720e97abab2255821f686b1bfdc8"/>
+    <encoded_png char_offset="1014" justification="left" link="" sha256sum="cc1e8a2ac4a3d69ce4032606976d81949b582e61dc5c902e67f7725d88b0efd5"/>
+    <encoded_png char_offset="1017" justification="left" link="" sha256sum="9f54f9a43bfa99a050d59cfdd8b3f16cc469e71c1397f153b3404902c546bfdf"/>
+    <encoded_png char_offset="1062" justification="left" link="" sha256sum="707b63f5829ac36653600fe73737ad703421dfd7933bea2879d2bb6ead5759dd"/>
+    <encoded_png char_offset="1261" justification="left" link="" sha256sum="408aada301db11d0c14892f9896b54db8b02670cc1b12e4651a72a5c09c705e9"/>
+    <encoded_png char_offset="1264" justification="left" link="" sha256sum="30b95edf9ecfd3fec761e4ccd85240cfc9c6a66e37c15f27a036edf4720791a3"/>
+    <encoded_png char_offset="1355" justification="left" link="" sha256sum="70e10af23108c2dea5482be4b340c17abbba9036821988f9d74025b7839bdbb0"/>
+    <encoded_png char_offset="1418" justification="left" link="" sha256sum="987374dee4af547fa120cb62bbf49bc99bc42bc72782a6545f22db74c58b2845"/>
+    <encoded_png char_offset="1449" justification="left" link="" sha256sum="6ddf1435d6580c374aee1f16c400bf6a9d87200216712c3d1bcb9d57088e754b"/>
+    <encoded_png char_offset="1545" justification="left" link="" sha256sum="74e53fe95f71a11db8b2287861ee7c9b069c21a1ab61a2dd7591fbffa84246a2"/>
+    <encoded_png char_offset="1549" justification="left" link="" sha256sum="cd9a617cca7484edb90db14492a7291e98a8f1c78514282268b5f8458ab60f86"/>
+    <encoded_png char_offset="1552" justification="left" link="" sha256sum="12740b2b8ec7294e7a062efa05700c1382e909069dd00a78944177501d7cd9eb"/>
+    <encoded_png char_offset="1581" justification="left" link="" sha256sum="d2b51a222bb953cb2d8948a54e2a44affbc515f4bff5dec928b390d280219af0"/>
+    <encoded_png char_offset="1599" justification="left" link="" sha256sum="16efb8e5ade98700dab08b26fd282aadfaba8b90ebf08625fd5bdcc1777e24b0"/>
+    <encoded_png char_offset="1602" justification="left" link="" sha256sum="fc22ea1f8deeea3688dcf2f4bbf5145356346b1b914963143b160e58168b5578"/>
+  </node>
+</cherrytree>

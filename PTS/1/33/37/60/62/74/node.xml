@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Clearing Windows Event Logs" unique_id="74" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705604279" ts_lastsave="1705606749">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+It is about clearing all the event logs from windows
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> From here, we are able to view all the logs
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> After exploiting the badblue , we'll can see the 'clearev' by typing 'help' in meterpreter session.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> After we hit ‘clearev’, all the logs will be cleared
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="0e9476595c457b2f7104e0422d99826b98ff2fbca7c930b2ea6701f408b921d3"/>
+    <encoded_png char_offset="110" justification="left" link="" sha256sum="61d23987df544a8323d15054133d452cfd29df229d7ccb5c5e5b50a5c0648b7f"/>
+    <encoded_png char_offset="113" justification="left" link="" sha256sum="3efcf90fd0f9c6f923694e0d02c316a5551134fc774977a0a8e1c481a1e9fdbe"/>
+    <encoded_png char_offset="221" justification="left" link="" sha256sum="478c99082676180fb745b78d53d767833eef6b3bbc05bc38fe970339d6d63335"/>
+    <encoded_png char_offset="282" justification="left" link="" sha256sum="de81642db77a960b9d4136cfa817540c2077b7ada05c2e55332897966594d108"/>
+    <encoded_png char_offset="285" justification="left" link="" sha256sum="86b2eac1526be624cbae27e872e1a13157c39549d3337678b00c5be0205346d1"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Vulnerability Research Lab" unique_id="169" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707158907" ts_lastsave="1707159779">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> It is about exploitation of badblue
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on lab
+
+
+Flag retrieved 
+
+
+</rich_text>
+    <encoded_png char_offset="76" justification="left" link="" sha256sum="c139432fa5600ec0c5c5ff8f22ec15df5c7e71cda9bda928e24bec65fd2b98ee"/>
+    <encoded_png char_offset="96" justification="left" link="" sha256sum="b8b6a35926aaf95a818e2a5e77b764c9e51e4f3327125fc859f8ba29bf7417a7"/>
+  </node>
+</cherrytree>

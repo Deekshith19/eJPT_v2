@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Cheat Sheet of Reverse Shell" unique_id="93" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706162624" ts_lastsave="1706166570">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Somtimes We dont actually need netcat to be in the target system so as to connect to the attacker's listener
+
+Therea are some cheat sheet where we get the code for the os or web applications to connect to the attacker's listener
+
+
+
+
+For Linux
+ After the vulnerability is exploited this code is executed in the target system to get the reverse shell. (Here we need to set the attacker's ip in the required spot)
+(There are many codes for linux, the above is an example)
+
+
+
+For windows
+
+
+
+
+For Web Appps
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Generator
+
+</rich_text>
+    <encoded_png char_offset="234" justification="left" link="" sha256sum="afcb57750fc7791ee40a5882b6cfe35e13c09d02d5abfd09fc1298932a6acd75"/>
+    <encoded_png char_offset="248" justification="left" link="" sha256sum="cc5dd8a9dcb1a493c2250e856c76a96267e7a460b457743cb3c7fbab1f17ea35"/>
+    <encoded_png char_offset="475" justification="left" link="" sha256sum="4c2fb5dd04e963361cd5bedc51fac692952fc43567f2ffd458708dd403e21a88"/>
+    <encoded_png char_offset="491" justification="left" link="" sha256sum="e0e37b92a8291dad00a41190ff54c8e24de2d60e825ab19bac849299b756d225"/>
+    <encoded_png char_offset="510" justification="left" link="" sha256sum="b9ee47ed500e77bd4f490ee2c48662cf3063ceb12efc3c691762ce7a676034cd"/>
+    <encoded_png char_offset="530" justification="left" link="" sha256sum="655d9a09908c2cf5c0d071066d5910b50afd88a750fb80ec12793536f6dff40b"/>
+  </node>
+</cherrytree>

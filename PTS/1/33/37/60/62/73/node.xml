@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Keylogging" unique_id="73" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705602999" ts_lastsave="1705603864">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> After exploting and obtaining a meterpreter session we can see use the keylogging feature
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Turning the keylogging on
+
+
+
+
+After that whatever we type in the text pad we'll get that 
+
+
+
+When we type the keyscan_dump we'll get whatever is typped on the target machine
+
+
+	</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="a25b5ca02a8ead46fa392ff0312c4f1ca2dd9d304e7fe7f482de95d057187837"/>
+    <encoded_png char_offset="103" justification="left" link="" sha256sum="66c6d419dc38558326797b31c704a307b624d29e785a07e9945d382e9bff73c6"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="ea31885a33da0a1a9293340387c7633ebb955470c98f7a0d30eb5772bee3364f"/>
+    <encoded_png char_offset="201" justification="left" link="" sha256sum="966574edb4a73d08525ad04d19b026bf0b79f757ac743f555fcf9e2b33229042"/>
+    <encoded_png char_offset="287" justification="left" link="" sha256sum="bf561bda03fb3e7c6788123d804ed2fdacfc8cd78ddfe11a4e65afe6bf97480f"/>
+  </node>
+</cherrytree>

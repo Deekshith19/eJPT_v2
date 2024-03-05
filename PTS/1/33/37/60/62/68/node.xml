@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Token Impersonation with Incognito" unique_id="68" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705425610" ts_lastsave="1705429374">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+We must have this privilege to impersonate anyv token
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+
+After this we have the privileges of an  administrator account
+
+
+
+
+
+This is failing bcz we nee to migrate toa different process
+
+
+
+</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="036e0abedc9d26984e10e0077ddf933a57aebf7365461f8fe082eda6aa476b0f"/>
+    <encoded_png char_offset="9" justification="left" link="" sha256sum="57e88e6e12bb6679e17d36ee2716b7d21d23e59293576acf21cc47e0c6652462"/>
+    <encoded_png char_offset="19" justification="left" link="" sha256sum="8cfe7373099fecc725cd69d055bdc17a15c3598ce7595d29bb201b67cffe83bb"/>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="cee37e4bb2ca8dc5c239667a2053ae5ea2f1b44b797956a15bc3d1131cb6a03c"/>
+    <encoded_png char_offset="27" justification="left" link="" sha256sum="9666c5d823dfa771a07f0fe3b35abf840af71c8b9ea70d2ccda42503246b0b94"/>
+    <encoded_png char_offset="89" justification="left" link="" sha256sum="d80a0d61023d6c412972da0749aea99206f17e2827c76a0fb7ee5c8e9cef4f00"/>
+    <encoded_png char_offset="92" justification="left" link="" sha256sum="d5fc9d274b4ea319f99dd7d5e5de68a63b7f89140fa76c440d367e4a811871a8"/>
+    <encoded_png char_offset="100" justification="left" link="" sha256sum="6b52324746b36fd719970b2407b6e601ee6b23171068550700ffb5dd62da6688"/>
+    <encoded_png char_offset="169" justification="left" link="" sha256sum="951336ac2ff822a300e5dfe7bcf840a0d4698e0ca31a7e4ead730c0e9fc38464"/>
+    <encoded_png char_offset="233" justification="left" link="" sha256sum="a092457c5e2a3eadbdfd10a7d71ddf4743ba49aaca4e2cb9fe0132ddb28a98a9"/>
+  </node>
+</cherrytree>

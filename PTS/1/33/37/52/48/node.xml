@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nessus" unique_id="48" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704721674" ts_lastsave="1704879647">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">Installed Nessus Essentials as per the video.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">I successfully configured my metasploitable_3 with ip address 192.168.56.3</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+After performing the scan, we are able to identify many vulnerabilitie present in the network
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+The filter option is very useful to filter out the esssential ones
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+Each scan results will give the info about exploits (if available)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+The scan results can be exported </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> in this format (it is xml format) so as to import these in metasploit
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Importing Nessus scan results into Metasploit.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Printing out hosts and services and Vulnerabilities
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> From here  we are able to search for vulnerabilities associated with particular port.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+7. Also we can search for modules  using cve.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="36f5ddb4a9d835293243f2763cd67c4cb87a474fb60fc68308db172cffefac26"/>
+    <encoded_png char_offset="55" justification="left" link="" sha256sum="fee533e635181643d88c703a7d8d7ee49fe4f3f14cb70845b1091f0d73fea16a"/>
+    <encoded_png char_offset="139" justification="left" link="" sha256sum="34fe5325e37d65d1391a16fa5163fa4b76550abb713a51c172ac6f29b047e7fa"/>
+    <encoded_png char_offset="142" justification="left" link="" sha256sum="6a3564d5b3e14b80dae3dd35fb4117913aab6b1b9c2ba06014fcc5f601a69baf"/>
+    <encoded_png char_offset="245" justification="left" link="" sha256sum="2834f3b5e804fdeee34f17c81879bbb24f2d4af6011da0dc724423382c1c6a90"/>
+    <encoded_png char_offset="318" justification="left" link="" sha256sum="46036220617b565b659ba31f0a4def19414d0deeeb8a73cc0fb8dd00bf76835f"/>
+    <encoded_png char_offset="392" justification="left" link="" sha256sum="9644ae9c042111072b4aaee7e2d1dcd831111fd6d1252646165de86042e130eb"/>
+    <encoded_png char_offset="431" justification="left" link="" sha256sum="34da0fec004f7d253c289c91ed27b6929a8eb8092744c05b9100db2fe903e50a"/>
+    <encoded_png char_offset="558" justification="left" link="" sha256sum="a177f86345f08868961506828820fda5c776921e507f3405cbdcce3d3473b416"/>
+    <encoded_png char_offset="619" justification="left" link="" sha256sum="ac8b2835ed8019911361daa7ae079708dfc1c4dbbae588cec8528fb9fb1e3671"/>
+    <encoded_png char_offset="622" justification="left" link="" sha256sum="8079aa84ff08d2e7fb9320d35ba43459ef706bb8118aa78631c09db0d79cc72a"/>
+    <encoded_png char_offset="718" justification="left" link="" sha256sum="e7d9a9aacafcb69b1a21d914ff1cfb1e3c3ac86a3f2f75febd172a60198b4526"/>
+    <encoded_png char_offset="771" justification="left" link="" sha256sum="6f848b1a5107242c94a32f51dc8d0da341c1ea7af74d720c8b50933f6c564c05"/>
+  </node>
+</cherrytree>

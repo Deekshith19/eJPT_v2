@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Transferring files to Windows target" unique_id="128" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706632807" ts_lastsave="1706707831">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+First of all we need to exploit the vulnerability (rejetto) and host a python server in our system
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+From the exploited shell of the target, we download the file mimikatz from the attackers python server( the above provided ip is the attackers ip)
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> The following is done on our lab environment
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="104" justification="left" link="" sha256sum="fb60aaf2fe3effc2028997028954b4f5692b740b2c452584e0cccaf7bd8ad65e"/>
+    <encoded_png char_offset="112" justification="left" link="" sha256sum="590dff1b77c9e25b99a55755dacd19ed3c85c0217bf6f153c3d701ff50378757"/>
+    <encoded_png char_offset="263" justification="left" link="" sha256sum="6e434904e0bab7e386febe8c95009e7db55ad3e2e49d91a3aed72c00e0064559"/>
+    <encoded_png char_offset="266" justification="left" link="" sha256sum="0a693ce99f94fb66daca2b5f038195f35c6d0a3f1fc193f893cf48c0a4bb1ee9"/>
+    <encoded_png char_offset="322" justification="left" link="" sha256sum="7f96619a89cca79912c4ae5f2cb16e8a15d6eea3ef9b261d328008fd4a98f16a"/>
+  </node>
+</cherrytree>

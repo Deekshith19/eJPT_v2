@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Process and Services" unique_id="118" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706523145" ts_lastsave="1706524405">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> To see the process list
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> To get the pid of a particular process
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Getting services and processes from the shell
+
+To see all the started services
+
+
+
+
+To get more comprehensive info about the services
+
+This info are relevant for privilege escalation
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> To list out the running processes and services running under the process
+
+
+
+"tasklist /SVC" is an important command
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> To see all the scheduled tasks
+
+
+
+
+This is a very important command and is useful during privilege escalation
+These scheduled tasks can be sometimes misconfigured for privilege escalation .
+This is done by changing the process's executable of NT/Authority to a malicious executable or by other means.
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="30b197c35ba3b4d5d9bb6dc1b42d7708f695b1c297c0c8ca14afa1d594e84b83"/>
+    <encoded_png char_offset="37" justification="left" link="" sha256sum="2a3aea958e5bc877b05f8f1ada2dca267321ac537ec30ad187088909df956bdd"/>
+    <encoded_png char_offset="85" justification="left" link="" sha256sum="f834517f7b22586f72c5aa6c49ba762712be35eb1c7201b3cc9b03d11f46b4ea"/>
+    <encoded_png char_offset="173" justification="left" link="" sha256sum="34e1268d46997caa105903a7303fcce6bfd2c19a842c3718b31e2931383d08dd"/>
+    <encoded_png char_offset="227" justification="left" link="" sha256sum="36e9ff236f04ffb5ad5b08dfd93de3fb955d46960e05cec5413a43f825732f5f"/>
+    <encoded_png char_offset="358" justification="left" link="" sha256sum="96abd66231cd2031d004e3055bbfc35c455acb74495eb1925ebafaf023dc2c49"/>
+    <encoded_png char_offset="440" justification="left" link="" sha256sum="1f124c85820d970515bc4f6ffdb828beed4bf2be4c98c1a463dea0c3fd37360f"/>
+    <encoded_png char_offset="443" justification="left" link="" sha256sum="3ca32543d7484c73113092f32d56c5ecc4b10997c7ba5ebc284bf98b06574647"/>
+  </node>
+</cherrytree>

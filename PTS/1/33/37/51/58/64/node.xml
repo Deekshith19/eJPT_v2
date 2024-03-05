@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SSH" unique_id="64" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705237186" ts_lastsave="1705254226">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+The SPAWN_PTY has to be true inorder to get the the terminal shell.
+
+
+
+The Following is done on the lab
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we get the  version of ssh which is libssh 0.8
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Configure the required options
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We got the shell after exploitation
+
+
+
+Upgrading to meterpreter session
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="8864492182659d90e54b030fa8738e4823a27c376d6230b4a05f5c936b03dfc0"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="4bf71e9ab4a9e0850c1d18101341402faaf38f3ac17e78a69094ed817ce3fe1c"/>
+    <encoded_png char_offset="116" justification="left" link="" sha256sum="9584e45457505744204e406278e3c24d73f0d4525ddbcdfbff5cf79f694e7f87"/>
+    <encoded_png char_offset="172" justification="left" link="" sha256sum="60e284ffe5b2c760a13f4c3ea05d7e4a587b7f636ccb76a2e66d60904fa618ca"/>
+    <encoded_png char_offset="209" justification="left" link="" sha256sum="146ceebcaefdca8b49f61db669cc47fef78c86ec1ec6b74b51d5463bd9f055b0"/>
+    <encoded_png char_offset="283" justification="left" link="" sha256sum="606aeb0b329e28bda3b59981020c605ead0c0d64969742d7c9a77c9d867e498c"/>
+  </node>
+</cherrytree>

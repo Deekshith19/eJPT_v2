@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="WinRM" unique_id="56" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1704909324" ts_lastsave="1704961622">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on the lab environment:
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+The port 5985 is running on the system.
+
+
+Now search for winrm
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here when I used exploit module, they are asking for username and password, Hence I need to take other auxiliary modules to enumerate username and password.
+
+So we use this module since it can bruteforce the credentials as we can provide user_file and pass_file
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Configure the required show options:
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we got he username and password.
+
+Now exploit the vulnerability after configuring the exploit module.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+Now finding the flag.
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="c495019845f6c6bf6f965ffdee1ba56ed755bbe321db4520ffb446412b817be0"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="03883dea46b68561f3b272b996ae84d0e19e9c27b38b691bbc74f82ed5ddeb5d"/>
+    <encoded_png char_offset="62" justification="left" link="" sha256sum="b81b0efd3671350b9999fb202c0f16c9906dd910e98a8db6f63f6d265cc20790"/>
+    <encoded_png char_offset="65" justification="left" link="" sha256sum="4209ff686682d6b94087f0e5e99f3d562e8ee77d6ce18f13dec1a9050b133681"/>
+    <encoded_png char_offset="131" justification="left" link="" sha256sum="7f4c20c31fdbc4572b3eb81d06dc96d8a134027fbe0c4a03dc117f570ca31317"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="76102be8a5fc06a31bbb5d3a3716150ced757fe70bf21f7e24bb35eaa42168cc"/>
+    <encoded_png char_offset="402" justification="left" link="" sha256sum="fd6e674be02c88b5b5b9b35fce88b9cd4bf9ac7e8550070f8cc09d77b0fab68c"/>
+    <encoded_png char_offset="443" justification="left" link="" sha256sum="8d1294993ece1eb7e502850a1c9ff20e84de2cbab9d7b5d6006e0676d4be242c"/>
+    <encoded_png char_offset="447" justification="left" link="" sha256sum="8692f45bdfe3728cb364ce6a51b582cbe7a3cd5e8711642ad6c30aba7fed9cf4"/>
+    <encoded_png char_offset="556" justification="left" link="" sha256sum="4ccec57677a7843c3a1b5a107af0f97fd5095ef3da8ee893f8eef5a180ae19ee"/>
+    <encoded_png char_offset="559" justification="left" link="" sha256sum="d2a73731a0027f297f8fd2c9b596f589241cd554d53d6ca2411f3796c4010fbb"/>
+    <encoded_png char_offset="562" justification="left" link="" sha256sum="557f2a7c9e4b2e244e0571a4241647a127135b2963a08b874a322c540a8e3873"/>
+    <encoded_png char_offset="565" justification="left" link="" sha256sum="316619cae137409e4253128611d27b01a7f4b7e39532f13bafb5b146c8d568cc"/>
+    <encoded_png char_offset="592" justification="left" link="" sha256sum="5540a3e9543c056ae31f098c9015fff31db304fd3f55d81efbb1cd129bbd8eba"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Post Exploitation" unique_id="104" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#57e389" ts_creation="1706376527" ts_lastsave="1708237794">
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="5193b24536d40c496f0a4e2b6cb9384a21e6f0e28e23592e5feda23a6171ac8e"/>
+    <encoded_png char_offset="12" justification="left" link="" sha256sum="bfaac3607a6e0bc013e1d7335b07a519feed9c78182973f6b6e6fd61cae6f711"/>
+    <encoded_png char_offset="15" justification="left" link="" sha256sum="af11db18821eec3b945cf3f1a6b0a0b1626f1fd78829e503fa734d80d94b2edc"/>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="e3ae84219a78d160a1b0e88ebff7bed5d877c3276092e4bae1368fe3e2f9fa6a"/>
+  </node>
+</cherrytree>

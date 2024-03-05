@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Reverse Shell" unique_id="92" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706127072" ts_lastsave="1706128058">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Here the difference with bind shell is that the listener does not execute any shell, but thellshe client execute the shell
+
+
+
+
+
+Here the client uses the ‘-e’ to execute the cmd shell
+
+
+Now we got the shell of the client,, this is called reverse shell
+
+
+
+
+
+
+This can also be done locally,, ie  to do the listening and connecting on the same system.</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="b0a1b81121a7e630f923904739299f32d79923e84389cc391d78526da08aef9b"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="e7691e4d0ad4c8ab58c5d51f9f380b94ea27c6b1914062e3599c6ae2edb3e678"/>
+    <encoded_png char_offset="141" justification="left" link="" sha256sum="53de21769b3fee410eda37bda8d83e75c17199cec5e6da72e0dfecda9abc698e"/>
+    <encoded_png char_offset="199" justification="left" link="" sha256sum="5f9b41dc667d30a9fb37be83e57daa4dcfeba20c2f810a8e3733582c9b6561ef"/>
+  </node>
+</cherrytree>

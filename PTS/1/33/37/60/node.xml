@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Post_Exploitation" unique_id="60" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="200" is_bold="1" foreground="#99c1f1" ts_creation="1704985295" ts_lastsave="1705236431">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on the lab (Exploiting the vulnerability);
+
+
+
+Found the vulnerable version of samba
+
+
+
+Here we are using the 'is_known_pipe_name' exploit of samba
+
+
+Configured the required options
+
+
+
+we got the shell
+
+
+
+Upgrading to Meterpreter Session
+
+
+Configured the required options</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="c8d10fa8d44ca3d3911072daf8b1530efe2864e2f968f795463e709c500e724a"/>
+    <encoded_png char_offset="80" justification="left" link="" sha256sum="c31440138f9439242d713d4fe101eee6ff73d1a1c62b5fa17b5111fbb3dda813"/>
+    <encoded_png char_offset="184" justification="left" link="" sha256sum="b6099583981cfb7b86a73501b0328ce5ed645549d889933e841afcb4ad455273"/>
+    <encoded_png char_offset="220" justification="left" link="" sha256sum="b5e4fb052657367945c6436049c76be08b1e19197925e0131a416c8f24e16ef8"/>
+    <encoded_png char_offset="276" justification="left" link="" sha256sum="0b3bb3b91778b0bdf2bf6a549491fe4af8112bfc0c92375e157db173c4015f83"/>
+  </node>
+</cherrytree>

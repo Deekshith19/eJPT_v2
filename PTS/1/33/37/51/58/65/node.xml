@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Samba (SMB)" unique_id="65" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705237628" ts_lastsave="1705241955">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on Lab:
+
+
+The vulnerable version of samba is found
+
+
+Here we use ‘is_known_pipename’ exploit of samba
+
+
+
+
+
+Configured the required options
+
+
+
+
+Now the session is opened
+
+
+
+
+
+Upgraded to meterpreter session
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="34c5658d33681a617b3052ac49663f38a5bd21a27e7c65784edef40893e148ca"/>
+    <encoded_png char_offset="43" justification="left" link="" sha256sum="03803a9e2d4b643c9ec4a5ed1bbfc21cc039fb3e72031a288894ab742b62c0de"/>
+    <encoded_png char_offset="138" justification="left" link="" sha256sum="3e41b055889582b7044cadd3eef5aec4159a6b014b2c12c4efe30496d8f32e97"/>
+    <encoded_png char_offset="175" justification="left" link="" sha256sum="67d4d8292c77df4bc6a500c45cfc4e651df545e1f77b7219b268633487af93ed"/>
+    <encoded_png char_offset="206" justification="left" link="" sha256sum="7492cf6270c8bde9a177aaceb02c7fc6812ca0e62c1313518c7e0fffdff8f290"/>
+    <encoded_png char_offset="244" justification="left" link="" sha256sum="c1e50de0083719db2bf3480679ba0089decfe4e90f7f1f5958d58c4da42d1224"/>
+    <encoded_png char_offset="247" justification="left" link="" sha256sum="62f34778828b705f27dc1afbb6a4e1cfc6cfad03763f8b790ed1303806b42e75"/>
+  </node>
+</cherrytree>

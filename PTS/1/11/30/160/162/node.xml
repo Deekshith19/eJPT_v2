@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Dictionary Attack" unique_id="162" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707109154" ts_lastsave="1707109523">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> The following is done on lab
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="33" justification="left" link="" sha256sum="9fbc982c015f78d31c9f74b2b3ab37bb3b4b515662d5d467d7161bf001f4a8ff"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="bc171181e82e2e42428a170d027abdeded4f594b34c40929c1f206bfd69bf53f"/>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="70d94ed28ea75376ad2fc40f91e5273da9e80c4380d02f0cd98feee29055377a"/>
+  </node>
+</cherrytree>

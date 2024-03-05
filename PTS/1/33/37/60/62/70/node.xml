@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Pass the Hash with PsExec" unique_id="70" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705565124" ts_lastsave="1705577008">
+    <rich_text>
+Here we are able to use the obtained hash value to authenticate legitimately
+
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+First exploit with Badblue enterprise and migrate to lsass
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Copy all the hashes of the users
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Now go back and set the the exploit and the payload
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Configure the SMBUser and SMBpassword using the Hashes we copied earlier
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> After exploiting and going to sessions we'll get this: 
+
+
+
+</rich_text>
+    <encoded_png char_offset="82" justification="left" link="" sha256sum="5e5787396b14d3956bd4f557cc720ece838b07048ce59c293bcd9855bf594b58"/>
+    <encoded_png char_offset="149" justification="left" link="" sha256sum="1ab4a236e1cda25370592c24d1beda23d246d1a23681a962738ff0e87efb0ea8"/>
+    <encoded_png char_offset="190" justification="left" link="" sha256sum="000a99c793043391da6473ce55d09116c6e2c3b94ef22db9c06c8c29d7853353"/>
+    <encoded_png char_offset="250" justification="left" link="" sha256sum="00c2fed0cb0c1a7e5cb2093814ed64d584e94d14bd881d053eae93b19463cd7d"/>
+    <encoded_png char_offset="332" justification="left" link="" sha256sum="a40b63de6464eddc55a6426efd53ae0b0b7af0e12839e0e5a39d1aa7a8a39093"/>
+    <encoded_png char_offset="397" justification="left" link="" sha256sum="eb83e19d85554c1df97a58252491b482d7fa504fa3c88c206e7da30111c03334"/>
+  </node>
+</cherrytree>

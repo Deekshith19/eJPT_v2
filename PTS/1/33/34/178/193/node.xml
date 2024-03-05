@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Bypassing UAC" unique_id="193" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707934866" ts_lastsave="1707935887">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Following is done on lab
+
+Exploited the rejetto vuln to get the meterpreter session
+
+
+
+
+
+
+
+Now use the uac bypass module
+
+
+
+
+
+
+
+
+
+
+
+Got the NT AUTHORITY/SYSTEM
+
+
+
+Found the admin NTLM hash
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="89" justification="left" link="" sha256sum="4d0fa7cc97b9eb8c27716a440e3ccacd86c4d065f6eac641664a5e440765e820"/>
+    <encoded_png char_offset="92" justification="left" link="" sha256sum="523b4158bc82ea931ce3adcb6400b6dc155de7026340e1b6c4043ef2aa897f10"/>
+    <encoded_png char_offset="128" justification="left" link="" sha256sum="43656fc279cd3407514893db7748cdfda64e6b313233e15597aa88a674b6f796"/>
+    <encoded_png char_offset="134" justification="left" link="" sha256sum="92f32294e8015ddfb259143cafa2b09bff516d13bfcb14915b3297accb4594e0"/>
+    <encoded_png char_offset="139" justification="left" link="" sha256sum="d44721eb9d777f52c0e8d2374d1fdf921c5e603e41842c59fb2808b03d4d1e3b"/>
+    <encoded_png char_offset="171" justification="left" link="" sha256sum="20c5a68804db224cd942d9e3017d7fb611a62643b95fabe76dbae4eed0d6e2c4"/>
+    <encoded_png char_offset="202" justification="left" link="" sha256sum="5fed8fa992a81b5ce9a278a6000b19ea4d34fb21f49edd56552a337b65447241"/>
+    <encoded_png char_offset="205" justification="left" link="" sha256sum="f48d59812b660709d5cee2b53b5a050c3efaa198f63f2d3fbc7fe48924ca905b"/>
+  </node>
+</cherrytree>

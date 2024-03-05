@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="VSFTPD" unique_id="107" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706382871" ts_lastsave="1706444862">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here the anonymous login is enabled which means we can login to ftp without password.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+As anonymous user, we are not getting the reuired output when we input the commands because the admin has configured the anonymous user like that.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Using the python exploit for vsftpd.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+But it say connection refused
+Even though if we used metasploit, it also fails
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+That is because , 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+in the bottom, the exploit telnets to the 6200 port.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+However this port is closed. So this vulnerability is patched by the administrator(ie, the administrator have blocked the backdoor) and we are not able to exploit this vulnerability
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Now we are gonna perform a bruteforce method to get the credentials
+
+We can directly bruteforce to ftp or we can bruteforce to smtp to enumerate users to quickly to narrow down the brute force on ftp to get the passwords
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here the smtp port is open
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We got many users account.
+
+In this case we select the user:service and bruteforcd to get the password
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Instead of relying on hydra, we have metasploit module for this
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Now we login to this account
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+(Actually it is better to bruteforce on the user:user)
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Because ,With user:service , we dont have much info available. But the user:user account is not as easy to get (but atleast we can try). 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+We have to yield the user:user account from the user:service account
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We are able to see the things in root directory
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> We need to get the shell.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+In the webdav, we are able to upload and download files.  So we can upload a payload to get a reverse_shell using a netcat_listener
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We use php-reverse-shell.php and modifies the ip and port.
+
+Instead of relying on this we can use msfvenom to genate a payload.
+
+
+
+Now we need to copy the payload to the required directory.
+
+The default directory where apache stores all of its data is in /var/www	
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+If we try to upload in the /var/www, it will fail. Bcz onlu /var/www/dav only allows files to be upload and downlaoded
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+After uploading and reloading, we are able to see the uploaded payload in the Dav directory.
+
+Now we use a netcat listner to create a reverse shell when the payload gets executed
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here when we clicked the shell.php, in the right terminal  we can see we got a connection, which means it is the reverse shell
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we are in the user:www-data which is a service account also this is account is used to manage appache
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+With this account, we are able to upload and download files any directory.
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="53d4ab059bd78cb52f9c5514607b034127e54d3d0dfcb08fcdc8d169abeca0da"/>
+    <encoded_png char_offset="93" justification="left" link="" sha256sum="01eef399fb31e1530b9cb9b5d829bf94fc976222859f89b6bd2474c75597e39c"/>
+    <encoded_png char_offset="96" justification="left" link="" sha256sum="3d05379d7d63c81a5a6197460574f2cbd8394ab768dbff100b1bb21d10bbbc83"/>
+    <encoded_png char_offset="246" justification="left" link="" sha256sum="e9205f4e9f74e908647ffe3536349f8a959847aeb9824394a8ca36f45c934e6a"/>
+    <encoded_png char_offset="286" justification="left" link="" sha256sum="139599fc0ce06c340ebd43e4875e867dbaec6eec6529f3ad0b9be9658adaa132"/>
+    <encoded_png char_offset="367" justification="left" link="" sha256sum="4e13bdf2302863035c7c6da7e0798c106f40f174574bb18a7ffc239247d5c506"/>
+    <encoded_png char_offset="389" justification="left" link="" sha256sum="79831da295dc0fc417d67b4d3f58a87b22a77600d107250555f5f16d5834c827"/>
+    <encoded_png char_offset="444" justification="left" link="" sha256sum="87dfaf490a13687031795d8af9cfc40d1ab13ae114e6a5cdd79d0c2bbe4490e8"/>
+    <encoded_png char_offset="856" justification="left" link="" sha256sum="cda930b30bb687c32536731768342908f301375538c1ecc5e2888666200ee59c"/>
+    <encoded_png char_offset="886" justification="left" link="" sha256sum="9adc767ffecbfb61e56879e22f80974b2df9ec2d80f78f7de6632da605ec7049"/>
+    <encoded_png char_offset="888" justification="left" link="" sha256sum="bfd7af37cc6dbc3932399388d86deb0224b4f276d15d01e0662e09a13f4dd672"/>
+    <encoded_png char_offset="994" justification="left" link="" sha256sum="052cab82b1d5b6540590f2c5e61c11844676973cb3f1462ef0fce856d02dcb5b"/>
+    <encoded_png char_offset="1060" justification="left" link="" sha256sum="41753dd0669d9ee9b1224828e88e15d89b09a12759e88252fc8b512627a08705"/>
+    <encoded_png char_offset="1094" justification="left" link="" sha256sum="f348b0afb87df446b873836f3515fd2cfd6ed124207ef57225b4b63dae62327b"/>
+    <encoded_png char_offset="1151" justification="left" link="" sha256sum="4506bc29f0c714c6374778371c46a9ea95869aad50da85379ecb04c6535f7338"/>
+    <encoded_png char_offset="1292" justification="left" link="" sha256sum="6c60a3ebf955a07fb987ea5cd658da27c735b141f411c9f291d63bcda1c3a877"/>
+    <encoded_png char_offset="1365" justification="left" link="" sha256sum="d49244eec60d638d35e2ea9794a69a3cc30d2d43ec5441006b4ae01cb504444e"/>
+    <encoded_png char_offset="1448" justification="left" link="" sha256sum="af6c7b9ed29b6636fdfbc873e4a830e569aa28de58e6e0376c761ef50dab7e72"/>
+    <encoded_png char_offset="1450" justification="left" link="" sha256sum="aea57f543df294a0b4d6cd8118ce80d5c2b1a1d81b2ffd6610021af7fa2a4c1b"/>
+    <encoded_png char_offset="1586" justification="left" link="" sha256sum="370541a1b0f0fc62653c7caaaccd6ee90b9969b4f300557fe3806d7cfe2e76bb"/>
+    <encoded_png char_offset="1588" justification="left" link="" sha256sum="b123cb6ca37f165c65fd4f38f232d1fe5930bfea500d4b37869f84a6fbf894a1"/>
+    <encoded_png char_offset="1855" justification="left" link="" sha256sum="b06c912b8ed892d78c7084af51b2bf8ee50c6a8399c3758d14baf83b663234cf"/>
+    <encoded_png char_offset="1977" justification="left" link="" sha256sum="1c6791f2e52b03ef0e88c888e01010cfc28ac69a686f2ce9d9e121d3bb66f3c3"/>
+    <encoded_png char_offset="1979" justification="left" link="" sha256sum="f55c9bfa4ea7cafd09e8c613ba905005c63e341b7df70454262f7715763ce1f2"/>
+    <encoded_png char_offset="1981" justification="left" link="" sha256sum="187fc1d51dac3aa7b8cf99013e521be75890b682ade8422f32e19a0eb7fdbdd8"/>
+    <encoded_png char_offset="2165" justification="left" link="" sha256sum="9c548eb66413a84a93c9522860762e8f09ce44cb6bf5096654b569e0cc979ce5"/>
+    <encoded_png char_offset="2295" justification="left" link="" sha256sum="9723c8b8bcdcba696647aae88c96c020b91cb08699cde0642424c486ef68e4f8"/>
+    <encoded_png char_offset="2407" justification="left" link="" sha256sum="45ed2f2acd25876ac37602bac91b4f7bc091b8603bf700e7464d95a8c21ad2f6"/>
+  </node>
+</cherrytree>

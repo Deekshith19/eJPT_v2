@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMTP" unique_id="66" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705243957" ts_lastsave="1705254627">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on lab:
+
+
+Found vulnerable version of smtp
+
+
+
+Set the required options
+
+
+Set email_to to the required mail format
+
+
+
+And we get the meterpreter session.
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="ffa53de8a3a6fad86a82874157eff6e060d8dbdb6c4546918c699a0fd6ce94ff"/>
+    <encoded_png char_offset="42" justification="left" link="" sha256sum="ba1544b4e5a94ce1843c8f5bfd2956c5662e9592a75091712a8a09952cef7ec9"/>
+    <encoded_png char_offset="79" justification="left" link="" sha256sum="dc16a08722792b9b3392685c2bab006ac66b9f80ef3158a8420c2658e3f0ccca"/>
+    <encoded_png char_offset="107" justification="left" link="" sha256sum="e2ee8801f7d69f6b208684a94c1daee629037e43857436f32734d21bbc00b7dd"/>
+    <encoded_png char_offset="189" justification="left" link="" sha256sum="0a54bb23ac534ff65dffb30230f27a39de6c34b56d9a2a55a4c7ba399cf4d694"/>
+  </node>
+</cherrytree>

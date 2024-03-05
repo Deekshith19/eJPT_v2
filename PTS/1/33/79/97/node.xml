@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Black Box" unique_id="97" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="200" is_bold="1" foreground="#99c1f1" ts_creation="1706179760" ts_lastsave="1706380817">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="48932f6f5f41c8e197bb6c940e24b6c4fe493feb461f7875ae724711546b8650"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="a9084812565f4b9a64b8ef84d63f36a07e93ebe26c1cedc706b46c12915ea711"/>
+  </node>
+</cherrytree>

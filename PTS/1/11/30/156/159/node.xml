@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="HTTP Apache" unique_id="159" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707054765" ts_lastsave="1707055887">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+We can check cgi bon exit or not using an msf module
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on the lab
+
+
+
+
+   
+
+</rich_text>
+    <encoded_png char_offset="58" justification="left" link="" sha256sum="55a0d1078b057c68d011f6bd54fef924786725bc4c8740fe121d83cb65b8c8f2"/>
+    <encoded_png char_offset="62" justification="left" link="" sha256sum="dc302a5b67d4d926a260527035c5f6623804140a0c4d307fbe99c1eebe4e46a9"/>
+    <encoded_png char_offset="106" justification="left" link="" sha256sum="d4fb84ceed26bec3634f2c252ac67b76d47e4e90dc7b55b7d08b30e9d2e687de"/>
+    <encoded_png char_offset="110" justification="left" link="" sha256sum="eeaccbd40471fc61a83c7971830a566e2749050296d702f665c4d8aa68a22a3d"/>
+    <encoded_png char_offset="116" justification="left" link="" sha256sum="a3cd76314db5dc4f5cefdbe72abe7c466f7fa9c5904f1bf259f1c68d8b730196"/>
+  </node>
+</cherrytree>

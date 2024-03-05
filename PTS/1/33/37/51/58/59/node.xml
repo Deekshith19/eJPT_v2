@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="FTP" unique_id="59" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1704978155" ts_lastsave="1705237591">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on the lab:
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Found a vulnerable ftp server
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Selected an exploit.
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Configured the required options.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Got a cmd session
+
+
+Upgrading to meterpreter session
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Configured the required options
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we got the meterpreter session
+</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="974970fcbf2a1e07bcf0946df2c4a6463be9ced15acf71eddebf849d56167065"/>
+    <encoded_png char_offset="51" justification="left" link="" sha256sum="90b2957393dc5fb9d6aa4e842dcbb5581189fadf0c2f0743efe775cb460044dd"/>
+    <encoded_png char_offset="85" justification="left" link="" sha256sum="3ed6f19251fd32fc9aa6a12d7d8a9cc98dea8a0e1ed8fa12d857e1980bdaff89"/>
+    <encoded_png char_offset="111" justification="left" link="" sha256sum="851ae22372d22e658dc5ce5b12b78dd6bc9d94dad2716de40d5fade0cb02ddcf"/>
+    <encoded_png char_offset="147" justification="left" link="" sha256sum="2d03297db90edddcebdee2ee3c6b92027578b00dc1dce14b160b6093264943a3"/>
+    <encoded_png char_offset="202" justification="left" link="" sha256sum="82bcf3975607e0d13dc129c1ffa6d016342aaab228e4cc9395da20c4398437d3"/>
+    <encoded_png char_offset="239" justification="left" link="" sha256sum="1aaddc3191ac17c1f19cac00141929778d862c2864af00e562235cc3c8a0aead"/>
+  </node>
+</cherrytree>

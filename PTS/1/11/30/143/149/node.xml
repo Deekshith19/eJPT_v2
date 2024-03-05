@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Dictionary Attack" unique_id="149" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706987324" ts_lastsave="1706988137">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Following is done in lab
+
+Here we perform bruteforce and enumerate the admin's credential to retrieve the flag from the server
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="132" justification="left" link="" sha256sum="3764936b528ccdf15aed7f1297e0d1f2dcb53d7f295eb94f530f14062838c26e"/>
+    <encoded_png char_offset="135" justification="left" link="" sha256sum="e7595016580b9866d3b9edfb70257ff198ef9b44b52661b95e5e13bc99751325"/>
+    <encoded_png char_offset="138" justification="left" link="" sha256sum="2e93391d073a7a1bb1a91f9a8a54bf11221468541ceaaa16646a01f55baa6e8c"/>
+    <encoded_png char_offset="143" justification="left" link="" sha256sum="57afbd6a119f957a0919d7a8b848ee69ac616e6defbc684e3cae0f27cb42ea20"/>
+    <encoded_png char_offset="146" justification="left" link="" sha256sum="32d2419156cfe02b88e0483086df2f40762f01bffb9d5d23ca1bea7dd22592dc"/>
+  </node>
+</cherrytree>

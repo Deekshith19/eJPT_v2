@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Network Info" unique_id="123" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706550949" ts_lastsave="1706554822">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+We can use"ifconfig" in meterpreter session to get the details about the network and the interfaces
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Currently running tcp and udp services
+
+
+
+
+
+
+Routing table
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> From the bash shell
+
+
+
+
+
+To view all the hosts
+
+
+</rich_text>
+    <rich_text weight="heavy">
+4.</rich_text>
+    <rich_text> To view the info dns server
+
+
+127.0.0.11 is the default gateway
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Checking systems connected to the network using "arp" via meterpreter
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> Network interfaces and its configs
+
+</rich_text>
+    <encoded_png char_offset="105" justification="left" link="" sha256sum="aedbf72d7330a3ea3ebe32c50cc0edd7ff239294e8177cac74ee53f5669701ad"/>
+    <encoded_png char_offset="107" justification="left" link="" sha256sum="3a512629914e38233e4cafbd7342169c47da7a9a0e3e65b01bc983b42750f837"/>
+    <encoded_png char_offset="110" justification="left" link="" sha256sum="b2c5baac8541b623783f562ee36c54f07414275c92bd6f9d6877349e2e8d5f46"/>
+    <encoded_png char_offset="158" justification="left" link="" sha256sum="a225a490a0e7231e45e733cbe7f8d05f45f99cda6055220e67a930cb983871ee"/>
+    <encoded_png char_offset="179" justification="left" link="" sha256sum="459c641bce1ee01b70f87219aee115dc305f69438ed980ea3f1d8ba9ade3cf88"/>
+    <encoded_png char_offset="207" justification="left" link="" sha256sum="61d0edce56fa763b041e0a8ce93725e5f39a0a05a5ad3e060dfc7d979718f9c1"/>
+    <encoded_png char_offset="212" justification="left" link="" sha256sum="b6c449fab5268e58f6a90d371e2480d112840b7a475abcc94901d20274675743"/>
+    <encoded_png char_offset="271" justification="left" link="" sha256sum="2e5ff38a1f06a33cd0868bb1611cdb9797c923a59c166ffd910f41103943360a"/>
+    <encoded_png char_offset="308" justification="left" link="" sha256sum="3edb968d2f343fa37d87d2a108b127ddd41445780bd41dc1e253b2fa42aee34d"/>
+    <encoded_png char_offset="388" justification="left" link="" sha256sum="659b9a4600b0065c3995d7423ad42dc76dfee2592a21f8c37890d1a0c38282de"/>
+    <encoded_png char_offset="432" justification="left" link="" sha256sum="009de426d2a5ed5a80af4daab3577c00c963d2cd8c843f170f3b6b273a9cf5ef"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Workspace" unique_id="40" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704281962" ts_lastsave="1704371990">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Workspaces : It allow you to keep track  of all of your hosts , scans and activities and helps to sorts and organize your data based in the target or organization
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>  Adding a new workspace
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="169" justification="left" link="" sha256sum="1349c4444aed795cc69af78f690c080c0eec09c61c1602b46b74ab314411a702"/>
+    <encoded_png char_offset="201" justification="left" link="" sha256sum="eb87c0a138a9f971558a479a65002a63e397d93d0010f0191eccf30ce034cf9b"/>
+  </node>
+</cherrytree>

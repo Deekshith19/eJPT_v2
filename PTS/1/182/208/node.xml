@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="XSS Attack with xsser" unique_id="208" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708265223" ts_lastsave="1708266750">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+Intercept it
+
+
+Copy the index and paste in xsser
+
+
+
+Also copy the target_host part
+
+
+
+In the target_host part, remove the “helloworld” and enter XSS
+
+
+
+And we got the payload
+
+
+
+
+To get more injection( to check how vulnerable it is), add “--auto” in the command
+
+
+
+We 1291 injections in it
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> For custom script
+
+
+
+
+We  got the payload and added the payload to the proxy
+
+
+The script worked
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Do the similiar with Pull questions
+
+
+
+
+
+
+Copy and paste the index part in xsser and replace the choice=nmap to choice=XSS
+
+
+
+
+
+Found it is vulnerable and got the payload
+
+
+
+Using custom scripts
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="ac157dcaf7e899be11da833a55b422d12eaeebe034bebd66b17c0d8593dc3a84"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="13dd6039a955da02764dad6eda7dcc9ca532eb02b080c2801374b95ca0ed2db8"/>
+    <encoded_png char_offset="12" justification="left" link="" sha256sum="789801e842071485afb9c844d36af4c9a5e7471f6532662cabb2b53c3500d549"/>
+    <encoded_png char_offset="28" justification="left" link="" sha256sum="7d95e374147a0eaad2621d67051571d8ad0b5cbeba0df812457e915be895438b"/>
+    <encoded_png char_offset="66" justification="left" link="" sha256sum="f052079361006fd1f3702cba4e5b6609e7f596d14c99faef1b2b4e218a644114"/>
+    <encoded_png char_offset="101" justification="left" link="" sha256sum="cb41636dc22d9aeca492a920a784446c9b266b5b7416247cd7bcf6925e138f0b"/>
+    <encoded_png char_offset="168" justification="left" link="" sha256sum="dc78380594f5268c0162423c6db9823e99de2a85754443b090c9a99a689a4c9c"/>
+    <encoded_png char_offset="280" justification="left" link="" sha256sum="79b51848262ffc6fca3eb350d8f28b6eb664da6ad80624c002296adee76ff101"/>
+    <encoded_png char_offset="283" justification="left" link="" sha256sum="88a2bc34b9f439bebbcea1db2f341c394d209fc916375e55edd57fa79343e15b"/>
+    <encoded_png char_offset="338" justification="left" link="" sha256sum="a47f368b57cd34af0775576d7c7236f78b19a1fa84f28d696f35e3ca49bf4ab8"/>
+    <encoded_png char_offset="341" justification="left" link="" sha256sum="7669888478529e5b9767814a12e555a83a5deee7d75ea5c19057571c60f91fe8"/>
+    <encoded_png char_offset="399" justification="left" link="" sha256sum="b1ce5172c5bb7539692b86237c4b3686e77f0286e845724413e18235ac06b323"/>
+    <encoded_png char_offset="463" justification="left" link="" sha256sum="df9984e59f6a0b5a80c4e68f31990bfcfd2cbf596c35f400d32cf9818357df90"/>
+    <encoded_png char_offset="468" justification="left" link="" sha256sum="27b30d9c89291cb1906691012fc9c1c14f325be1d06fa91bec37af66488b08cf"/>
+    <encoded_png char_offset="555" justification="left" link="" sha256sum="fce1d2eaa0e05fddc0901449b7c7c70cc036824cc08af4d4aba71c48d9b085e4"/>
+    <encoded_png char_offset="557" justification="left" link="" sha256sum="4d3db13067ebacbee7ade1b44cf35f6265639f173bdee01e85e74e39e4494694"/>
+    <encoded_png char_offset="627" justification="left" link="" sha256sum="d42a92fbfe2f6bc9a2810872322419ee9fae6e3c690fdfa0aa498047c3a6b98b"/>
+    <encoded_png char_offset="630" justification="left" link="" sha256sum="75fdcde0341646a800baf425f7770d2578e281245fba2e9cb4d2cdb0fbec8fa1"/>
+    <encoded_png char_offset="634" justification="left" link="" sha256sum="5c24440af315f35ec7b5c37cacc3b02002472fbd20767d39a14454e794693717"/>
+    <encoded_png char_offset="637" justification="left" link="" sha256sum="2c72285236193597940ca36f59b3b2e12edfefe3de73047faa874fce4fcf286b"/>
+    <encoded_png char_offset="639" justification="left" link="" sha256sum="2f010786a1a85284b622405abc8f1660adcd62cea17f45e7fdad515b57adbf08"/>
+  </node>
+</cherrytree>

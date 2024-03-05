@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Mapping a Network" unique_id="20" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1702834212" ts_lastsave="1702835074">
+    <rich_text>
+1. ARP (RFC 826)
+
+2. ICMP (RFC 792)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+3. </rich_text>
+    <rich_text weight="heavy">Fping</rich_text>
+    <rich_text>:
+	fping differs from ping in that you can specify any number of targets on the command line, or specify a file containing the lists of targets to ping.  Instead of sending to one target until it times out or replies, fping will send out a ping packet and move on to the next target in a round-robin fashion. 
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="38" justification="left" link="" sha256sum="3bd2a2a51123439adfb575da5824c539162d6eae6f277251df3251d67651ad19"/>
+    <encoded_png char_offset="361" justification="left" link="" sha256sum="9764755bad8deec404323cb10bfddde28f0ad54c4c17b0100ee8d78715f65eab"/>
+    <encoded_png char_offset="363" justification="left" link="" sha256sum="ef8499a81aea141f916ff08f52450740dcb89c4447fe376cdb1f68132a175edc"/>
+    <encoded_png char_offset="365" justification="left" link="" sha256sum="8642e1d0b88fd8b6c8f881fd841ca59d3c36b82a778d4166211ec307bfe0e966"/>
+  </node>
+</cherrytree>

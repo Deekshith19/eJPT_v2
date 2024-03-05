@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Networking  Fundementals" unique_id="23" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1703253286" ts_lastsave="1703253454">
+    <rich_text>
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="48dcdf055a84ba432cd713f70ddc7e1f7225e34a7c5981f9d9467b70f45856cd"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="5f9d78cc790e6e6bc4cce56d1056f2f6d55b094f72d1542c65f25fcbe8bf7ca8"/>
+  </node>
+</cherrytree>

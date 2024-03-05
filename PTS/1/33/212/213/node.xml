@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Penteration Testing and Social Engineering" unique_id="213" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708280131" ts_lastsave="1708280184">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="c6c512019fff289867808511e82316b9397e65c8eb3e92888f29d5b54e3a4e95"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="acee71e91537afd34dbf995cb65a5d28b85369d6e4c7fe1cf0553247189856b7"/>
+    <encoded_png char_offset="10" justification="left" link="" sha256sum="cb09f5e23e3c21c07fa6fa79568e7f442f2a77e0a5375bfd47d3da483d19658b"/>
+  </node>
+</cherrytree>

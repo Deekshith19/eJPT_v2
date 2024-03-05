@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Bluekeep" unique_id="192" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707933869" ts_lastsave="1707933914">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+ </rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="37319537713e6b7f7ed2bcaa0ecba184950a03b1419ee96d690db3492c628941"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="c77500ca788e221bb12ebc1a2ba3a0d960e68d4c3a792f44202a32f5428c05e0"/>
+  </node>
+</cherrytree>

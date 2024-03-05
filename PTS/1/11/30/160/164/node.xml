@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="MsSql Metasploit" unique_id="164" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707129454" ts_lastsave="1707129639">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> The following is done on lab
+
+
+Enumerated password of the admin
+
+
+
+
+
+
+Enumerated password of dbadmin
+
+
+
+
+
+Enumerated password of auditor
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="68" justification="left" link="" sha256sum="131f9306b3bcb87e0194bd33eeec0cf68494e118adae6a0459fc3a2f6aa0ea36"/>
+    <encoded_png char_offset="107" justification="left" link="" sha256sum="279cc698be94b77edcaf094556729203c60e2381207840f9d6ee9803b0737640"/>
+    <encoded_png char_offset="144" justification="left" link="" sha256sum="ee093abc74264145f2510d0ef0329f7bf34d97490d7708597d57e12edb8f791f"/>
+    <encoded_png char_offset="150" justification="left" link="" sha256sum="43db445b0cdda8ba2201c317f226df84f85294c7437a361c931e959b23cbdd26"/>
+  </node>
+</cherrytree>

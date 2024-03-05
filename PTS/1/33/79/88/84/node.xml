@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Fixing Exploits" unique_id="84" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706032170" ts_lastsave="1706085814">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Here we are going to exploit using an exploit module manually
+
+
+This is a rejetoo exploit module written in python
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+This the exploit module
+Here it clearly says how to use it and the edb note give the additional things we need to do to get the required output
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We need to configure the exploit,, here we changes the "ip_addr" value to our ip
+
+
+As per the edbnote we need to host a server that must contain “nc.exe”
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+so we are copying the nc.exe to our current folder and hosting a simplehttp server using python
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Now we use netcat to catch everything
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here we are running all simultaneously,, first the simplehttp server,then the netcat and last the python script.
+
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Sometimes we need to run the python script multiple times to get the netcat revrse shell</rich_text>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="becea56cb7249aeab777cdb7015eee2f978e7d47f3d42c1705caa3cfced60cb4"/>
+    <encoded_png char_offset="123" justification="left" link="" sha256sum="1e7fea91ebf03ded4eddf28049ad45743f8bfa57ad727bbddf9003ed1794efc7"/>
+    <encoded_png char_offset="272" justification="left" link="" sha256sum="f0459ade9f51d36ba9731b8c8939eece67173d1670458ccfa2eda23390ef50a2"/>
+    <encoded_png char_offset="428" justification="left" link="" sha256sum="2e3bea7063d1444abda68336370bcc3f29b95c332a4473440579c9d4df9fb030"/>
+    <encoded_png char_offset="431" justification="left" link="" sha256sum="279507054b785d2965e10c08455a3c36cb2ec68481e9509b40bac10e1bd9889f"/>
+    <encoded_png char_offset="529" justification="left" link="" sha256sum="35b299f01959eb4fea4304c09a26378236903282a037de7213ebe68d87bc09cc"/>
+    <encoded_png char_offset="571" justification="left" link="" sha256sum="89c2f24991ac0e0e0d84b4d9e15b1c0929f69d552043044953c1a9858a6323e2"/>
+    <encoded_png char_offset="577" justification="left" link="" sha256sum="f09973e0f427b8204cd4e7285c1ff51d8081f6fd978e30681369112ec611378c"/>
+    <encoded_png char_offset="698" justification="left" link="" sha256sum="15b0f636ff9ca493d9fa1063974f2e2c3455ac8993babba5e5c3818623b0ca31"/>
+  </node>
+</cherrytree>

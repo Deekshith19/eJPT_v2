@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Identifying Vulnerabilities" unique_id="132" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706683988" ts_lastsave="1706708440">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> In the lab environment target machine, the PrivescCheck script is already downloaded
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+This script is used to identify priv escalation vuln and configuration issues after we got an initial access.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Here we are getting an initial access to the victim machine with the help of a module called web
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+This module creates a web server that provides us command ( a payload) where we can execute that on the target system to get initial access.
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Configuring the module
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we set the target as Powershell Binary
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we disable the powershell code being encoded in the basex64
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Now copy the payload and paste it in the command prompt of the victim
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+After hitting enter, the cmd disappears, however we'll get the connection on our terminal
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Then press enter
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we got the shell, now upgrade the shell to meterpreter (we need to use the module for upgrading because we need to change an option in the advanced option of shell_to_meterpreter module)
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here in WIN_TRANSFER, intead of seetting the tranfer method to powershell, we need to set its as visual basic(VBS)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Then press exploit to get the meterpreter session
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we got the meterpreter session
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we'll migrate to explorer.exe
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Now we are going to run the script priv esc script to identify the vulnerabilities
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Currently we are student user
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Copy the command to execute the script in the cmd.
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Paste and execute the command.
+The priv escaltn script may take some minutes for the complete execution
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+After the execution, we'll get many info
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Many things are not vulnerable
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here in the WinLogon section we got a valuabel info , which adm paswd
+
+
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="4214f1bc17b32cc215005a43c73f4fc9c79e9fee6d450d385c51027ac2dc1e47"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="52316a0c89d95051e5b4e49aa5364a942e486b8e9deb0caee5e5b8e42a3b2bfe"/>
+    <encoded_png char_offset="100" justification="left" link="" sha256sum="235452659d8d231fe9aa6dab6d09664a697331af740b5bfc2bf7935fbdbfa738"/>
+    <encoded_png char_offset="315" justification="left" link="" sha256sum="2f01174f715e7d15752725e951f47b54da6a9dc2bdd21bff60a0844541c77abc"/>
+    <encoded_png char_offset="491" justification="left" link="" sha256sum="e0f64dcdc80cfa94693668c325383f2936a16e021f578d5524bbdc9d03b3acea"/>
+    <encoded_png char_offset="539" justification="left" link="" sha256sum="0077022d0b4caaa7b32aa0930697aa799a7231ed66ed2eadfa89840133980376"/>
+    <encoded_png char_offset="608" justification="left" link="" sha256sum="fb137af226f36027063b8f8327e3b42b17ba9ba0fb9739987243c342be1daddf"/>
+    <encoded_png char_offset="682" justification="left" link="" sha256sum="2c8e7584fa49ca572ba69ac4f3c69ed9cbb05f5d4969cc809b2fbd617e003a63"/>
+    <encoded_png char_offset="775" justification="left" link="" sha256sum="fec8ef2fe0e39142a46da24576f5d35d227de85fe3d0012ad47fda5d517b362c"/>
+    <encoded_png char_offset="796" justification="left" link="" sha256sum="cf7ecc082e866b205195b208cd509f79a05ca9a01622381f649d568e1898e084"/>
+    <encoded_png char_offset="992" justification="left" link="" sha256sum="431b5ecd20be6f1acb7b2cacae416eeaa3dcd3a7051186d2530c6451f5c58d29"/>
+    <encoded_png char_offset="995" justification="left" link="" sha256sum="b1ae026743819e44ca1a22c3286efd617eb1c9bf35e89441408ab5471d2eabab"/>
+    <encoded_png char_offset="1113" justification="left" link="" sha256sum="743aac8a5267f178b2e2a0a432aa35c45948376391d5b890a37c33a8e4d4208b"/>
+    <encoded_png char_offset="1167" justification="left" link="" sha256sum="990456a2eaed194fb1967d88e329d8f6d1bd2bcbd47b6c2ed7ac98b8f0e8819e"/>
+    <encoded_png char_offset="1208" justification="left" link="" sha256sum="aa6fa269f9f7f9fa6e1750bf4f10b845c8cfd8103648f0f03d5d4e21e40f857c"/>
+    <encoded_png char_offset="1245" justification="left" link="" sha256sum="3b09ae2e2f8ee8f2ce2658b37e37c6859b20d5ecd1604eee725b1fc341d70ca1"/>
+    <encoded_png char_offset="1339" justification="left" link="" sha256sum="c3bb08f6411d22fad524e125de5de601968d3f980e081c786ec6f293ada56ab8"/>
+    <encoded_png char_offset="1375" justification="left" link="" sha256sum="6306f7abe2cd8ec529e19e8c4ec3ec31455d16c1fef26c6996c0b4b588ff5c39"/>
+    <encoded_png char_offset="1430" justification="left" link="" sha256sum="5c365d7e545710172ebe337c6e56bb51ce43726af7d313c075e0d8917234e057"/>
+    <encoded_png char_offset="1538" justification="left" link="" sha256sum="14e90a343a08d26e327129d4b23cc79c062a3405512f391f8736a1798c31ccf3"/>
+    <encoded_png char_offset="1583" justification="left" link="" sha256sum="fae0b103c1751de53bcb6e2fbad429a5db84863198468b83913fe69aeaa6c0a3"/>
+    <encoded_png char_offset="1586" justification="left" link="" sha256sum="2f29dc0d0dbcaa862f59b0f5bce7c8fe7deefa732ac35a16c82f3ec9f8228f75"/>
+    <encoded_png char_offset="1623" justification="left" link="" sha256sum="3a3874db50debce88fd6bc6bc49b5b19e4905dcacb71bce3cd458e0b2b785a0c"/>
+    <encoded_png char_offset="1700" justification="left" link="" sha256sum="89ba7994d012fc10484d96534626666ff256bc2ff85fcde7ae1aec3d5c94b43d"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Via Cron Jobs" unique_id="142" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706813178" ts_lastsave="1706816953">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+After ssh to server , then set the cron job 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we output all this in a file called cron.
+
+This command creates a cron job that runs every minute (</rich_text>
+    <rich_text family="monospace">* * * * *</rich_text>
+    <rich_text>) and executes a Bash one-liner. This one-liner establishes a reverse shell connection to the specified IP address (</rich_text>
+    <rich_text family="monospace">192.168.98.7</rich_text>
+    <rich_text>) on port 1234.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+
+“crontab -i cron” is used to add the cronfile to the cron jobs
+
+"crontab -l" is used to list all the cronjobs
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Now the cron job is added to the student user and so this job will be executed with relative to the permissions of the studnt user
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Now we remove the wait file from the server and turn on the netcat to get the connection since the netcat client is configured as cron job in the server.
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+Following is done on the lab
+
+
+
+
+We removed wait and then got exited to to attackdefense terminal.
+Later started netcat listener and after sometime we got the connection to server and retrieved the flag.
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="90e7f52f622bcd67a9a02aa9e24813d4083376c3ab559ed8e8e5f791b0c89e32"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="d68fd1055585199a7807cf99f71c8c9917d5931da7e9d3f4c9bb0ac0d9622d7c"/>
+    <encoded_png char_offset="63" justification="left" link="" sha256sum="e4a93b76111813a8ba259f416e8be87e779aad5679c99aa776c5dc9db01bf242"/>
+    <encoded_png char_offset="329" justification="left" link="" sha256sum="fdb4fd74f5b185d5d7b0822e3ed57fc0ebab36d29aa49afb56e894719d050c00"/>
+    <encoded_png char_offset="738" justification="left" link="" sha256sum="e0589234e1c7f13fd837f2d140d1b2976992810e02a65a689bf72d0cec500aff"/>
+    <encoded_png char_offset="777" justification="left" link="" sha256sum="fa2431b214c97804f796e1bce9b82b6b22b8246167777156c3a4b95c1c11e7e6"/>
+    <encoded_png char_offset="780" justification="left" link="" sha256sum="5a0817836cb7df5a9037028d28c9b1de2e6c2ac0d0e87696f7799554e389fa02"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="DNS Recon" unique_id="8" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="#f6f5f4" ts_creation="1702537204" ts_lastsave="1702622544">
+    <rich_text>
+1. </rich_text>
+    <rich_text weight="heavy">DNS recon</rich_text>
+    <rich_text>:
+
+dsnrecon is a simple python script that enables to gather DNS-oriented information on a given target.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+2. </rich_text>
+    <rich_text weight="heavy">DNS dumpster</rich_text>
+    <rich_text>:
+
+DNS Dumpster is a tool for gathering information about a domain's DNS records. It helps in discovering subdomains, analyzing DNS configurations, and assessing the external footprint of a domain for security purposes.
+
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="620044b1a800ac33c83b053f7238d738ae710d9d97469019414752322c987b0f"/>
+    <encoded_png char_offset="366" justification="left" link="" sha256sum="58a6be947e3c414d97ae1db9cc18f608ef9b6eade91b1fec420823b914e311a0"/>
+    <encoded_png char_offset="367" justification="left" link="" sha256sum="0c5b020eeba87226819b2c59e39ec27edf64239ca3aa45fc94a1f526cc8933bf"/>
+  </node>
+</cherrytree>

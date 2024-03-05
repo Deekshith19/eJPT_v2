@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Dates" unique_id="7" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="236" is_bold="1" foreground="#f6f5f4" ts_creation="1702534598" ts_lastsave="1708488946">
+    <rich_text>
+⏲️ </rich_text>
+    <rich_text weight="heavy">Day 1	13/12/2023 Wednesday:</rich_text>
+    <rich_text>
+
+Started Cherry tree and made upto ip addresses and one quiz. 	(37 m)
+
+
+⏲️</rich_text>
+    <rich_text weight="heavy">Day 2		14/12/2023 Thursday</rich_text>
+    <rich_text>:
+
+whois and one whois quiz
+
+Website foot printing with Netcraft (10m 47s)
+
+DNS Recon and one dns quiz(13m 34s)
+
+wafw00f (7m 31s)
+
+Sublist3r and its quiz (11m 36s)
+
+Total = 43m approx
+Remaining= 2h 17m
+
+
+⏲️</rich_text>
+    <rich_text weight="heavy">Day 3		15/12/2023 Friday</rich_text>
+    <rich_text>:
+
+Google Dorking and its quiz (22m 51s)
+
+theHarvester and its quiz (13m)
+
+Leaked Passwors (8m)
+
+Total= 44m approx
+
+Remaining =2h 16m
+
+
+⏲️</rich_text>
+    <rich_text weight="heavy">Day 4		16/12/2023 Saturday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+⏲️</rich_text>
+    <rich_text weight="heavy">Day 5</rich_text>
+    <rich_text>		</rich_text>
+    <rich_text weight="heavy">17/12/2023 Sunday</rich_text>
+    <rich_text>:
+
+DNS Zone Transfer and its quiz (28m 16s)
+
+Host discovery with Nmap (7m 2s)
+
+Port Scanning with Nmap (26m 17s) and its Quiz
+
+Lab: Windows Recon: Nmap Host Discovery 
+
+Mapping a Network(19m 49s)
+
+Total = (81m 24s) = 1h 21m
+
+Remaining = 1h 39m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 6 18/12/2023 Monday:</rich_text>
+    <rich_text>
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 7 19/12/2023 Tuesday:</rich_text>
+    <rich_text>
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 8  20/12/2023 Wednesday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 9  21/12/2023 Thursday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 10  22/12/2023 Friday</rich_text>
+    <rich_text>:
+
+Active Info Gathering (7m  18s) and its quiz
+
+Network Fundementals (15m 38s) and its quiz)
+
+Network Layer (31m 42s)
+
+Transport Layer Part 1 (21m 48s)
+
+		“ "				Part 2 (15m 56s)
+		
+Total = 90m = 1h 30m
+
+Remaining = 1h 30m
+
+
+
+Total Hours Studies = 4.9 h (295m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 11  23/12/2023 Saturday</rich_text>
+    <rich_text>:
+
+Network Mapping and its quiz (13m 3s)
+
+Host Discovery Techniques  and its quiz(10m 5s)
+
+Ping Sweeps  and its quiz(23m 28s)
+
+Host Discovery with Nmap- Part 1 (23m 29s)
+
+Host Discovery with Nmap - Part 2 and its quiz (27m 30s)
+
+Port Scanning with Nmap- Part 1 (17m 32s)
+
+Port Scanning with Nmap - Part 2   and its quiz (19s 28s)
+
+Total = 135m approx =2h 15m
+
+Remaining = 45m
+
+Overall = 3442 - 430 = 3012 m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 12  24/12/2023 Sunday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 13  25/12/2023 Monday</rich_text>
+    <rich_text>:
+
+Service Version &amp; OS Detection (16m 18s) &amp; its quiz 
+
+Nmap Scripting Engine (32m 24s) and its quiz and Lab
+
+Total (49m approx)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 14 26/12/2023 Tuesday</rich_text>
+    <rich_text>:
+
+(0m)
+
+Overall = 479m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 15 27/12/2023 Wednesday</rich_text>
+    <rich_text>:
+
+Firewall Detection &amp; IDS Evasion  (26m 22s)
+ 
+Overall = 505m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 16 28/12/2023 Thursday</rich_text>
+    <rich_text>:
+
+Optimizing Nmap Scans (20m 24s)
+
+Nmap Output Formats and its quiz (22m 5s)
+
+Total = 42m 29s
+
+Overall = 547m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 17 29/12/2023 Friday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 18 30/12/2023 Saturday</rich_text>
+    <rich_text>:
+
+Server and its Services &amp; its quiz (3m 38s)
+
+SMB: Windows Discover &amp; Mount ( 7m 41s)
+
+Total = 11m 19s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 19 31/12/2023 Sunday</rich_text>
+    <rich_text>:
+
+Overview of Windows Vulnerabilities &amp; its quiz (13m 59s)
+
+Frequently exploited Windows Services &amp; its quiz (10m 21s)
+
+Total = 24m 20s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 20 01/01/2024 Monday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 21 02/01/2024 Tuesday</rich_text>
+    <rich_text>:
+
+Introduction to the Metasploit Framework  &amp; its quiz (14m)
+ 
+Metasploit Framework Architecture  &amp; its quiz (19m 36s)
+ 
+Penetration Testing With The Metasploit Framework &amp; its quiz(6m 54s)
+
+Installing and Configuring Metasploit Framework &amp; its quiz (10m 54s)
+
+Total = 51m 24s
+
+Overall = 634m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 22 03/01/2024 Wednesday</rich_text>
+    <rich_text>:
+
+MSFconsole Fundamentals &amp; its quiz (24m 54s)
+
+Creating &amp; Managing Workspaces &amp; its quiz (8m 50s)
+
+Port Scanning &amp; Enumeration With Nmap &amp; its quiz (9m 32s)
+
+Importing Nmap Scan Results Into MSF &amp; its quiz (7m 16s)
+
+Total = 51m 32s
+
+Overall = 685m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 23 04/01/2024 Thursday</rich_text>
+    <rich_text>:
+
+Port Scanning With Auxiliary Modules &amp; its quiz and Lab (23m 24s)
+
+Ftp Enumeration &amp; its and lab (17m 55s)
+
+SMB Enumeration &amp; its quiz and Lab (17m 49s)
+
+Total =  59m 8s
+
+Overall = 744m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 24 06/01/2024 Friday</rich_text>
+    <rich_text>:
+
+Watched Videos for Web Server Enumeration &amp; MYSQL Enumeration only.
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 25 06/01/2024 Saturday</rich_text>
+    <rich_text>:
+
+SSH Enumeration  &amp; its quiz &amp; Lab (13m 23s)
+
+SMTP Enumeration &amp; its quiz &amp; Lab (8m 26s)
+
+Vulnerability Scanning with MSF &amp; its quiz ( 31m 4s)
+
+Total = 53m 
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 26 06/01/2024 Sunday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 27 08/01/2024 Monday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 28 09/01/2024 Tuesday</rich_text>
+    <rich_text>:
+
+Vulnerability Scanning With Nessus &amp; its quiz (28m 57s)
+
+Web App Vulnerability Scanning With WMAP &amp; its quiz (22m 23s)
+
+Generating Payloads With Msfvenom &amp; its quiz (30m 32s)
+
+Total = 82m approx
+
+Overall = 879m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 29 10/01/2024 Wednesday</rich_text>
+    <rich_text>:
+
+Exploiting A Vulnerable HTTP File Server &amp; its quiz and lab (12m)
+
+Exploiting Windows MS17-010 SMB Vulnerability &amp; its quiz (14m 6s)
+
+Total = 26m
+
+Overall = 905m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 30 11/01/2024 Thursday</rich_text>
+    <rich_text>:
+
+Exploiting WinRM (Windows Remote Management Protocol)    &amp; its quiz and Lab (17m 48s)
+
+Exploiting A Vulnerable Apache Tomcat Web Server  and its quiz and lab (19m 34s)
+
+Total = 37m 22s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 31 12/01/2024 Friday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 32 13/01/2024 Saturday</rich_text>
+    <rich_text>:
+
+Meterpreter Fundamentals  and its quiz (30m 22s)
+
+Upgrading Command Shells To Meterpreter Shells (9m 38s)
+
+Total = 40m 
+
+Overall = 982m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 33 14/01/2024 Sunday</rich_text>
+    <rich_text>:
+
+Exploiting A Vulnerable FTP Server (11m 52s)
+
+Exploiting Samba (11m 32s)
+
+Exploiting a vulnerable SSH Server (9m 45s)
+
+Exploiting a vulnerable smtp server (10m)
+
+All of its quiz and Lab is done
+
+Total = 43m
+
+Overall = 1025m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 34 15/01/2024 Monday</rich_text>
+    <rich_text>:
+
+Windows Post Exploitation Modules &amp; its lab &amp; quiz (31m 22s)
+
+Total = 31m 22s
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 35 16/01/2024 Tuesday</rich_text>
+    <rich_text>:
+
+Windows Privilege Escalation: Bypassing UAC &amp; its quiz and lab (16m 16s)
+
+Total = 16m 16s
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 36 17/01/2024 Wednesday</rich_text>
+    <rich_text>:
+
+Windows Privilege Escalation:Token Impersonation With Incognito and its lab and quiz (19m 40s)
+
+Total = 10m 40s
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 37 18/01/2024 Thursday</rich_text>
+    <rich_text>:
+
+Dumping Hashes With Mimikatz and its lab and quiz ( 16m 39s)
+
+Pass-the-Hash With PSExec &amp; its quiz ..( but its lab is different machine) ( 10m 51s)
+
+Establishing Persistence On Windows &amp; its quiz and lab (14m 42s)
+
+Enabling RDP &amp; its quiz and lab (13m 19s)
+
+Windows Keylogging &amp; its quiz and lab (10m 2s)
+
+Clearing Windows Events and logs &amp; its quiz and labs ( 11m 13s)
+
+Total = 76m
+
+Overall = 1160m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 38 19/01/2024 Friday</rich_text>
+    <rich_text>:
+
+Pivoting &amp; its quiz ( unfortunately even everything is done , the required meterpreter session of victim 2 is not coming,, need to do lab once more) (19m 26s)
+
+Linux Post Exploitation Modules and its quiz (24m 6s)
+
+Total= 44m
+
+Overall = 1204m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 39 20/01/2024 Saturday</rich_text>
+    <rich_text>:
+
+Linux Privilege Escalation: Exploiting A Vulnerable Program and its quiz and lab (14m 24s)
+
+Dumping Hashes with Hashdump &amp; its quiz (14m 26s)
+
+Total = 29m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 40 21/01/2024 Sunday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 41 22/01/2024 Monday</rich_text>
+    <rich_text>:
+
+Establishing Persistence On Linux &amp; its quiz (27m 56s)
+
+Introduction to Exploitation and its quiz (10m)
+
+Total = 38m
+
+Overall = 1271m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 42 23/01/2024 Tuesday</rich_text>
+    <rich_text>:
+
+Banner Grabbing and its quiz (12m 44s)
+
+Vulnerability Scanning With Nmap Scripts and its quiz and lab (21m)
+
+Vulnerability Scanning With Metasploit andits quiz (12m 7s)
+ 
+Searching For Publicly Available Exploits and its quiz (28m 41s)
+
+Searching For Exploits With SearchSploit and its quiz (28m 32s)
+
+Fixing Exploit and its quiz and its lab (17m 11s)
+
+Total = 131m
+
+Overall =1402
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 43 24/01/2024 Wednesday</rich_text>
+    <rich_text>:
+
+Cross-Compiling Exploits and its quiz (16m 43s)
+
+Netcat Fundamentals and its quiz and lab (28m 7s)
+
+Bind Shells and its quiz (15m 24s)
+
+Reverse Shells and its quiz ( 11m)
+
+Total = 71m 14s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 44 25/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Thursday</rich_text>
+    <rich_text>:
+
+Reverse Shell Cheatsheet &amp; its quiz (11m 25s)
+
+The Metasploit Framework (MSF) and its quiz and lab (27m)
+
+PowerShell-Empire and its quiz (34m 27s)
+
+Windows Black Box Penetration Test and its quiz (7m 31s)
+
+Port Scanning &amp; Enumeration - Windows and its quiz (21m)
+
+Targeting Microsoft IIS FTP and its lab and quiz (21m)
+
+Targeting OpenSSH and its quiz and its lab (12m 42s)
+
+Total = 135m 5s
+
+Overall = 1608m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 45 26/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Friday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 46 27/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Saturday</rich_text>
+    <rich_text>:
+
+Targeting SMB and its quiz and lab (18m 46s)
+
+Targeting MySQL Database Server and its quiz and lab (18m)
+
+Linux Black Box Penetration Test and its quiz (4m 28s)
+
+Port Scanning &amp; Enumeration - Linux  and its quiz (13m 15s)
+
+Targeting vsFTPd and its quiz (26m)
+
+Total = 81m
+
+Overall = 1689m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 47 28/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Sunday</rich_text>
+    <rich_text>:
+
+Targeting PHP and its quiz (12m 47s)
+
+Targetting Samba and its quiz and lab ( All the labs included in linux black box is done in the samba lab)  (9m 32s)
+
+AV Evasion with Shellter and its quiz ( 31m 32s)
+
+Obfuscating Powershell Code and its quiz (16m 41s)
+
+Introduction To Post-Exploitation and its quiz (11m 15s)
+
+Post-Exploitation Methodology and its quiz (8m 48s)
+
+Enumerating System Information and its quiz (16m 55s)
+
+Enumerating Users &amp; Groups and its quiz (16m 16s)
+
+Enumerating Network Information and its quiz (18m 43s)
+
+Total = 142m 29s
+
+Overall = 1831m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 48 29/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Monday</rich_text>
+    <rich_text>:
+
+Upgrading Non-Interactive Shells and its quiz (13m 24s)
+
+Enumerating Processes &amp; Services and its quiz (19m 19s)
+
+Automating Windows Local Enumeration and its quiz (29m 46s)
+
+Enumerating System Information (Linux) and its quiz (21m 47s)
+
+Enumerating Users &amp; Groups and its quiz (13m 50s)
+
+Enumerating Network Information and its quiz (14m 11s)
+
+Total = 112m 17s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 49 30/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Tuesday</rich_text>
+    <rich_text>:
+  
+Enumerating Processes &amp; Cron Jobs and its quiz (14m 52s)
+
+Automating Linux Local Enumeration and its quiz (30m)
+
+Setting Up A Web Server With Python and its quiz (12m 30s)
+
+</rich_text>
+    <rich_text scale="h3">Transferring Files To Windows </rich_text>
+    <rich_text>Target and its quiz and lab (15m 28s)
+
+</rich_text>
+    <rich_text scale="h3">Transferring Files To Linux Targets</rich_text>
+    <rich_text> and its quiz and lab (12m 17s)
+
+Total = 85m 7s
+
+Overall = 2028m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 50 31/01/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Wednesday</rich_text>
+    <rich_text>:
+
+Identifying Windows Privilege Escalation Vulnerabilities and its quiz (24m 19s)
+
+Windows Privilege Escalation and its quiz and Lab (9m 53s)
+
+Linux Privilege Escalation - Weak Permissions and its quiz  and Lab (12m 52s)
+
+Linux Privilege Escalation - SUDO Privileges and its quiz (10m)
+
+Persistence Via Services and its quiz and lab (21m 53s)
+
+Persistence Via RDP and its quiz ( do the lab once more) (13m 31s)
+
+Total = 92m 28s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 51 01/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Thursday</rich_text>
+    <rich_text>:
+
+Persistence Via SSH Keys and its quiz and lab ( 16m 4s)
+
+Persistence Via Cron Jobs and its quiz and lab (12m 23s)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 52 02/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Friday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 53 03/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Saturday</rich_text>
+    <rich_text>:
+
+SMB: Windows Discover &amp; Mount and its lab (7m 41s)
+
+SMB: Nmap Scripts and its lab (16m 33s)
+
+SMB: SMBMap and its lab (7m 44s)
+
+SMB: Samba 1 and its lab (10m 16s)
+
+SMB: Samba 2 and its lab (9m 40s)
+
+SMB: Samba 3 and its lab (8m 31s)
+
+Dictionary Attack and its lab (14m 9s)
+
+FTP and its lab(8m) 
+
+FTP Anonymous Login and its lab (3m 46s)   
+	
+Total = 86m 20s
+
+Overall = 2235m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 54 04/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Sunday</rich_text>
+    <rich_text>:
+
+SSH and its lab (8m 52s)
+
+SSH Dictionary attack and its lab (8m 58s)
+
+HTTP IIS and tis lab (8m 48s)
+
+HTTP IIS Nmap Scripts and its lab (6m 20s)
+
+HTTP Apache and its lab (13m 13s)
+
+MySQL   (23m)
+
+Total =  70m
+
+Overall = 2305m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 55 05/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Monday</rich_text>
+    <rich_text>:
+
+MySQL Dictionary Attack and its lab (3m 19s)
+
+MSSQL Nmap Scripts and its lab (9m 38s)
+
+MSSQL Metasploit and its lab (9m 10s)
+
+Vulnerabilities and its quiz (28m 49s)
+
+Case Studies (39m 13s)
+
+Nessus and its lab (6m 51s)
+
+Vulnerability Research Lab and its lab (16m 21s)
+
+Total = 113m 18s
+
+Overall = 2418m 
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 56 06/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Tuesday</rich_text>
+    <rich_text>:
+
+Cybersecurity Basics and its quiz (6m 30s)
+
+Compliance and its quiz(7m 52s)
+	
+Frameworks and Maturity and its quiz (9m 31s)
+
+Auditing (5m 56s)
+
+SCAP Scan &amp; Stigviewer (15m 20s)
+
+Nmap (6m 9s)
+
+Nessus and its lab (10m 52s) 
+
+Total = 62m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 57 07/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Wednesday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 58 08/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Thursday</rich_text>
+    <rich_text>:
+
+Exploiting Microsoft IIS WebDAV and its quiz (24m 16s)
+
+Exploiting WebDAV With Metasploit and its quiz and lab (16m 30s)
+
+Exploiting SMB With PsExec and its quiz and its lab (21m 24s)
+
+Total =62m
+
+Overall = 2542m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 59 09/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Friday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 60 10/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Saturday</rich_text>
+    <rich_text>:
+
+(0m)
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 61 11/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Sunday</rich_text>
+    <rich_text>:
+
+Intro to Web (27m 39s)
+
+Web and Http protocol (27m 18s)
+
+Directory Enumeration with Gobuster (6m 23s)
+
+Total = 61m 20s
+
+Overall = 2603m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 62 12/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Monday</rich_text>
+    <rich_text>:
+
+Web and HTTP Protocol  (27m 18s)
+
+Directory Enumeration with Gobuster (6m 23s)
+
+Directory Enumeration with BurpSuite (7m 30s)
+
+Scanning Web Application with Nikto (11m 16s)
+
+Passive Crawling with Burp Suite (6m 52s)
+
+Total = 60m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 63 13/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Tuesday</rich_text>
+    <rich_text>:
+
+Attacking HTTP Login Form with Hydra and its lab (performed using burp suite)  (11m 18s)	
+
+Attacking Basic Auth with Burp Suite and its lab (9m 53s)
+
+Total = 21m
+
+Overall = 2684m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 64 14/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Wednesday</rich_text>
+    <rich_text>:
+
+Exploiting Windows MS17-010 SMB Vulnerability (EternalBlue) and its quiz (22m 4s)
+
+Exploiting RDP and its lab (13m 58s)
+
+Exploiting WinRM and its lab (18m 48s)
+
+Attacking HTTP Login Form with ZAProxy  and its lab (done using burp) (6m 12s)
+
+Bypassing UAC With UACMe and its lab ( Done using UAC bypass injection msf module) (34m 47s)
+
+Access Token Impersonation and its quiz and lab (18m 31s)
+
+Total = 114m 20s
+
+Overall = 2798m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 65 15/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Thursday</rich_text>
+    <rich_text>:
+
+Exploiting Bash CVE-2014-6271 Vulnerability (Shellshock) and its quiz and lab (22m 8s)
+
+Exploiting FTP and its quiz and lab (11m 18s)
+
+Exploiting SSH and its quiz and its lab (9m 57s)
+
+Exploiting SAMBA and its quiz and lab (20m 21s)
+
+Dumping &amp; Cracking NTLM Hashes and its quiz and its lab (27m 20s)
+
+Dumping &amp; Cracking Linux Password Hashes and its quiz and lab (21m 11s)
+
+Total = 112m 15s
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 66 16/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Friday</rich_text>
+    <rich_text>:
+
+Pivoting and its quiz and lab (26m 26s)
+
+Clearing Your Tracks On Windows and its quiz and lab (25m 38s)
+
+</rich_text>
+    <rich_text scale="h3">Clearing Your Tracks On Linux</rich_text>
+    <rich_text> and its lab and quiz ( 16m 53s)
+
+Total = 69m
+
+Overall = 2979m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 67 17/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Saturday</rich_text>
+    <rich_text>:
+
+</rich_text>
+    <rich_text scale="h3">Network-Based Attacks - Part 1</rich_text>
+    <rich_text> and its quiz (19m 40s)
+
+</rich_text>
+    <rich_text scale="h3">Network-Based Attacks - Part 2</rich_text>
+    <rich_text> and its quiz (28m 40s)
+
+</rich_text>
+    <rich_text scale="h3">Tshark</rich_text>
+    <rich_text> (7m 8s)
+
+</rich_text>
+    <rich_text scale="h3">Filtering Basics</rich_text>
+    <rich_text> (13m 9s)
+
+</rich_text>
+    <rich_text scale="h3">Arp Poisoning</rich_text>
+    <rich_text> (8m)
+
+</rich_text>
+    <rich_text scale="h3">Exploiting Misconfigured Cron Jobs</rich_text>
+    <rich_text> and its quiz (19m 3s)
+
+Exploiting SUID Binaries and its quiz (11m 45s)
+
+</rich_text>
+    <rich_text scale="h4">Dumping Linux Password Hashes</rich_text>
+    <rich_text> and its quiz (13m 44s)
+
+</rich_text>
+    <rich_text scale="h3">Exploiting WinRM</rich_text>
+    <rich_text> and its quiz (18m 48s)
+
+</rich_text>
+    <rich_text scale="h3">Dumping Hashes With Mimikatz</rich_text>
+    <rich_text> and its quiz (17m 28s)
+
+</rich_text>
+    <rich_text scale="h3">Frequently Exploited Linux Services</rich_text>
+    <rich_text> and its quiz (8m 40s)
+
+Total = 166m
+
+Overall = 3145m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 68 18/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Sunday</rich_text>
+    <rich_text>:
+
+Searching For Passwords In Windows Configuration Files (Unattended Installation lab) and its quiz and lab (17m 25s)
+
+Exploiting RDP and its quiz and lab (13m 58s)
+
+SQL Injection with SQLMap and its lab (23m 58s)
+
+XSS Attack with XSSer (12m 28s)
+
+Authenticated XSS Attack with XSSer (10m)
+
+WiFi Traffic Analysis (12m 56s)
+
+Filtering WiFi (9m 41s)
+
+Social Engineering Fundamentals and its quiz (21m 16s)
+
+Case Studies (10m 27s)
+
+Penetration Testing and Social Engineering (13m 44s)
+
+Let's goPhishing! (14m 33s)
+
+Total =  160m 26s
+
+Overall = 3305m
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 69 19/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Monday</rich_text>
+    <rich_text>:
+
+Exam Day
+
+
+</rich_text>
+    <rich_text weight="heavy">⏲️Day 70 20/02/2024</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">Tuesday</rich_text>
+    <rich_text>:
+
+Exam Day</rich_text>
+  </node>
+</cherrytree>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="FTP" unique_id="151" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706989678" ts_lastsave="1706990413">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> This video shown some basics of ftp
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following is donw on lab
+
+
+Enumerating the password of the user ‘auditor’ and retrieving the flag
+
+
+
+
+Flag retrieved
+
+
+
+</rich_text>
+    <encoded_png char_offset="143" justification="left" link="" sha256sum="f8408737fd99c5479ce7733ac9a732daccec4fc5e3d79234448c79c23b6a68fb"/>
+    <encoded_png char_offset="146" justification="left" link="" sha256sum="83f73ac721c2806ba11a818a82af39bf8085d964de000e4ebc0a00cc26ddd88f"/>
+    <encoded_png char_offset="164" justification="left" link="" sha256sum="ff8dd2649c90bcf0829a2d521306554bde1b0bedf3361c09e1d5b144566b7eee"/>
+  </node>
+</cherrytree>

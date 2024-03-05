@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Cross Compilation" unique_id="85" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706041656" ts_lastsave="1706085818">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Cross compilation means compiling code for another system,, example linux compiling a code for windows.
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Compiling windows exploit in linux
+
+
+
+
+
+Here we are compiling a windows exploit in linux and is writing into an exploit file. (This is for 64 bit windows)
+
+
+
+(For 32bit windows)
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Below is given a dirty cow exploit code that compiles the code written in C for linux
+
+
+
+It clearly gives info abouit compiling
+
+Compiling the exploit code
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">
+4.</rich_text>
+    <rich_text> If the compilation is unsuccessful, we can go to the offensive security git hub pre cross compiled binaries
+
+
+
+
+
+
+Now all the binaries are transferred to Gitlab
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="e8af9dce008bbaf2bcc0d4931f9f0f1e569334c7f1bf7b7097e9ba424c9f310b"/>
+    <encoded_png char_offset="153" justification="left" link="" sha256sum="1a6e05f5dd42d1337218c79d121479ade8c28c16c4ee25d1194266970fb8faa3"/>
+    <encoded_png char_offset="156" justification="left" link="" sha256sum="40d3df826bdb0174d9f6bdc54772c0f416d37b16e0a4471dde7613dc4d0adf47"/>
+    <encoded_png char_offset="276" justification="left" link="" sha256sum="5ebb9e707b1f1b257123ae9955c3ecfda3a851cfe4fb4562f16c6933f8c348aa"/>
+    <encoded_png char_offset="298" justification="left" link="" sha256sum="fc942297d4862b0e0d2df76bd9fdccfdb5ffb2d8946563f3d21840d8caddf582"/>
+    <encoded_png char_offset="392" justification="left" link="" sha256sum="d6c80d4765cb4da9688e880fe2ddc45f6eeeec1707c7ac6721717d7cb53a038d"/>
+    <encoded_png char_offset="462" justification="left" link="" sha256sum="1eef4ed5b2a1479a9877fad3d836d1f72376ea25254416d628db9579f56eb422"/>
+    <encoded_png char_offset="465" justification="left" link="" sha256sum="57774550e050c01e0a13d7be649da3a981d441fef74893f940d0f846cb454786"/>
+    <encoded_png char_offset="582" justification="left" link="" sha256sum="c6d69f9e9e1684a987d7a29a5adacedf18b4dd5be4bad6c37ef1b2b536ff5a19"/>
+    <encoded_png char_offset="585" justification="left" link="" sha256sum="dc8698cb7156de09a844b4a150c614945242538e59297c4af61460efee068fb8"/>
+    <encoded_png char_offset="636" justification="left" link="" sha256sum="4995c2ea695c8fcf935f3b8d21480b02e7b6befd998d7abbe7c17188ad549772"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Scap Scan &amp; Stugviewer" unique_id="177" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707218101" ts_lastsave="1707220109">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">SCAP</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="59aca37ee99a51fd8a5e2ed86a7f2afbbc361e3ae42e1037d9daba115104456e"/>
+    <encoded_png char_offset="19" justification="left" link="" sha256sum="98b40d52a8f3818775d6b2723f1b70437e89406f00238c6cddd91cce4f9320e1"/>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="5cdf240132ed37bb4e4936a4cd0d6f57ee2e2db69881141a4c159a5d2c873b0c"/>
+    <encoded_png char_offset="33" justification="left" link="" sha256sum="297e4db4bfec775ed0629e344e27a2f8cba426790ba2ba77fcf2acda70b085d7"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="95be7f5bc2e5c80ae9711fdcd083b817087381805919f151bc1f08a350767516"/>
+  </node>
+</cherrytree>

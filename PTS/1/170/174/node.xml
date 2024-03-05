@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Frameworks and Maturity" unique_id="174" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707212674" ts_lastsave="1707213009">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="2d796ab130f8c9dac34fd883b5695584249e0518a1471cee5cf6dcb4bd0ceaaf"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="9f0785b2ead1f5acb90a9543463e3e4dfaaadcd3387afd202b242c2096bbcb1f"/>
+    <encoded_png char_offset="10" justification="left" link="" sha256sum="8633dd27ba97c63339e4907d5240373df555e649661ff9fe141211044e82e8c0"/>
+    <encoded_png char_offset="13" justification="left" link="" sha256sum="f3288340c96cf8ebc53d3c95bc372eaba08f26370609c0ace6c6c5111751545d"/>
+    <encoded_png char_offset="16" justification="left" link="" sha256sum="e9a4efb4038f4be66188be041b77e7a36008ae5a2d6b1daac8603b74bae04c64"/>
+    <encoded_png char_offset="19" justification="left" link="" sha256sum="ac3f1a7e9c36bec5f00860ec8823032b6f081c6e4e360f4dc5fcf9abdce74b83"/>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="3c93775990c2ab87251f1c21fbd2dbf7ad281a9d3745517db2361047fc8dadb1"/>
+    <encoded_png char_offset="26" justification="left" link="" sha256sum="c6056a5cf561a62c03bf88e098f2d5fc1b087a4cabd8e72b00441236c78bd2d4"/>
+  </node>
+</cherrytree>

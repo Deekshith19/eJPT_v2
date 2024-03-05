@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SQL Lesson" unique_id="160" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="118" is_bold="1" foreground="#10ffe3" ts_creation="1707064899" ts_lastsave="1707129454">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> mssql info
+
+nmap &lt;target&gt; -p1433 --script ms-sql-info
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> ntlm info
+
+nmap &lt;target&gt; -p1433 --script ms-sql-ntlm-info --script-args ms.sql.instance-port=1433
+
+
+The NTLM protocol is used for various security-related functions, including authentication during network logon and the establishment of secure communication channels.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+This command will perform an Nmap scan against the specified target on port 1433, using the </rich_text>
+    <rich_text family="monospace">ms-sql-info</rich_text>
+    <rich_text> script to gather information about the Microsoft SQL Server. </rich_text>
+    <encoded_png char_offset="59" justification="left" link="" sha256sum="ba8538d61038882cb0edcf7c6e9dfd9a744882de99d3b79b1738ec4c2e9b298d"/>
+    <encoded_png char_offset="336" justification="left" link="" sha256sum="e15c4afc8cfd60d156727b4b6809427275e978a3558039e81243f670f4b0e9ea"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Users &amp; Groups" unique_id="116" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706468064" ts_lastsave="1706469131">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Exploited the rejetto and obtained the meterpreter session
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> To get the history of logged on users
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> To get more info about privileges from shell than in meterpreter session
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> To see currently logged on users from the shell
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> To see all the users in the system
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> To see more info about a particular user
+
+
+
+
+Here checked additional info about administrator user
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> To see the local group
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text> To see all the users on a particular group
+
+
+here we are checking who all the users under the administrators</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="5f6cea0d7ca297237c2b5e3d03d846a7e30391c7a0943c1135ec9fe6ae47b5aa"/>
+    <encoded_png char_offset="72" justification="left" link="" sha256sum="bd028488ebb3e3e1d626acb80593573d10c83b877bf406b466443934ab9fc0fd"/>
+    <encoded_png char_offset="120" justification="left" link="" sha256sum="b3f9bee4a49ca3f4c7b2925b20495b088cadd380442abf999f086ddfe1f70669"/>
+    <encoded_png char_offset="202" justification="left" link="" sha256sum="f3d9240306276b2ec4ceb2758f3b787a92f93790738cad78b99320c11a0867ba"/>
+    <encoded_png char_offset="258" justification="left" link="" sha256sum="1f6dc81ddb4524af1c1fe3f70c0c24b72d765827517b94eb09fa0c204b8ef7b0"/>
+    <encoded_png char_offset="304" justification="left" link="" sha256sum="eda03105a6b4b68de7822e8a73bbfd630e247463556b1007f79ed846866d746d"/>
+    <encoded_png char_offset="356" justification="left" link="" sha256sum="b9f2225dd60d0321b4396f9125313f3a1b9c16eedf22fe22d4a00d71998a925f"/>
+    <encoded_png char_offset="359" justification="left" link="" sha256sum="c1e9c5f8d1a082a655e4193c592040c1031043f67a994af8016250a57a66edc3"/>
+    <encoded_png char_offset="446" justification="left" link="" sha256sum="5182b8ba78c6e166e937d685a2a946f01f09e3c16e7021f135c2628a8cc1917f"/>
+    <encoded_png char_offset="449" justification="left" link="" sha256sum="321e58a3add7962fdc2e4b82cfd2af54692c88650a5ecd9ca034749b283da612"/>
+    <encoded_png char_offset="502" justification="left" link="" sha256sum="bd424d394a833036c856df2763ca7b2e576307d96b4ecdac11e2b95a619957ab"/>
+  </node>
+</cherrytree>

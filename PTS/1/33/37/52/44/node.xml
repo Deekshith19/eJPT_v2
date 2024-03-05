@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMB Enumeration" unique_id="44" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704403154" ts_lastsave="1704879777">
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+ we use scanner/smb/smb_version  auxiliary module to get the version of smb used
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ Here it is actually using linux 
+ 
+ 
+ 
+ Enumerate the users using auxiliary/scanner/smb/smb_enumusers
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ 
+ Now try to login to admin user as same did in ftp
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="1" justification="left" link="" sha256sum="8c93dd8c3853bc926afbdcffc3d45adc4be76c342e184a6a311ec077d936e8eb"/>
+    <encoded_png char_offset="90" justification="left" link="" sha256sum="7d034f16a352f0cbbf555f9eb4fc3193eeb4f950c85c1a2355bf7a52f7582c07"/>
+    <encoded_png char_offset="200" justification="left" link="" sha256sum="713e52362e7d307f57be94cc2597e7c73edb4b6f3d0c5dc0de644ec0794bda68"/>
+    <encoded_png char_offset="262" justification="left" link="" sha256sum="a0ad6f5d479b5150a31a85c4796636f2106728a0a195d1660443b9597741fdb2"/>
+  </node>
+</cherrytree>

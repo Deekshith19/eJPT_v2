@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="WebDav" unique_id="180" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707329398" ts_lastsave="1707747593">
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">
+1.</rich_text>
+    <rich_text> Following is done on lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+uploaded the files(including the .asp)
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Selected the exploit and configured the required options
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Retrievd the flag
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="33" justification="left" link="" sha256sum="06ead6a650ee353d41c800e8d1e522c82c846825c4eedc2b19d4f9cfc3e75de8"/>
+    <encoded_png char_offset="76" justification="left" link="" sha256sum="f774daba0214ec3732f70f76e388fa3fd886c98f6dfe4eb376947cdcb10bad69"/>
+    <encoded_png char_offset="81" justification="left" link="" sha256sum="37d0eb4150b6d9fa7d49c5e1d826be142d322610699635f312c5784842755991"/>
+    <encoded_png char_offset="140" justification="left" link="" sha256sum="822c9746bb0db92dae060462c9aeb29115d558c7b09ded0578af7abedc60736c"/>
+    <encoded_png char_offset="148" justification="left" link="" sha256sum="a945531af13b3368ba12f98b1d2ca2ef3633f1b2818451e5f4f1571a2d84d5d2"/>
+    <encoded_png char_offset="170" justification="left" link="" sha256sum="be71f792bde72e447d980f422525c25fc10f9abcb9e6437b7f16bd07d06206d9"/>
+  </node>
+</cherrytree>

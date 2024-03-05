@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Meterpreter_fundementals" unique_id="61" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704985326" ts_lastsave="1705237546">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Getuid:</rich_text>
+    <rich_text> retrieves the user ID (UID) of the current session. This information is useful for understanding the privileges associated with the compromised user account,
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+By ‘-C’  we are able to run code with a particular session ID (here it is 1) without actually interacting with it.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Renaming a session
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+To download any particular file from the target system to our system.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>  </rich_text>
+    <rich_text weight="heavy">Checksum</rich_text>
+    <rich_text> :
+  
+Checksums are primarily employed to verify the integrity of data during transmission, ensuring that it has not beecorrupted or tampered with. They help in detecting errors in the transmitted data.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> Search
+
+We can search for files using ‘search’ command
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we are searching the files having php extension
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here we are searching a file with a parameter.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+The </rich_text>
+    <rich_text family="monospace">ps</rich_text>
+    <rich_text> command in Meterpreter lists running processes on a compromised system, providing valuable information for understanding system functionality, targeting processes for exploitation, and planning actions like privilege escalation or lateral movement within a network.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text> Migrate
+
+To migrate to any particular process.
+
+The </rich_text>
+    <rich_text family="monospace">migrate</rich_text>
+    <rich_text> command in Meterpreter is used to switch the current process to another one on the compromised system. This helps in maintaining control, ensuring stability, and escalating privileges for post-exploitation tasks
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">10.</rich_text>
+    <rich_text> Upgrading to meterpreter shell
+
+
+First we creat a session.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Upgrading the shell
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Setting the session and the LHOST
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Now we got the session
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+Alternative method (it is more faster method)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="b5d7bd578a70e5af0dbecbc9f42f35718d36e59b9afb1d8fb5e5086c7ee5ac1b"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="b66004b7a69e4b4ec9e511c1a4dd2669ebbb770b34e931707e8581a528625c86"/>
+    <encoded_png char_offset="180" justification="left" link="" sha256sum="c1806d32cdb19536f494e8c1df9cb7bc6261521994867c60da3f28c40d343ab1"/>
+    <encoded_png char_offset="189" justification="left" link="" sha256sum="a4a9530bc2f846850e13a1bc6fccf8cec745c4b6676a73b43e63bc992be09f5b"/>
+    <encoded_png char_offset="193" justification="left" link="" sha256sum="0b7808c6f06ad1c2b158abfe2e25f4ab16f8e89b7d39eeec9e21609295077ad2"/>
+    <encoded_png char_offset="337" justification="left" link="" sha256sum="6d8d1778e28c8f98f9468be9b54188d2114e7f6c3b4a11e00b2095a0440f2696"/>
+    <encoded_png char_offset="414" justification="left" link="" sha256sum="fc6bcee3683811f0a0c5c98d2007fbe9aae3650c1e6874d310b35cc09514d7d4"/>
+    <encoded_png char_offset="634" justification="left" link="" sha256sum="61cfc96ad9d76207188625565a53184c29cef1b38672841cb285e1dad235006c"/>
+    <encoded_png char_offset="698" justification="left" link="" sha256sum="7446113349cb49c65308ce49bdbf7ac3c28c66d2c733a2c9f273ae80d0b28919"/>
+    <encoded_png char_offset="755" justification="left" link="" sha256sum="4bb6de8beabeb33f718c07586d3a4c67cff1865e21ef1eee26f25b43d59be611"/>
+    <encoded_png char_offset="812" justification="left" link="" sha256sum="4f9dc4891aa021d34e9e9692f20f22768778de339aa69e3cafe57feec41ebdcd"/>
+    <encoded_png char_offset="1366" justification="left" link="" sha256sum="621d7bec4ad145f797e33b53e289fd29f1d429f105eb3f23cdbf4b640e2de743"/>
+    <encoded_png char_offset="1435" justification="left" link="" sha256sum="da0cf2a5ebf363807830617233cadc0e0fd5517c812c0629d9a7bd502adc22e6"/>
+    <encoded_png char_offset="1438" justification="left" link="" sha256sum="9b0b5e5d6376ebc5a5ead82b234a9a9ee13dee6b0c8a68b9e5a50bd2d3ef8891"/>
+    <encoded_png char_offset="1464" justification="left" link="" sha256sum="b2be159491d65be4dbd32043955cf78547c499461adcc64cb176336d1b2b6048"/>
+    <encoded_png char_offset="1503" justification="left" link="" sha256sum="5506f061a3d1cdcbb0c0dae32086962fabe76ae2f6ab20f8476f61d93ba7ee14"/>
+    <encoded_png char_offset="1532" justification="left" link="" sha256sum="a88fe1e92e6d485d51e95e28ee55c948329a48cd33809a5062efcd8c480bb434"/>
+    <encoded_png char_offset="1585" justification="left" link="" sha256sum="757c2718db856a8fe80191094d7c15eabecf808c400724fb4ef946dc1a565f78"/>
+    <encoded_png char_offset="1588" justification="left" link="" sha256sum="692ff046b6169ce57c6f67896bc1d98561cc3e7e345c2058df20398563ccf491"/>
+  </node>
+</cherrytree>

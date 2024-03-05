@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Bind Shells" unique_id="91" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706125050" ts_lastsave="1706126017">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> First of all we have to send the nc.exe to windows and start the listener in windows
+
+
+
+ Here the server use ‘-e’ option that  'execute'
+ So whenever a client connects to this port,  the cmd.exe will be executed and the client will be provided with a cmd.
+ 
+ 
+ 
+ Here when the client connects to the server , we got a command shell
+ We got the remote access to the target system via a bind shell
+ 
+ 
+ 
+ 
+ 
+ 
+ Now we are going to get a linux remote access via bind shell to windows
+ 
+ 
+ 
+ 
+ </rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="7e3df26816887d62f64c2ee794e57a440372b2172b5f308eb4e2cc511b8b0558"/>
+    <encoded_png char_offset="100" justification="left" link="" sha256sum="35b7019d4803af1a6b9ec06665fc2890adbf19b2aa16ef06ece8a11165329877"/>
+    <encoded_png char_offset="275" justification="left" link="" sha256sum="fcf9acd543dfe8442d01306d1d4c06f448fe1829ec38267ca18d25277915e32f"/>
+    <encoded_png char_offset="499" justification="left" link="" sha256sum="f8a976b84309a0d1c9491ab3a51b07e0e041ef98c68af9822ac4f18d9fc08d40"/>
+    <encoded_png char_offset="504" justification="left" link="" sha256sum="e82b64c8f884ff7ecb3268e8057f5ceb52557e55d4291e62ff3be4d3d2b594ae"/>
+  </node>
+</cherrytree>

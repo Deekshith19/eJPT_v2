@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="MSF" unique_id="37" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#33d17a" ts_creation="1704190843" ts_lastsave="1704985295">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+Auxilary module cannot be paired with a payload 
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> msf stors mdoules in : /usr/share/metasploit-framework/modules
+  
+   User specified modules are stored in : ~/.ms4/modules
+   
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="64deb0b4d5d32bd5d855fe6ba5f75e92c1317b56faff1412720e4ef9abc07bea"/>
+    <encoded_png char_offset="10" justification="left" link="" sha256sum="27d346b01b80f2d1aa605e8d47be1657abf5fd17328637a2b30d42f7a70659ce"/>
+    <encoded_png char_offset="69" justification="left" link="" sha256sum="b5402a7ea3a1f648b1220ae87e0e72218b07c6661247f3536103f2429de2bff3"/>
+    <encoded_png char_offset="72" justification="left" link="" sha256sum="a4463829e44f6ad032b581ede24b1920ead50907508c22bef3a040d6495e1a81"/>
+    <encoded_png char_offset="79" justification="left" link="" sha256sum="5d1e6079286df1977183fd959833014bbc3de335d65c6c001d30fb8f80f122e8"/>
+    <encoded_png char_offset="217" justification="left" link="" sha256sum="d059b4990b7f942f634c26a966972c95591ed609e06cc3ced08aa19c9f1bf056"/>
+    <encoded_png char_offset="219" justification="left" link="" sha256sum="1eb0c64ec2d40fcdcf3830f23ce9e42f56658aeb43e7e60d586337bebe651a92"/>
+    <encoded_png char_offset="222" justification="left" link="" sha256sum="1f2a64366b125d6ac5dda9017f2981112fd5f20739c90a8c2d33c10cd6e7ee8d"/>
+  </node>
+</cherrytree>

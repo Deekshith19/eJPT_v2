@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Network Info" unique_id="117" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706469440" ts_lastsave="1706470877">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+
+
+To get more info
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> To view routing table
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> To view all other devices in the network
+
+Use arp
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> to view different services running on ports
+
+
+
+
+Here we can see in the foreign port 4444, it is our reverse handler connected to this target system.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> To view the firewall info
+
+
+Here it is saying to other command
+
+
+Here it is saying the firewall is not running
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="5f23d69953f9fd33a5a0f53a255ab08380c638c9f983551d38d3932b1b560211"/>
+    <encoded_png char_offset="12" justification="left" link="" sha256sum="c2ae487c7414395b2f409ff70136ee8f71678fa42674802b3fba6952f5c3a3e2"/>
+    <encoded_png char_offset="15" justification="left" link="" sha256sum="69674521e3ff9432d1186accca3342f576985299e5f72bd0508dbfdc9c9180e1"/>
+    <encoded_png char_offset="35" justification="left" link="" sha256sum="e3f99c58eccce4113bf913237c548307dd1d6e8be15e2a58396cfec0cab91259"/>
+    <encoded_png char_offset="38" justification="left" link="" sha256sum="1ae2004d4913c60ff2686ad2e13babfa797d34f0beca0e4fbe463b1795fda294"/>
+    <encoded_png char_offset="71" justification="left" link="" sha256sum="ae72cad6bf4a24424634bc9c7c348a4ca55a6ee422ed1fa1fb80aecc85142f35"/>
+    <encoded_png char_offset="131" justification="left" link="" sha256sum="26f7bce45abfab8c86036145d7a6498501b788b0fc340a4ac3151e490a9a2b9d"/>
+    <encoded_png char_offset="186" justification="left" link="" sha256sum="46e6b625bec0c15d605fb2e2a093487e71a207d6a71f2cbca361fc36e0f084f7"/>
+    <encoded_png char_offset="189" justification="left" link="" sha256sum="19b3c83056a2a9c583cccfecddb705df3777704f41c3ea039b628dcf71e6df7f"/>
+    <encoded_png char_offset="326" justification="left" link="" sha256sum="05fc3bbd569e2d2fc47ecfa582a5bc92f65ea2d0074fea7da1b77aa8317933c2"/>
+    <encoded_png char_offset="364" justification="left" link="" sha256sum="f0b39e674e33fde42adeaf996b5972a33831a13fcf7fb4e722fc503655570397"/>
+  </node>
+</cherrytree>

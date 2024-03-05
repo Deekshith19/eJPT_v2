@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Auditing Methodologies" unique_id="170" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="21" is_bold="1" foreground="#3584e4" ts_creation="1707210865" ts_lastsave="1707218101">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Auditing is done by a company themselves to check they are in compliance  or done by other parties to check they are following the guidelines
+
+One of the step of the auditing  is interview to check whether they are following the guidelines
+
+Then review paper work and use some tools
+
+Then take good notes and atlast report.</rich_text>
+  </node>
+</cherrytree>

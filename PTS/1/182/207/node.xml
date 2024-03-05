@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Sql Injection with sql map" unique_id="207" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708253513" ts_lastsave="1708264349">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+Enter into bwapp
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Select sql injection with (get/search)
+
+
+
+
+Enter something in the search bar and intercept it with burp's proxy
+
+
+
+
+
+Copy the content
+
+
+
+
+Paste the title part in the sqlmap including tho cookie and security level
+Here -p represent the target and we set it as title
+
+
+
+
+Then we get some payload from sqlmap for attacking
+
+
+
+
+Copy and paste and anyone of the payoad in the field , sometimes it may work or sometimes it not
+
+
+
+
+
+To get the list of databases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter the payload and add version() on it to get the version of the db
+
+
+	
+	
+	
+	Here we got the version of the db in the response.
+
+</rich_text>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="4775620e33ab071ea41cf04ea5c71bb796055b5b9b831eab59e2d261277b8bb1"/>
+    <encoded_png char_offset="136" justification="left" link="" sha256sum="75d990d54cd92218599d5d128c2af858dd06583a734aa87d4a5a3a4267164d73"/>
+    <encoded_png char_offset="159" justification="left" link="" sha256sum="f11bdc9210eb05baefff89410073ef6c36eebb23d9bfb723b366d58e80afe175"/>
+    <encoded_png char_offset="163" justification="left" link="" sha256sum="5db25afd0f3b59ae0130b4c8ee9bbf4a66a2bdaa831ee2ff5e869314208335c0"/>
+    <encoded_png char_offset="295" justification="left" link="" sha256sum="393f506645f1159f406dcc5ab1bcec83804acc96b0edcedf0f94f6619ff3a052"/>
+    <encoded_png char_offset="351" justification="left" link="" sha256sum="3e91e5fde8be5c8445bb8a369f9f3ac57481dbc54baf7f650886c36e5f501615"/>
+    <encoded_png char_offset="453" justification="left" link="" sha256sum="28999eee43c3dc82cf8f70ada98d9176be7c6f18365b25e58ac65d52adebef9e"/>
+    <encoded_png char_offset="455" justification="left" link="" sha256sum="47fc9593d78188961244860839587268070d5fa8ec87cf29689ecccba61aa208"/>
+    <encoded_png char_offset="491" justification="left" link="" sha256sum="3273c7e5d1e7e0fac907930968f5ffc8eef7509c537887388b39fff443b3bf7c"/>
+    <encoded_png char_offset="494" justification="left" link="" sha256sum="f40154c2a30229e831cb73aa4dc7d66ba56a989b93124f9117d65520360c0f0a"/>
+    <encoded_png char_offset="497" justification="left" link="" sha256sum="e9e34e56adce8e39ff7d0133ad666327b4001b092a97b9d3863dc92cc01d8395"/>
+    <encoded_png char_offset="504" justification="left" link="" sha256sum="0bd06257d83a2a89da73797c877a8e24eb0c0f6a82caaada90ce5e3be754a85e"/>
+    <encoded_png char_offset="512" justification="left" link="" sha256sum="c9e7b2049fb1ffb41aff7ef0baf82e65b0025719c7eaa01b7e5a00956f510b26"/>
+    <encoded_png char_offset="515" justification="left" link="" sha256sum="98077106461830df2de276f57a3b9dcdd828aa276ccd6778d753465cee7fca40"/>
+    <encoded_png char_offset="522" justification="left" link="" sha256sum="f09dc59fd4ad20590001c6632835624461edfaa22e3f8f9218189119a902f115"/>
+    <encoded_png char_offset="526" justification="left" link="" sha256sum="61dcb03c050ac7e2fe36deb35d773fe66b2c8f932444d1c56d7441cc596076ab"/>
+    <encoded_png char_offset="529" justification="left" link="" sha256sum="779de15bedd3ae880368e67f608649394904ce5b93c6a540664aedcd0811ade2"/>
+    <encoded_png char_offset="532" justification="left" link="" sha256sum="0dbdcad23676a8e20fd7114ac06c75983e786800039f4abd8b63b713206a5a0c"/>
+    <encoded_png char_offset="536" justification="left" link="" sha256sum="5475b99939a3530ac13974c0de73fb11fd4651964f32a0580e2d4b09326b6205"/>
+    <encoded_png char_offset="543" justification="left" link="" sha256sum="3cc9f78387ede616ed85bce64d5f7519caa7ffba336fd0b784e6e68dd10d5873"/>
+    <encoded_png char_offset="551" justification="left" link="" sha256sum="8cf1fbdcddcf2e2ec257f6f63207869e2ba0d33ebfbca4453ef9ca982bb0b5f4"/>
+    <encoded_png char_offset="554" justification="left" link="" sha256sum="646b0b7e80956e8d4d071641c20605e09734320644c4bd85cfeb33d2907d0ba3"/>
+    <encoded_png char_offset="634" justification="left" link="" sha256sum="a2a386f2f4d2f8c73e936cc3a2d183f5b642996790ea7f37c9e8386805002f3c"/>
+  </node>
+</cherrytree>

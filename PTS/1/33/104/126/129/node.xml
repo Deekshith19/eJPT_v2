@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Transferring files to Linux targets" unique_id="129" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706637095" ts_lastsave="1706639908">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+It is also similiar to what we did in windows target
+
+Exploit the target and then start the pythin http server in our system
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> tmux , two terminals sessions in one terminal
+
+
+
+
+
+To get more session, press "ctrl+b+c"  from the tmux session itself
+
+press ctrl+b+0 or 1 to switch between them
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+Host the python server
+
+
+
+
+Command to download the file in the target system
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+The Following is done on lab
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="182" justification="left" link="" sha256sum="dd8b56deed641506ebe0de64ef1df6c4f483cae6671e37ef10b93bedc305c3f2"/>
+    <encoded_png char_offset="184" justification="left" link="" sha256sum="294a6912a88334ae899a6d61834784cb52f81dd426dfe470cd200a36ac983f20"/>
+    <encoded_png char_offset="256" justification="left" link="" sha256sum="ac5355da74719552ba6e0de5d65c12f4789f8b25a0a0869943fbf5ebfd807297"/>
+    <encoded_png char_offset="330" justification="left" link="" sha256sum="5e1056ebfb60e83bccd4fab6c686c59be7fa509006575143192f44735ff5f254"/>
+    <encoded_png char_offset="385" justification="left" link="" sha256sum="4e456be1e5d5413f84d3c90e50ca6a63b29655bcfa2cf2d9f08fcabbd87712d4"/>
+    <encoded_png char_offset="424" justification="left" link="" sha256sum="dc2ab092b6dfc064252c9772a7430d9991bd45b1050433d85889ad5da389d803"/>
+    <encoded_png char_offset="427" justification="left" link="" sha256sum="28c86c46c2299078895767cc3c24f9377038c1363cb5cab5a281b3ca8c5bf3f1"/>
+    <encoded_png char_offset="430" justification="left" link="" sha256sum="8c5132b04ad9d01e3dbbfe51c506d4cc309b58f43758e507db178359afc9ca56"/>
+    <encoded_png char_offset="433" justification="left" link="" sha256sum="97e556675caa551575da2ab8913ee6970bb24a5cd7126200854aeca3c1260099"/>
+  </node>
+</cherrytree>

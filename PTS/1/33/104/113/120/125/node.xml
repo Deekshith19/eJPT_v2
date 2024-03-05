@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Automating Local Enumeration" unique_id="125" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706608810" ts_lastsave="1707976068">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">
+2.</rich_text>
+    <rich_text> Here we are going to exploit the ` vulnerability
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+this is a privilege escaltion vulnerability
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="2de1a973712c0601028063c930faaf774e436a7036ee89bab0a4789b70908496"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="b682770db272183e60009dc835c376b1936137dc83629e242f1a0567b97ade0d"/>
+    <encoded_png char_offset="66" justification="left" link="" sha256sum="fcb3d6722a0fb0c97aef4f8398944fbf9d5978667cf0ccecb55a9849bc02d67b"/>
+    <encoded_png char_offset="69" justification="left" link="" sha256sum="3f6ea8861637d7d0625559bedcb6d5563d8a901d8eff90356ce7910645e640e2"/>
+    <encoded_png char_offset="71" justification="left" link="" sha256sum="1b186108fe3d6c0de0f8ba397415727fab27c6548426e1fce17b0541ecd03525"/>
+    <encoded_png char_offset="73" justification="left" link="" sha256sum="53b22e80426eb0ee3aced79a99d48ecf74fce67cead4e37fd3aedff4bea48ada"/>
+    <encoded_png char_offset="76" justification="left" link="" sha256sum="b66d3db8049bd62ab9b45d37e4ec84dae80aec33449034e7b403e2207bd24a2e"/>
+    <encoded_png char_offset="84" justification="left" link="" sha256sum="8a9be6d18963b26d075932f937eff32805017dc42f483d753b27c959f87c629b"/>
+    <encoded_png char_offset="87" justification="left" link="" sha256sum="43211b6d00606b3777736cd72883dbece376e5465be60594660fdf5dd7e5e88c"/>
+    <encoded_png char_offset="89" justification="left" link="" sha256sum="75893f44fc249b68863ebc96451f96dc87b26dfdb81415eb5b32d92358c63d84"/>
+    <encoded_png char_offset="92" justification="left" link="" sha256sum="0b48264d0859f8e27115fb25c7aa8a8e51b297fa6ac538808d350a9a9900d49c"/>
+    <encoded_png char_offset="94" justification="left" link="" sha256sum="4d30384f82dda91438e02f6b088dbfe07cf570404832dbb766787234e836f068"/>
+    <encoded_png char_offset="97" justification="left" link="" sha256sum="9c3e15cba86184ed7e496c5141fb2c63aac18c7a0e0a3e5bbaa134fe07b97184"/>
+    <encoded_png char_offset="103" justification="left" link="" sha256sum="783e42b72c40f1a200436b168798f4219353a1d0ca810740104453141f687afb"/>
+    <encoded_png char_offset="151" justification="left" link="" sha256sum="3aa0ed33ab99075697c589cbc7d2d427e7a8d2d56847a6624a0548eb6489db3e"/>
+  </node>
+</cherrytree>

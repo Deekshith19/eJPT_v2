@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Linux Exploitation" unique_id="58" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="115" is_bold="1" foreground="#cdab8f" ts_creation="1704977384" ts_lastsave="1708200113">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Frequently exploited linux services
+
+</rich_text>
+    <encoded_png char_offset="41" justification="left" link="" sha256sum="818d8e3e022eeb7b35552708b0fc891365870871ed066ffe0576cf8aac5637e1"/>
+  </node>
+</cherrytree>

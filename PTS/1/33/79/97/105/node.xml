@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Linux" unique_id="105" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="115" is_bold="1" foreground="#cdab8f" ts_creation="1706380817" ts_lastsave="1706436772">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>	</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="541ef08ba3d89d33d21ba8c7827d3fddb1816c882ec6485ef9fa2cfcaf8daf5e"/>
+  </node>
+</cherrytree>

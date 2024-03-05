@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="With Shelter" unique_id="111" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706447335" ts_lastsave="1706455990">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Shellter: It is tool where we can inject a payload into a legitimate executbles or binaries
+
+
+
+
+It is windows exe,, so we need wine for running the shellter
+
+
+After installing shellter, we'll have
+
+
+
+
+Then we need to provide the path of legitimate exe file
+
+
+
+Then it will automatically loads some info
+
+
+
+Here it is asking stealth mode, which means it is asking whether the exe file should work normally after injecting. (It is better to say yes)
+
+
+
+
+
+
+After all the processes, we'll get the malicious exe file.
+
+
+
+Now we hosted a simplehttp server and downloaded that file in windows
+
+
+(Even downloading, the defender is not sending the notification)
+
+
+Now we executed the file, the defender does not get noticed about the payload.
+
+In our terminal, we need to set up a netcat listener or multi handler to listen the incoming connection from the victim's system
+
+
+After the victim selects the file, we'll get a meterpreter session.
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="e9f89828b306003d0bd5359a9d56c6955b22118a63eacaf1eecc2237500b516b"/>
+    <encoded_png char_offset="11" justification="left" link="" sha256sum="889b74b329368ab7bb3b7bfa58e864834855e03efbbc256a19dcc1b4b1fb8ce8"/>
+    <encoded_png char_offset="18" justification="left" link="" sha256sum="636382b88d7428dbece1be53037ea41a71d69d7e684924bda95ec4853cd5dfd0"/>
+    <encoded_png char_offset="21" justification="left" link="" sha256sum="143074ab0e485804c3cc9ddcb945ea934b956d78f684496d189da2bc23f06023"/>
+    <encoded_png char_offset="121" justification="left" link="" sha256sum="26e36849175850955bafe0b96553f2ef3abc484a9be05f2240bbf7882fb8b014"/>
+    <encoded_png char_offset="226" justification="left" link="" sha256sum="23d1f5e9818d0e4bd63ce5843d7bc2cf9574161c5a057997af144444bdd6f30f"/>
+    <encoded_png char_offset="229" justification="left" link="" sha256sum="8216f9b4d5fcf7f066094320ec845a207079c9a59705c2ec123141926f001793"/>
+    <encoded_png char_offset="289" justification="left" link="" sha256sum="0b40866838f77bb6c65e30138acdfb89d3f1f7928921e9653b13de94b7bb1f48"/>
+    <encoded_png char_offset="335" justification="left" link="" sha256sum="c8687bdd8d3717064a8023e252503a841150cf062cca1e9cb4ad53d2039d84bd"/>
+    <encoded_png char_offset="338" justification="left" link="" sha256sum="9392661a3b46ecdf6d6092f6519209eb3a78168d80d2d20fc278a42dc6fffdf4"/>
+    <encoded_png char_offset="484" justification="left" link="" sha256sum="719fe752bc8a2e9d576e1fc3c6d355d4072c44a1800335ad642364d12ee7f75a"/>
+    <encoded_png char_offset="488" justification="left" link="" sha256sum="9a80ea398334fadc7ca4f2a0ec3978ddef1aa90f994a01d21df71280751e1317"/>
+    <encoded_png char_offset="623" justification="left" link="" sha256sum="8ecb1715843c30925110f3ec344fea05b2c656a146df3ca89f658ccaacd41a4c"/>
+    <encoded_png char_offset="691" justification="left" link="" sha256sum="6f4a67afaa457de040992e2bbd2236a3bb249167a8e94be22d62f90de3ebe0d3"/>
+    <encoded_png char_offset="903" justification="left" link="" sha256sum="abebca8b2c94ebaf92b1370ad57a4baa175d2d3e46c072f7c08e6d622d5967b4"/>
+  </node>
+</cherrytree>

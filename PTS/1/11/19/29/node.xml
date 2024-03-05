@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nmap" unique_id="29" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1703333390" ts_lastsave="1703787881">
+    <rich_text>
+1.Nmap can be used to scan a raange of ip addresses like:
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+2. From an input of 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+3. • </rich_text>
+    <rich_text family="monospace">-Pn</rich_text>
+    <rich_text> skips host discovery entirely, assuming all targets are online.
+
+• </rich_text>
+    <rich_text family="monospace">-sS</rich_text>
+    <rich_text> is a port scanning technique that specifically uses TCP SYN packets, providing a stealthy way to discover open ports.
+
+
+</rich_text>
+    <rich_text family="monospace">-Pn</rich_text>
+    <rich_text> is about skipping host discovery, while </rich_text>
+    <rich_text family="monospace">-sS</rich_text>
+    <rich_text> is about the specific technique used for port scanning.  
+
+
+-sT:
+1. </rich_text>
+    <rich_text family="monospace">nmap</rich_text>
+    <rich_text> sends a TCP SYN packet to the target port.
+2. If the port is open, the target responds with a TCP SYN-ACK packet.
+3. </rich_text>
+    <rich_text family="monospace">nmap</rich_text>
+    <rich_text> sends a TCP RST (reset) packet to tear down the connection without completing the actual connection establishment.
+
+• It is more reliable for determining the state of open and closed ports compared to SYN scans (</rich_text>
+    <rich_text family="monospace">-sS</rich_text>
+    <rich_text>) because it completes the three-way handshake.
+• It is generally less stealthy than SYN scans and might be more likely to be logged or detected by intrusion detection systems.
+
+
+4. </rich_text>
+    <rich_text weight="heavy">-sV</rich_text>
+    <rich_text>: to detect the version of the services
+ Version intensity :  The version intensity is a parameter that you can adjust to control the aggressiveness of the version detection process. </rich_text>
+    <rich_text weight="heavy">9 (intense)</rich_text>
+    <rich_text>,This level performs intense version detection. It may provide more accurate results but is more likely to be noticed and logged by the target system.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+5. -O : to detect the os 
+--osscan-guess: guess more aggressively
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ 
+6. </rich_text>
+    <rich_text weight="heavy">Nmap Scripting Engine :
+ 
+ </rich_text>
+    <rich_text>To view all the scripts : ls /usr/share/nmap/scripts 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ To find particular scripts: type grep -e &lt;script name&gt; along with previous command.
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ To get the details of any script: nmap --script-help=&lt;script_name&gt;
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ To use a script
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ We can also try no.of scripts together </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+7.) Firewall Detection
+ 
+ -sA : it will tell whether a port is filtered or not
+ 
+  --mtu: send the requestas aa a no.of fragments
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+  
+  
+ -D : option in Nmap is used to specify decoy hosts. Decoy scanning is a technique used to confuse the target and make it harder for the target to identify the true source of the scanning activity.
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+here the request are sent as fragments, since ‘-f’ is used. Also the request are send from 3 different IP's (one my source(172.20.10.3) and other two are dummy) inorder to confuse the target.
+ 
+
+The </rich_text>
+    <rich_text family="monospace">--data-length</rich_text>
+    <rich_text> option is used to specify the size of the random data (in bytes) that Nmap sends to the target during the scan.
+Adding a data payload to packets during a scan can sometimes help in evading certain types of intrusion detection or firewall systems.
+
+
+8.) </rich_text>
+    <rich_text weight="heavy">Timing</rich_text>
+    <rich_text>:
+
+--host-timeout: to stop the scanning after a particular scan.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+--scan-delay: Adjust delay between probes
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+here, after every 20 second , a packet is sent to make it less suspicious and stealthy
+
+
+
+9.) Nmap Output svaing format:
+
+	It is better to save nmap results into xml file for importing it into msf console.</rich_text>
+    <encoded_png char_offset="60" justification="left" link="" sha256sum="5fc3a46f1730cf19b0fd63c8ceb63ab6d0c4b9baa319d5cc03955eea4d5b48bc"/>
+    <encoded_png char_offset="87" justification="left" link="" sha256sum="cc0e06c0863bde40c4e5dd3a1b1a587c6a62a137283043df504cd65c34d3959b"/>
+    <encoded_png char_offset="1280" justification="left" link="" sha256sum="91ab71201fe8a6fc9d86fec97bc5662612e3cad5ef7be9e19e03f1171b1e6b59"/>
+    <encoded_png char_offset="1350" justification="left" link="" sha256sum="a8d58181583e1f029cce0e48580e4dc4688ee446f4bbc6c1ddc3be15d0dd377e"/>
+    <encoded_png char_offset="1443" justification="left" link="" sha256sum="618a2b2679cee6d966f35c57538c4a44e6064eaf70703f9866e20c16e7b46173"/>
+    <encoded_png char_offset="1533" justification="left" link="" sha256sum="61a7bebd177eda61566210a61eaffe05d2f9e845f5ef7809fb1e32682c5a4fb0"/>
+    <encoded_png char_offset="1608" justification="left" link="" sha256sum="89cb3a8c551c65647198a14cfddd74143210ae7fe9e8d7af7b41b79bc965ca72"/>
+    <encoded_png char_offset="1630" justification="left" link="" sha256sum="c4ebbaf6924ab2a19b6df968cf505a6888454c6d7ad12c9d2243b95cce904e1a"/>
+    <encoded_png char_offset="1674" justification="left" link="" sha256sum="315301c06589e2cb0279b2d035c6fc59012450fbac7669f0764aed7bd5ed3f74"/>
+    <encoded_png char_offset="1810" justification="left" link="" sha256sum="dc9931fd5991ab32d39eea290d38fa768484ca292b5fe13f93d43500baa0dd63"/>
+    <encoded_png char_offset="2022" justification="left" link="" sha256sum="77197c7964a30020d8840dfae6c011b99451ba6ed5bf83a4ce17a71d3ee5ecd3"/>
+    <encoded_png char_offset="2025" justification="left" link="" sha256sum="50aecb3185f5126d0ad7e112c6eef644a3d69d26d56431f71aec84ad1028793e"/>
+    <encoded_png char_offset="2028" justification="left" link="" sha256sum="40ead1d3a0a72eca460f6daf42ee37cd1dfe99b95ae3538a6118be0d128a6ad9"/>
+    <encoded_png char_offset="2567" justification="left" link="" sha256sum="af7a21ad788b93196d824a732ab2225200c72618a0e8982d057770cce0af07c2"/>
+    <encoded_png char_offset="2613" justification="left" link="" sha256sum="3e67e6dbc6d13fd3a2547962ae5627ef9af2b425fda3361ce87f4ad8b3c005eb"/>
+    <encoded_png char_offset="2615" justification="left" link="" sha256sum="c0691889bd796edcee8ab06c92bf40db7945abf9e99551228c58fdf3acd0597b"/>
+  </node>
+</cherrytree>

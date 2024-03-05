@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Wifi Traffic Analysis" unique_id="210" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708275968" ts_lastsave="1708276668">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1. It is about analyzing a wifi traffic, better to look in the provided pdf</rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <encoded_png char_offset="79" justification="left" link="" sha256sum="6c26d6f1f8ca225c478fdf88ff630a13a9cf8bb93ad10b6268e9f1a908831cd7"/>
+  </node>
+</cherrytree>

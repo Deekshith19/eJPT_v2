@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Windows" unique_id="138" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="120" is_bold="1" foreground="#cdab8f" ts_creation="1706728251" ts_lastsave="1706730499">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+First of all we need to escalate privileges before establishing persistence
+
+
+
+Its similiar to what we did on MSF section ,, the module is local/persistence_service</rich_text>
+    <encoded_png char_offset="82" justification="left" link="" sha256sum="24f939fa3a51637317c7b7a1818579e3c0d886cc2c050f8c04b3f0ea1532780c"/>
+  </node>
+</cherrytree>

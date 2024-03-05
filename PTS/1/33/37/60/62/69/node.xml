@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Mimikatz" unique_id="69" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705470611" ts_lastsave="1706633353">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+While exploiting we need to set the target as Enterprise editon, since target machine is Enterprise edition
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here the payload is default windows/meterpreter/reverse_tcp
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+First we need to exploit and migrate to lsass process
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="17f91d648c1c44a2e5206f4bd53a62551c3749273eb6c2401b462c0d1d9f90d4"/>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="8eecfaf6f48ecc6e3a52253f4767704d8619af69ebe6be5496128db38d16b0b0"/>
+    <encoded_png char_offset="184" justification="left" link="" sha256sum="e582e9c0fc277bca012249d364ff238c97c1c768261fa354d69f9ded1257fe09"/>
+    <encoded_png char_offset="242" justification="left" link="" sha256sum="5263def839738990b10bec7a8a721a030f03a019df7a2eccd0985dd32a7d7218"/>
+    <encoded_png char_offset="245" justification="left" link="" sha256sum="258faa489b7d87c72d116bc1a651718ec226d07bd06983f3e5d60f1cfd4270d4"/>
+    <encoded_png char_offset="249" justification="left" link="" sha256sum="b871138e025af743bac0102ee258230b9abd8fdae80003f656f3c48e309e3473"/>
+    <encoded_png char_offset="252" justification="left" link="" sha256sum="383d81d262da8abaf8948fa7b931e6a1d73260248cbc6ce6e077b91479a8ef13"/>
+  </node>
+</cherrytree>

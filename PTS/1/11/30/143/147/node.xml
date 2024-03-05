@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Samba 2" unique_id="147" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706981310" ts_lastsave="1706982916">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+enum4linux
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>	
+
+
+
+Getting Os Info
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+Getting users using enum4linux
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following is done on lab
+
+We can the sid of a user using enum4linux or rpcclient
+
+I did the below using enum4linux 
+
+
+
+
+
+
+
+
+Else we can rpcclient to retrieve the sid of a user
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="17" justification="left" link="" sha256sum="9399aa85e1126683e2651291ec5affb5b4cb7786a106d21e65865d607857f248"/>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="ee244c22f44b87070a4c4b3fdba9f6ea001bff7cc30fd42f757e0d4aa5d4449b"/>
+    <encoded_png char_offset="42" justification="left" link="" sha256sum="8292aa1a0df12325a0777827ed5ee8733d0ced48977785eb46c3307effe13d81"/>
+    <encoded_png char_offset="78" justification="left" link="" sha256sum="5f893468619e5ae8d31eb68355853cb790f95348842b08e4668dc31ec181d11e"/>
+    <encoded_png char_offset="81" justification="left" link="" sha256sum="94a3021ee8909284a5831f1d5183ea493c3dd28cd36c490adb4714a797f86ed8"/>
+    <encoded_png char_offset="211" justification="left" link="" sha256sum="29d0528b9b1bfe7f07db516cdac475b8284e534ad4a1422e172eac6ea85168cb"/>
+    <encoded_png char_offset="214" justification="left" link="" sha256sum="b808d917a1cf22cb261606951ceaa797d68f12be2682c8e1a9b448e09e6fb39a"/>
+    <encoded_png char_offset="273" justification="left" link="" sha256sum="cb2c296b009a817a535d7a39d9e3ba35165ab8ebcf168c1010368f7766d33da0"/>
+    <encoded_png char_offset="277" justification="left" link="" sha256sum="56aad76f1a9925cbed434362f87a19798668e2e71723e24a714d66d5a67ec931"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Via SSH_keys" unique_id="141" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706766775" ts_lastsave="1706802304">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Note: We did earlier in MSF post exploitation: Establishing Persistence, sometimes it is not possible to sshkey_persistence module to act as a backdoor
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+because when I tried to execute the module, i got the private key, however I'm not able to login using this key and it is asking for password.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> So we are using scp to copy the private key from target to our system
+
+
+
+Entered the server using ssh with password
+
+
+
+
+
+
+
+
+Here is where ssh private key(id_rsa) is stored. (authorized_keys is public keys)
+
+Now we need to do download the private key to our system
+
+downloaded the file
+
+
+
+
+Now we removed the wait file from the server and got automatically exited from the server
+
+
+
+
+Provided necessary permissions to file
+
+
+
+
+
+Use the private key to login the server using ssh and retrieve the flag
+
+
+
+Done.
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="8fc70f5f5adec59cef6ef30cb40ab8b1c44bc25c3707a5a60be272c33e38b68e"/>
+    <encoded_png char_offset="167" justification="left" link="" sha256sum="e43004e12b96f8f5a6ab457b20cbd3489af9f395b5058583c356c33d394ee864"/>
+    <encoded_png char_offset="391" justification="left" link="" sha256sum="678cc3baa206f27d5cdf116c5ac250354dd9002e17cbc0839a0826625a84c47b"/>
+    <encoded_png char_offset="443" justification="left" link="" sha256sum="abd03b021c6c817d59b9b4ad6b4e91d700180c00e9e3a703a2e7e846d34db51d"/>
+    <encoded_png char_offset="585" justification="left" link="" sha256sum="39d4882288f9faa4c7e1c9a35bc6f31ff81657e700514f73708585c9dfc0d497"/>
+    <encoded_png char_offset="610" justification="left" link="" sha256sum="3b21f96286cebdf7019c86b017b716ee900f2a1677cde5017183bbcf08234c57"/>
+    <encoded_png char_offset="705" justification="left" link="" sha256sum="4b45f1c4130eb2c90da959bdc0c9ac77365f19f2a2f4a39c1f48e050303cf901"/>
+    <encoded_png char_offset="750" justification="left" link="" sha256sum="56f540bef1d8748a5010e455ba8ccefa44abf020329dd37c75a5cd49627b7d32"/>
+    <encoded_png char_offset="833" justification="left" link="" sha256sum="5556247f03e88af1cafa308d5fd9234a40a19eb7f0ddd6fced5aa61621f0d358"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Leaked Password Databases" unique_id="14" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="#f6f5f4" ts_creation="1702630762" ts_lastsave="1702660595">
+    <rich_text>Have I been pwned: This is a site where we can check if our email is leaked due to any data breach 
+
+</rich_text>
+    <encoded_png char_offset="101" justification="left" link="" sha256sum="bbb7c7ed9d9f4db9945d33eaee7c41c6c6eec09941be2454d1e4c47bdc886a1a"/>
+  </node>
+</cherrytree>

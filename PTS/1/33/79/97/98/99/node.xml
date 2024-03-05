@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Port Scanning &amp; Enumeration" unique_id="99" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706182315" ts_lastsave="1706184782">
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Here's where our target ip is located
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> We are going to scan the target ip
+
+
+
+
+Now we are going through some of the open ports
+
+
+
+
+ Now we are performing an nmap scan upto 10000 ports
+
+
+
+
+After the scan we'll get some more open ports and services and we can also move open the open ports in the web bowser
+
+</rich_text>
+    <encoded_png char_offset="43" justification="left" link="" sha256sum="aaf3978fe6147eb7b4a939a6a505d57747531bf727f358918cacda3f92abd242"/>
+    <encoded_png char_offset="87" justification="left" link="" sha256sum="c58db93437b1404859a7a60cca5b06bda8f5ad4ccc3b6cf9eaa387d72163ce67"/>
+    <encoded_png char_offset="140" justification="left" link="" sha256sum="20277b71668a65180906d07f920269b3c376767551d0060d1a8aca60cd8d7b71"/>
+    <encoded_png char_offset="197" justification="left" link="" sha256sum="7ebe54e7e87f386b93cd73bf6de250dd3fa2f7a4d39bb2223d5b6be1cc514465"/>
+    <encoded_png char_offset="201" justification="left" link="" sha256sum="b6f724a481244b7b56c898d291de37cf4e023c910785ced259d902a4cd2393f8"/>
+    <encoded_png char_offset="322" justification="left" link="" sha256sum="ca346a96aff6325e3550887c6cad6eda66e0af66d6cf27c3d479060fb747dd4c"/>
+  </node>
+</cherrytree>

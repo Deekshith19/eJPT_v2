@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Wafw00f" unique_id="9" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="#f6f5f4" ts_creation="1702539310" ts_lastsave="1702541293">
+    <rich_text>
+1. </rich_text>
+    <rich_text link="webs https://github.com/EnableSecurity/wafw00f" weight="heavy">Wafw00f</rich_text>
+    <rich_text>:
+
+ WAFW00F does the following:
+• Sends a </rich_text>
+    <rich_text style="italic">normal</rich_text>
+    <rich_text> HTTP request and analyses the response; this identifies anumber of WAF solutions.
+• If that is not successful, it sends a number of (potentially malicious) HTTPrequests and uses simple logic to deduce which WAF it is.
+• If that is also not successful, it analyses the responses previously returned and uses another simple algorithm to guess if a WAF or security solution is actively responding to our attacks.
+
+
+
+
+If we dont see the name of the firewall, do it once more to get it.
+
+
+So the waf (web application firewall) is Imunify360
+
+
+
+
+It lists all the wafs.
+
+
+  -a, --findall         Find all WAFs which match the signatures, do not stop
+                        testing on the first one
+
+
+It is a useful flag of wafw00f</rich_text>
+    <encoded_png char_offset="472" justification="left" link="" sha256sum="423375c744e98a9c4fe3e7b8dda195faa37a34f7392ce478ff44312089b91597"/>
+    <encoded_png char_offset="544" justification="left" link="" sha256sum="476e58631d56194a2625ea0c342639b7b42315b732115b006dcf9ff80335bd00"/>
+    <encoded_png char_offset="600" justification="left" link="" sha256sum="25f23e1ce11d37a73340659e2b8db82e19a04e0d70dea849d3edcb41ce9ee99e"/>
+  </node>
+</cherrytree>

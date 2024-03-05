@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Compliance" unique_id="173" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707211433" ts_lastsave="1707212515">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="4682e1fa5eb28e2bd37275ea45474914341dad1962643431d65737d420fd44e6"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="eaf66f61e5c09ecc7061d3b450480991ef848f3cb2c1c32abf5ea02ed896badc"/>
+    <encoded_png char_offset="10" justification="left" link="" sha256sum="8e44d0ad9709d1bbb63b120d896d5f773c5bc87795b1c18c286fb086725bd651"/>
+    <encoded_png char_offset="13" justification="left" link="" sha256sum="3aed0679a03769d0931a461f9620145daf487f4a41c45e5733fd59803f863d2e"/>
+    <encoded_png char_offset="16" justification="left" link="" sha256sum="45fee2c934a212a8efce8c656ebd6ef61fb0631119e1298e6798708f93faaa13"/>
+    <encoded_png char_offset="19" justification="left" link="" sha256sum="d36e5a570ef1a8b2ff2c7eba5c45ba9f9056b574fe4c9a2a32f828d2d08967c6"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="RDP" unique_id="72" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705590815" ts_lastsave="1705592854">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+First we need to exploit the it using the badblue exploit
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Then come back and search for rdp module
+
+
+ 
+ 
+ 
+ Here only session has to be set and username &amp; password need not to be setted.
+ 
+ 
+ 
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> After running the module we observe the rdp port is open with an nmap scan
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Now we are going to change the password of the administartor for remotely logging since we dont know the password (but we can hasdump to get the password, however for ease we set a new password)
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+Now we are going to enter the rdp from the linux kernel
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="8434f17fee0254f42babf2f747abc514cf915f12df6100aabba4f8c08fe35826"/>
+    <encoded_png char_offset="70" justification="left" link="" sha256sum="270178b73fe3b64dae3f8a5057036a31e236078ef0440375fe15605a3106f164"/>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="dc57a9ee66bb9664db1e251a1823ca7593d7733803828aede7f586030d7c8db4"/>
+    <encoded_png char_offset="124" justification="left" link="" sha256sum="c9e4b315ff73a2b371308d183f172156a2aa683b6849113f15760e514ee67fad"/>
+    <encoded_png char_offset="293" justification="left" link="" sha256sum="81315ff377dcce7817abbb82251a2732a0470730fbfd9162b1851306feefddf1"/>
+    <encoded_png char_offset="497" justification="left" link="" sha256sum="20e31290b402bbc8cdbed4cebd4bc9f67e16b05ba60396fed11058713d906fc9"/>
+    <encoded_png char_offset="561" justification="left" link="" sha256sum="c8c970ca0d480b84c717dc988ec19491a03a31f2ee0f490ba11f3c5744f59d80"/>
+    <encoded_png char_offset="565" justification="left" link="" sha256sum="24578e140ab64b97fe0393478d507c9634a94d71e42832afdd70723761142b3e"/>
+  </node>
+</cherrytree>

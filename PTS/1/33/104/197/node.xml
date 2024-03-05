@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Pivoting" unique_id="197" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="38" is_bold="1" foreground="#99c1f1" ts_creation="1708106905" ts_lastsave="1708108264">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Following is done on lab
+
+
+
+
+Exploit the first ip
+
+
+ Add a network route for a subnet
+
+
+
+Scan the 2nd ip , here we can notice port 80 is open,, so forward it to our local host
+
+
+
+
+
+Found bad blue vulnerability
+
+
+
+set bind tcp payload
+
+
+
+
+
+Exploited
+
+
+
+
+Found the flag
+
+
+
+</rich_text>
+    <encoded_png char_offset="30" justification="left" link="" sha256sum="53c382c8483a73aee3e9594e0020283d26d235bc492f9b6611f932d9ec20147a"/>
+    <encoded_png char_offset="33" justification="left" link="" sha256sum="9cb2b2ea4bd7f7e61ba0e13b52b27a015aef39f94496a947dd32b4b866914017"/>
+    <encoded_png char_offset="57" justification="left" link="" sha256sum="de42bac0d96efffb590d075be6409cd5026b217da1184e265759e0ab70ec9338"/>
+    <encoded_png char_offset="95" justification="left" link="" sha256sum="93afa8a97207faf9ddea31b5938e1377de6b744895d07c60d38a8f914b1e83c9"/>
+    <encoded_png char_offset="186" justification="left" link="" sha256sum="03bd48c8e7f0a879da4785073753839cf90bb13fa68ca6dc3935808652967799"/>
+    <encoded_png char_offset="189" justification="left" link="" sha256sum="95c31ccebd85ec637eb4d589592c8d03da84183002923489eb8f1ae70a325dd3"/>
+    <encoded_png char_offset="222" justification="left" link="" sha256sum="7412c7903069ecaf044d990ab2d6aa85d636d70bb9f83b36c01b71eda257c8c4"/>
+    <encoded_png char_offset="249" justification="left" link="" sha256sum="bf1a67f555b1f94bc4b91b8500f60747693807d77c709285c0033286ccbe1d7c"/>
+    <encoded_png char_offset="264" justification="left" link="" sha256sum="46983c983ada0bb5c10d97888bdeba57b508beccbbeaa5f4e6926485e78c7627"/>
+    <encoded_png char_offset="284" justification="left" link="" sha256sum="921ca68d484a3a19cdc78738df4878a6feee9be65b9e80320b4ca8dd7906bae5"/>
+  </node>
+</cherrytree>

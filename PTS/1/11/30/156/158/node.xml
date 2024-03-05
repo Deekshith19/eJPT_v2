@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="HTTP Nmap Scripts" unique_id="158" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707052306" ts_lastsave="1707053916">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+nmap &lt;target&gt; -sV -p 80 --script http-enum
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+This script is designed to gather additional information about the HTTP service, such as identifying directories, files, and potentially vulnerable server configurations.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+nmap &lt;target&gt; -sV -p 80 --script http-headers
+
+
+
+this command is scanning the specified target on port 80, attempting to detect the version of the HTTP service, and running an HTTP headers script to gather information about the web server's headers.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+nmap &lt;target&gt; -sV -p80 --script http-methods --script-args http-methods.url-path=/wbedav/
+
+
+this command is scanning the specified target on port 80, attempting to detect the version of the HTTP service, and running an HTTP methods script with a specified URL path to gather information about the supported HTTP methods.</rich_text>
+    <encoded_png char_offset="48" justification="left" link="" sha256sum="d19119b87ac587f745193fc614a4c7ae7532fa2e69fad5eb807e1aa8270e0e26"/>
+    <encoded_png char_offset="276" justification="left" link="" sha256sum="eec127484db8faa9e271bbf3768782babc6fb11feaa3b54372f1b12fa8d2ed2e"/>
+    <encoded_png char_offset="576" justification="left" link="" sha256sum="16428678e13e13b8d0b7220c248ea6487e06ff4f9adf36c630659f6e0341a6f7"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Setting Up a Web Server with Python" unique_id="127" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706610844" ts_lastsave="1706611192">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We will have the same server output
+
+
+
+For example
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="1d5256fceee3eaa088b9439ae025ab25176f16a2896938c610127a0981d99023"/>
+    <encoded_png char_offset="9" justification="left" link="" sha256sum="06e76ba7a9acca47bd2d88b30e182d3099aed345698a6b9d59cd17a01067e4fb"/>
+    <encoded_png char_offset="14" justification="left" link="" sha256sum="b7c22aa9e24d4891c29df319f20cb3a7e4d10fbe1921c1a12c15880aabe1f11e"/>
+    <encoded_png char_offset="17" justification="left" link="" sha256sum="199a2b1a87bb58cbb2bbac40149505cbcabf3c9dc18f1b972ae40718d5bf507a"/>
+    <encoded_png char_offset="23" justification="left" link="" sha256sum="1bf187fbc1018e30458d744006cf8a9a0cc47eb1bc59c3acb8ddcd33e860d1d7"/>
+    <encoded_png char_offset="77" justification="left" link="" sha256sum="24a6e0ec68a2a730dae6b29ff8bc56ea981147430bb6097d22a0f5cabcee5d0b"/>
+    <encoded_png char_offset="80" justification="left" link="" sha256sum="1acad929182c81dfba99e61beed6fe63cb25854bb8f09fa4bf29ed17774a7fd7"/>
+  </node>
+</cherrytree>

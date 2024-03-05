@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Misconfigured Cron jobs" unique_id="204" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708188687" ts_lastsave="1708197205">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following we are going to add the current user ‘student’ to sudo list to access the root using cron jobs
+
+
+
+
+Currently there are no cron job for the student user
+
+
+
+
+Here the file message is owned by root but it is located in the student's directory
+
+
+So we are going to see all occurrences of the path specified to the file to check why this file is in student's directory
+So we use grep utility for the checking the occurrence
+
+
+
+
+• </rich_text>
+    <rich_text family="monospace">grep</rich_text>
+    <rich_text>: This is the command itself, used for searching text patterns.
+
+• </rich_text>
+    <rich_text family="monospace">-rnw</rich_text>
+    <rich_text>: These are options or flags that modify the behavior of the </rich_text>
+    <rich_text family="monospace">grep</rich_text>
+    <rich_text> command:
+◇ </rich_text>
+    <rich_text family="monospace">-r</rich_text>
+    <rich_text>: Recursively search subdirectories.
+◇ </rich_text>
+    <rich_text family="monospace">-n</rich_text>
+    <rich_text>: Display line numbers along with matching lines.
+◇ </rich_text>
+    <rich_text family="monospace">-w</rich_text>
+    <rich_text>: Match whole words. This ensures that the pattern is not part of a larger word.
+
+• </rich_text>
+    <rich_text family="monospace">/usr</rich_text>
+    <rich_text>: This is the starting directory for the search. The command will search recursively starting from the </rich_text>
+    <rich_text family="monospace">/usr</rich_text>
+    <rich_text> directory.
+• </rich_text>
+    <rich_text family="monospace">-e "/home/student/file"</rich_text>
+    <rich_text>: This specifies the pattern or text to search for. In this case, it's the path "/home/student/file". The use of the </rich_text>
+    <rich_text family="monospace">-e</rich_text>
+    <rich_text> option is to explicitly specify the pattern to search for.
+
+We start from the root directory
+
+
+
+
+We found copy.sh script copies the message file from student directory to tmp directory
+
+
+
+
+
+Here the copy.sh is a root owned file and anyone the permission to rwx and it is a cron job
+
+
+
+So we are going to write some lines in copy.sh to add the student user to sudoer's list and add the xopy.sh to cron jobs for execution
+
+
+The above is code to add student to sudoer's list .
+Since nano or vim is not available, we are using ‘printf’ tool to add the code into the script 	
+
+
+copy.sh is a cron job , so after sometime the job  get executed and the student gets added to sudoer's list
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="b53e99c679ffbdfd7defe414820e25bff4bcef72b2787271ae6d337a78c9ab9f"/>
+    <encoded_png char_offset="121" justification="left" link="" sha256sum="83fb69695d96997736bf26dca6dc21b6f0a78b3c3cb82f42e54e7b3dc1780ffe"/>
+    <encoded_png char_offset="179" justification="left" link="" sha256sum="082bd40d8b9350573fcf77fc9bcc6be0be04a5826c501d18ab602e97345da9f1"/>
+    <encoded_png char_offset="1110" justification="left" link="" sha256sum="df19bfca209560d38f935ca54173146b83b153c199854f6aa605145b925a0d5d"/>
+    <encoded_png char_offset="1148" justification="left" link="" sha256sum="9f3f0007d1ba8a652a9b3ba19add1c9de984198c210006f0ccbe933f25547be6"/>
+    <encoded_png char_offset="1242" justification="left" link="" sha256sum="c1cb77212f2d0dd7f67c15abc26de2a9400f52fc55ec9ce4430a049f7d1ac52f"/>
+    <encoded_png char_offset="1475" justification="left" link="" sha256sum="093f2f308e7ff56f02579e32c5baa96ec956c824036fc699d74f30eb969ad517"/>
+    <encoded_png char_offset="1737" justification="left" link="" sha256sum="3a03709fa12deb49b0c0dac6fc3ac7e9435f4d143f333860ed77a14300185833"/>
+  </node>
+</cherrytree>

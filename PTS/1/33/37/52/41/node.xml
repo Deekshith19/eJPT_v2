@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nmap" unique_id="41" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704296742" ts_lastsave="1704879586">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1. Imorting Nmap scan results into metasploit</rich_text>
+    <rich_text>
+ 	
+ 	syntax: db_import &lt;path to the file&gt;
+ 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+To see the imported results, type 'hosts'  or ‘services’
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+2. Scanning with nmap inside metasploit:
+
+  Syntax: db_nmap &lt;target&gt; &lt;options&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+We can use ‘vulns’ command to see any vulnerabilities present in the result</rich_text>
+    <encoded_png char_offset="91" justification="left" link="" sha256sum="8b442c3ecf54549587b00998fa269522cd1dc1bfe228772ceb6f01e0744325ad"/>
+    <encoded_png char_offset="152" justification="left" link="" sha256sum="3d717dda6675e50f3120e707531951e9a41292fada99f7079a36d21b0f8269ef"/>
+    <encoded_png char_offset="237" justification="left" link="" sha256sum="86cef4e761d3d57be4b1fd3219200c1e61355a2088909c5d3ba1dc14cc6a5aab"/>
+  </node>
+</cherrytree>

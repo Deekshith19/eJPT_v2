@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Dumping hashes with Hash dump" unique_id="77" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705733798" ts_lastsave="1705734027">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Exploit the samba vulnerability and upgrade to meterpretere session
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Use the gather hashdump module
+ 
+ 
+ 
+ 
+ It stores the passwd, shadown, unshadow file in a specific path</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="f319659a66b439322fc5f5cba69634cdd0efb18eaa7d8a0bfe4b5d68b2acbbbf"/>
+    <encoded_png char_offset="80" justification="left" link="" sha256sum="b928c944dab999cc2174eaad9e9b0eb5b8bce16f58ecf66c4bc925c0da3bfe9c"/>
+    <encoded_png char_offset="120" justification="left" link="" sha256sum="4b8db89d34f10e81aea8b7afa745e090e81fcb6112c1344327fe4cf0539cd8a9"/>
+    <encoded_png char_offset="127" justification="left" link="" sha256sum="6c4c485cb1e17098ffdbd59f81e3f85e2e1b2bccbda0a2b1f192d816f05895f3"/>
+  </node>
+</cherrytree>

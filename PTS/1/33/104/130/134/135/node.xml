@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Weak Permission" unique_id="135" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706714481" ts_lastsave="1708454060">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Here we are going to check the misconfigured permissions assigned to a normal user to elevate the privileges to root
+
+
+We going to find the files where every user on the system can edit them
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we started for searching the files from the root directory itself
+
+• </rich_text>
+    <rich_text family="monospace">/</rich_text>
+    <rich_text>: Specifies the starting directory for the search, in this case, the root directory.
+
+• </rich_text>
+    <rich_text family="monospace">-not -type l</rich_text>
+    <rich_text>: Excludes symbolic links (</rich_text>
+    <rich_text family="monospace">-type l</rich_text>
+    <rich_text>). The </rich_text>
+    <rich_text family="monospace">-not</rich_text>
+    <rich_text> option negates the condition, so it looks for items that are not symbolic links.
+
+• </rich_text>
+    <rich_text family="monospace">-perm -o+w</rich_text>
+    <rich_text>: Looks for files and directories with write permissions for others (world). The </rich_text>
+    <rich_text family="monospace">-perm</rich_text>
+    <rich_text> option checks for permissions, and the </rich_text>
+    <rich_text family="monospace">o+w</rich_text>
+    <rich_text> specifies that others have write permission.
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We found the shadow file can make changes to the file which is a critical vulnerability
+
+
+
+Now we are going to generate a new password (hashed format) for the root user and add it to the shadow file
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+• </rich_text>
+    <rich_text family="monospace">openssl passwd</rich_text>
+    <rich_text>: This command is used to generate password hashes.
+• </rich_text>
+    <rich_text family="monospace">-1</rich_text>
+    <rich_text>: This option specifies the MD5-based algorithm for password hashing.
+• </rich_text>
+    <rich_text family="monospace">-salt abc</rich_text>
+    <rich_text>: This option allows you to specify a salt for the password hash. In this case, the salt is set to "abc."
+• </rich_text>
+    <rich_text family="monospace">password</rich_text>
+    <rich_text>: This is the actual password for which you want to generate the hash.
+
+Here we assigned the passwd:password
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we add the hash to the shadow file
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Now we are able to enter into the root user by entering the passwd:password
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+In most cases its not the shadow file and there are other files which could be used to elevate the privilege of the system
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is done on the lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Found the flag</rich_text>
+    <encoded_png char_offset="195" justification="left" link="" sha256sum="d702375339ab29f2520e39bb75014a129a8a8a75e3a15bbfb9b56447ef837e3c"/>
+    <encoded_png char_offset="694" justification="left" link="" sha256sum="b41b6dcb1f7084723b15a8ca468c189ff4ff88f30e298a37db71084304bc7d9b"/>
+    <encoded_png char_offset="896" justification="left" link="" sha256sum="13d2baeab3d6864ac31ae80ff47cd335539ec22a49c6ceeb7218ec2b0b290d02"/>
+    <encoded_png char_offset="1277" justification="left" link="" sha256sum="1090c3dda1d62f11704c09faf86df160bea4790b235731dc82a26a96465a0cd4"/>
+    <encoded_png char_offset="1319" justification="left" link="" sha256sum="377cf46067c07bf03256d710c86a17a04966a5251d31f1e2d1e5ca18128e8f7e"/>
+    <encoded_png char_offset="1401" justification="left" link="" sha256sum="7563726d6daf82558a161a56c8e3036d90390487167b92616e7db4298790e1cb"/>
+    <encoded_png char_offset="1577" justification="left" link="" sha256sum="45a7fe30eef328477d3e0d200ecbb0eea35467eb48993977c4ef0b25225a3e3c"/>
+    <encoded_png char_offset="1580" justification="left" link="" sha256sum="c71b5c25bbe6cea0528fb0ef7febd8b6a00ac824b947829cacce7e1f534aea37"/>
+    <encoded_png char_offset="1583" justification="left" link="" sha256sum="46a4fb4c0d8992eeeb548e6fd2c9063dd58185af29fe04dcfdcf61fae266a431"/>
+    <encoded_png char_offset="1586" justification="left" link="" sha256sum="e0a44e7eb052ecaa488d82f4a1b404c228fad33e56e4db62e6f078e74d63a1a9"/>
+    <encoded_png char_offset="1589" justification="left" link="" sha256sum="ab3f16010d391cb9f1047659a6a6cc92b17e0b727e2eda7fbc40b3d76f30de83"/>
+    <encoded_png char_offset="1592" justification="left" link="" sha256sum="0d2f218139e576bd7ca326a5a8e0db1c53a8aa2056d5abc6cfae57059fb20a45"/>
+  </node>
+</cherrytree>

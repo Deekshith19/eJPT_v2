@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Windows" unique_id="62" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="120" is_bold="1" foreground="#cdab8f" ts_creation="1704998055" ts_lastsave="1705607153">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Overview</rich_text>
+    <rich_text>:
+1. To enumerate the privileges of the current user: wins_privs
+2. To see the logged on users: enum_logged_on
+3. To check whether the system is a VM : checkvm
+4. To see the installed programs : enum_applicatuons
+5. To view any Antivirus software installed in the system: enum_av
+6. To see any other system in the same domain : enum_computer
+7.  To view any installed patches which is very imp for privilege escalation: enum_patches
+8. To view any shares such as printers or etc : enum_shares
+
+
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> To enumerate the privileges of the current user: wins_privs
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> To see the logged on users: enum_logged_on
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>\
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> To check whether the system is a VM : checkvm
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>	
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> To see the installed programs : enum_applicatuons
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> To view any Antivirus software installed in the system: enum_av
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text> To see any other system in the same domain : enum_computer
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">10.</rich_text>
+    <rich_text> To view any installed patches which is very imp for privilege escalation: enum_patches
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We can specify any specific patches here to search for
+
+
+
+</rich_text>
+    <rich_text weight="heavy">11.</rich_text>
+    <rich_text> To view any shares such as printers or etc : enum_shares
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="507" justification="left" link="" sha256sum="55fc0f06f06e9e5f4b56fea79a107cc30dfcb8f7e714cf4a5514087031b05722"/>
+    <encoded_png char_offset="516" justification="left" link="" sha256sum="28dd74e63aea116f0ab2bdb50224defd776c966e20a4300394e03cdcd0fddd76"/>
+    <encoded_png char_offset="522" justification="left" link="" sha256sum="553253eb9196ad446415ecea64de91403a29154a9e6a978caeee59883bd98b9e"/>
+    <encoded_png char_offset="590" justification="left" link="" sha256sum="07e4f9db26106f515ef57f861975d2aae602a3f57fd6d50628bcd76475f72117"/>
+    <encoded_png char_offset="593" justification="left" link="" sha256sum="757faaf93c7938b056ec17b4702771472dd3b37d084451110a7793581bb5c778"/>
+    <encoded_png char_offset="645" justification="left" link="" sha256sum="e60538a01d7069ab3f23aa95360e9fb454911c672e6dce64cc4e99f646b68d86"/>
+    <encoded_png char_offset="648" justification="left" link="" sha256sum="fbe7564e523d2b9c352bb63522209de06dce42103496a0f074f93d1e7b10ab44"/>
+    <encoded_png char_offset="704" justification="left" link="" sha256sum="97e306065e61311a35cff57e54552569ff76246e9ced016c48ed52462cb10343"/>
+    <encoded_png char_offset="707" justification="left" link="" sha256sum="ec6936b87fd164c4a092b52ce51c003287f1c9b90f1a670991717f4f8544365e"/>
+    <encoded_png char_offset="767" justification="left" link="" sha256sum="43884c7ee6ab490aca814b264ecf713141e46eaa9999ff40af861d8d8bef4aba"/>
+    <encoded_png char_offset="770" justification="left" link="" sha256sum="5bb6163b413abf46cc30d8a2362f76be006a5904ed703bfba34d281c3036cd87"/>
+    <encoded_png char_offset="842" justification="left" link="" sha256sum="8cec6b6dc74f15026615456dc1bea9480d7918fc22b3c57e14a38e4b15018845"/>
+    <encoded_png char_offset="910" justification="left" link="" sha256sum="9b8847f4f6ad24dfac32594f2e385dcc00892bf14535a27db08373f66f25a993"/>
+    <encoded_png char_offset="1007" justification="left" link="" sha256sum="82116720d72726b548f9e04967c4dd444a5ba480922d775d25c63cb3f04d0a63"/>
+    <encoded_png char_offset="1011" justification="left" link="" sha256sum="b2d53ee086050e2904164aad773ec7f949bfb8e43703c8df766a091455e5a4b3"/>
+    <encoded_png char_offset="1133" justification="left" link="" sha256sum="99db12e645e0087846b3f42523fcdb3a0ff32437b26e2bd285dd9409bd1f0db1"/>
+  </node>
+</cherrytree>

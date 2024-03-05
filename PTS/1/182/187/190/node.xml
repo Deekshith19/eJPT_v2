@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Login" unique_id="190" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707845552" ts_lastsave="1707846975">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Following is done in lab
+
+It is said to do in hydra, I'm using burpsuite
+
+
+
+
+
+
+
+For the user_id, only these two are required
+
+
+
+
+
+need to add the ‘bug’ manually in the payload field
+
+
+
+
+
+
+
+Loginned
+
+</rich_text>
+    <encoded_png char_offset="79" justification="left" link="" sha256sum="cfcf9107560faf5195dd1b63106658aaa4d4e16b0e5d1e92d6fc081fd1975689"/>
+    <encoded_png char_offset="84" justification="left" link="" sha256sum="98589aeabd4365ddd4bde7d21408b4212eedc5f7ef43ab4fa2842bc9645bffd6"/>
+    <encoded_png char_offset="133" justification="left" link="" sha256sum="124a2c2e9df6c3f4c7774b846d305233bf9149394c3ad03c656941e9a8912021"/>
+    <encoded_png char_offset="136" justification="left" link="" sha256sum="f923cd569265b78432ce829e98defb607811d80fff4f3fafb1babe7b3881a06d"/>
+    <encoded_png char_offset="191" justification="left" link="" sha256sum="19df6c9d2b3bad6a9a68235e5c0ede7f9a6dd989bb030ca590793b4b2745b2d8"/>
+    <encoded_png char_offset="196" justification="left" link="" sha256sum="15d1c3cacfd175a0642660cc21dc4264a18b73846222e4777ce40817ed0fa144"/>
+    <encoded_png char_offset="208" justification="left" link="" sha256sum="19b431ae43946a6f6a2617ddcf20187931c92fa182858168f0bbadead310bcb1"/>
+  </node>
+</cherrytree>

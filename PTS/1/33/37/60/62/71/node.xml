@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Establishing Persistence" unique_id="71" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705579952" ts_lastsave="1705581690">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Firt exploit using rejetto
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Then use persistence_service
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Set the session and run
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Now we deleted both sessions
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> After configuring the required options, then run
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text>  
+8. 
+
+Now we got the previous shell,, we can upgvrade to meterpreter shell.</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="1872e5ec98082b793fa7eafd6da2a444eb1e3e8bc294a3a79df5170eba029188"/>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="9e710b96f82a9fd29c0b391d26c28b4c15b291cc221898ecf96f3db41ae92ba6"/>
+    <encoded_png char_offset="76" justification="left" link="" sha256sum="e58d6ae52a37073462f1a9b5f943499e222fc963399f43c2e3b792db089c2787"/>
+    <encoded_png char_offset="109" justification="left" link="" sha256sum="c8733196779b3eb33e058a384349db76532e62b54ed9df580f4a72d546837c2a"/>
+    <encoded_png char_offset="148" justification="left" link="" sha256sum="9017498fa95a8b506f6e1df76395e2d6b0befc16eb9c0d740a33d4a3105b3f0e"/>
+    <encoded_png char_offset="206" justification="left" link="" sha256sum="e542f30a6690f372cef9ff8db3118e48156f2dab06756dcbafe23fe302e105a4"/>
+    <encoded_png char_offset="220" justification="left" link="" sha256sum="07b9597cb529e233c97bcd1fc9adef1195bbae4600851e9cbe5d21890ed94c70"/>
+  </node>
+</cherrytree>

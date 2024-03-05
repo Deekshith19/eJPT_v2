@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Powershell Empire" unique_id="96" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706176733" ts_lastsave="1706178090">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+Its primarily used for exploitation and post exploitation mostly on windows targets
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">Client</rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+Username: empireadmin
+Password : password123
+It is already installed in kali
+
+
+For ejpt, we don't need much use of powershell empire</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="a41c05212e248c7d5ed9f01bc76b8624312fcf75f6ee6cf71d02f7c8c80388ad"/>
+    <encoded_png char_offset="92" justification="left" link="" sha256sum="652ead0c7d31903ea8d875ced6eadcb5b1736920ccb4d79723eed88cf471abb3"/>
+    <encoded_png char_offset="103" justification="left" link="" sha256sum="fd3b7f999a39fd495d02681ab41081a61fdb38868ae74ba876cc7bcc237aaa0a"/>
+    <encoded_png char_offset="109" justification="left" link="" sha256sum="2ca1cb8864712aba50a4e96bef5301edb433f25889885bd0b4da7d7bd74dc504"/>
+    <encoded_png char_offset="111" justification="left" link="" sha256sum="65201f086b3750024e88ba5106212696cbe2167d9789a162c65b6d1a9ec8a804"/>
+  </node>
+</cherrytree>

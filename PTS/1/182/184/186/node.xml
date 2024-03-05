@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Burpsuite" unique_id="186" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707746207" ts_lastsave="1707747256">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+Using burp's intruder and assign the position for bruteforcing to enumerate the subdomains
+
+
+]
+Enter or copy the wordlist to the payload options
+
+
+
+
+
+Now we are able to see which are all the subdomains are present.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">
+2.</rich_text>
+    <rich_text>
+Following is done on lab
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="d0b58329401e221cf9234c1140df303b50dc1fe83963d50f75c3dc8c6c54b3cc"/>
+    <encoded_png char_offset="100" justification="left" link="" sha256sum="fbdfedc14d2f2d782d3ff5e7c7467b8f35a0b8c0e2f19f931cde4221d20c5c6a"/>
+    <encoded_png char_offset="155" justification="left" link="" sha256sum="4b225a7b965fcc1f6ea2a20e907c3fbc787ce6e633a2441fc9c9f3f1f1850b67"/>
+    <encoded_png char_offset="257" justification="left" link="" sha256sum="c1e250a914b506fca231b4ff3b0780ebbb1abe03b756e4214f049c123b15545e"/>
+  </node>
+</cherrytree>

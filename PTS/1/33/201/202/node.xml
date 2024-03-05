@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Tshark" unique_id="202" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708163473" ts_lastsave="1708170577">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">It is better to look in the solutions pdf</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+Lists all the interfaces
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Reading a pcap
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">
+3.</rich_text>
+    <rich_text> To see variois statistics
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+Applying filter
+
+
+
+
+Applying ip filter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="47" justification="left" link="" sha256sum="2833c28505493f336335a763253bee7ee6742dde7d9b27821e60074ac6220907"/>
+    <encoded_png char_offset="52" justification="left" link="" sha256sum="0bebed22a821361f377f41cd229b08e14024113bd712aa6a24aaf22a7c930b15"/>
+    <encoded_png char_offset="101" justification="left" link="" sha256sum="c0fa8a103c7459a0079a7552755badf207fb34f6f8aff205e25e212fed2cb485"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="21778324dd6208fff1eead6598861e45c3a3a6ef14b87c31948663f10657786e"/>
+    <encoded_png char_offset="162" justification="left" link="" sha256sum="fe161331286ea8f4151347ab725a4fd5ec3107027eb86a5a8ba8e6aa2f839ded"/>
+    <encoded_png char_offset="186" justification="left" link="" sha256sum="a14eed7f3753181d91fb3e20f893576e9f1065e3273abc3bf6bdd3f5a607889e"/>
+    <encoded_png char_offset="192" justification="left" link="" sha256sum="db84422866d3c24de9af6029621f0580e96b108c927e264dc7ff71f369e1c06e"/>
+    <encoded_png char_offset="194" justification="left" link="" sha256sum="c05d4d73bc2ce7c946653e98a3e4ebe0f6471f485102f7870db390ae79ac72f4"/>
+    <encoded_png char_offset="201" justification="left" link="" sha256sum="0119a8a35179d8a8bf071343fe7b9ec3e64a1d4c68f1dd867df32f127475c1b6"/>
+    <encoded_png char_offset="203" justification="left" link="" sha256sum="b8e456c0771c3fdcbcf7d67bf5b4eb938aea2f7c0942e3c174c3bcee02e436bd"/>
+    <encoded_png char_offset="208" justification="left" link="" sha256sum="4ff44e731c58fb872ae463d0b359cf39a868cf786030716a4488012e8f91bf1a"/>
+    <encoded_png char_offset="216" justification="left" link="" sha256sum="76844db1a67652b5259575ee4d7e71f889d1c04544a0a8f57201b155d93e6fa3"/>
+    <encoded_png char_offset="218" justification="left" link="" sha256sum="18a3bb8b5f39c7563490776edfde1cb57ca459bb763fde72431c76de47d1a50d"/>
+  </node>
+</cherrytree>

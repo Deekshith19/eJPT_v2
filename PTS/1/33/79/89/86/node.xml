@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Netcat Fundementals" unique_id="86" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706085667" ts_lastsave="1706123560">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Netcat, often abbreviated as "nc," is a versatile command-line networking tool used for reading from and writing to network connections. It can function as a simple TCP/UDP server or client, facilitating various network-related tasks such as file transfer, port scanning, and remote administration
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Some useful options:
+
+a. -v : setting verbosity
+b. -u : for connnecting to udp port or setup a port on udp port
+c. -l : bind and listen for incoming connections
+d.-e : to execute specific commands
+e. -n : The </rich_text>
+    <rich_text family="monospace">-n</rich_text>
+    <rich_text> flag is useful in scenarios where you want to connect to a server using its IP address directly, or when you want to avoid the potential delay caused by DNS resolution. I
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Connecting to a particular port
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Connected to udp port
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Now we are going to set up listener ( a server) on a system, for that we need a client and server systems
+
+FOllowing is lab doing that,
+
+
+Windows doesn't comes with netcat, so we need to transfer nc.exe to windows. Here we host a SimpleHTTPServer from linux which contains nc.exe so as to download the nc.exe to windows
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+Here we downloaded the nc.exe from the server to the client machine
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+Here we are starting the listener on and is listening to port 1234
+
+
+
+
+Below the client machine is connected to the target machine
+
+
+
+
+
+
+
+
+After getting connected, we ca actually chat each other
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> Udp listener
+
+
+
+
+
+
+
+Sometimes we don't get connection to listener since it is udp
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> Transferring files
+
+Here we are going to transfer file from client to the server
+
+ ‘&lt;’ symbol is used to select the required file
+ 
+ 
+‘&gt;’ is used to represent the output file, where any file sent from the client is saved to this output file. Here we have ‘test.txt’ as our output file
+
+
+
+
+
+Following I done on the Lab
+
+Downloaded the nc.exe 
+
+
+
+
+Got connection to the list
+
+
+
+
+
+
+
+Sucessfully transferred files from windows(client) to linux(server)
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="51b10b181b7b3c09aed8d727800c66024ebbddacdc1b6a32487a850bffa047f0"/>
+    <encoded_png char_offset="311" justification="left" link="" sha256sum="ec8bcaac806e5a1458ad014cc1c7245f760e2246cb3d72ee29a8b3eb5be75083"/>
+    <encoded_png char_offset="736" justification="left" link="" sha256sum="078dd6a483d8c5c274bd51635c1f7eb32aad3b5628af6ae7e40062c6bfa42647"/>
+    <encoded_png char_offset="739" justification="left" link="" sha256sum="c50e03e8e4fe5d126bc653d164a66135ec89c52b1293dc6b9d42b6ff9cfc2c0b"/>
+    <encoded_png char_offset="1090" justification="left" link="" sha256sum="f40738ce8bf4582e5163df45b530045defc79b7c7427399be6939058b3642bf8"/>
+    <encoded_png char_offset="1093" justification="left" link="" sha256sum="2e1a206fac1d8982684fed7fc34d1bd18ae009c896cc5e34e1f51d93479ae740"/>
+    <encoded_png char_offset="1098" justification="left" link="" sha256sum="ec7629ef65298af36a95521334bec38fd6c4015313dfa8695cd650f756e47e55"/>
+    <encoded_png char_offset="1242" justification="left" link="" sha256sum="baa5c8bf111fd8a5661d015aa19d1c01da766bbf6acf2479f217eb22db14f2ce"/>
+    <encoded_png char_offset="1306" justification="left" link="" sha256sum="8251467316c66e2a44124249c88aaddeaa876a8c7d238601df19d02c02a9a2f5"/>
+    <encoded_png char_offset="1310" justification="left" link="" sha256sum="09297babf216bde0b27b974f773d49486a78a3000f5536a6e743e431f27d511c"/>
+    <encoded_png char_offset="1373" justification="left" link="" sha256sum="2b96794955fc02bf8fc9465e486024a2d45f10461a054f67686f3cf2a05869f2"/>
+    <encoded_png char_offset="1376" justification="left" link="" sha256sum="0a67f9c6bf8486a24b2ed2b441e9800e0c16ff5524dcbe82ca1e067f601bba81"/>
+    <encoded_png char_offset="1398" justification="left" link="" sha256sum="cec50080039277ed0ff78fc7c5c977d04b6876f60cd26726f6a99b77e4cdf2cb"/>
+    <encoded_png char_offset="1400" justification="left" link="" sha256sum="f7e5223f20dce151b8507f9af8b43d57660de240605c50af53766ea631d3d985"/>
+    <encoded_png char_offset="1404" justification="left" link="" sha256sum="75deeae93805bd23b472ff236bfb28b12ede523bf7f75a35a0f0f9a7887a8f99"/>
+    <encoded_png char_offset="1556" justification="left" link="" sha256sum="a8ee38c28848d64b3b08fb0254d1e1f21f5c3597f321c37d81af599297291d6b"/>
+    <encoded_png char_offset="1609" justification="left" link="" sha256sum="bb8c732d0c202655a1915a60f175e4994cc00d6b4e9bbd64b1a727a8021814ff"/>
+    <encoded_png char_offset="1795" justification="left" link="" sha256sum="c5ab649a59223a5e2fa7c749da8ccee2cce18ae6f3ef25aef9790f9122ab4c51"/>
+    <encoded_png char_offset="1820" justification="left" link="" sha256sum="8be2d76bab294c014ab3cfdba0309001a15765526a9104a9bcb25d0603c7de11"/>
+    <encoded_png char_offset="1852" justification="left" link="" sha256sum="4557c4590bbfea9902e78f04695979c25a505676c1a6abcfcd684ebbe612c6b0"/>
+    <encoded_png char_offset="1855" justification="left" link="" sha256sum="74a4d3284f4073e760ade6cc40f3e238faa7c6ad219aec0547a299caf7dd4745"/>
+    <encoded_png char_offset="1930" justification="left" link="" sha256sum="c5833d1024c628df107c4dba8e5cc42e3e0cb0061c8313a31177d63d958ba417"/>
+    <encoded_png char_offset="1933" justification="left" link="" sha256sum="c31c027789b9a72c5c817de602a3e87f59b399941aa521e0fd54a77ba64d6e16"/>
+    <encoded_png char_offset="1937" justification="left" link="" sha256sum="c65707468fc7c9643a2d257ca52e4c754bbc48b2fc6ad6cf3ac10ddb8605869d"/>
+    <encoded_png char_offset="1940" justification="left" link="" sha256sum="21a987e857309952b08e23242bc736f42732215b3338cb16ab5f744a49399188"/>
+  </node>
+</cherrytree>

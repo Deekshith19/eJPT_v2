@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Active Info gathering" unique_id="22" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1703234475" ts_lastsave="1703358487">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="d881a144e3f0be45234315a511402e7158e97887dd8e00a28d254d1f17b44ab3"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="76eb6868921f5171fa5ea1b2c399708c40eb3cff302c40e8fc9213d8269ea2e4"/>
+  </node>
+</cherrytree>

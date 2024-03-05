@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Ping Sweeps" unique_id="28" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1703321821" ts_lastsave="1703340903">
+    <rich_text>Ping Sweep: ICMP echo Request &amp; ICMP echo reply
+
+# nmap -sn -PS target : This sends ICMP Echo Requests and TCP SYN packets to determine reachable hosts.
+
+
+#</rich_text>
+    <rich_text family="monospace">nmap -sn -PS21,22,25 target</rich_text>
+    <rich_text>: In this command, the </rich_text>
+    <rich_text family="monospace">-PS21,22,25</rich_text>
+    <rich_text> option is used for TCP SYN Ping on ports 21, 22, and 25.
+
+#</rich_text>
+    <rich_text family="monospace">nmap -sn -PS -p 21,22,25 target</rich_text>
+    <rich_text>: In this command, the </rich_text>
+    <rich_text family="monospace">-p 21,22,25</rich_text>
+    <rich_text> option specifies that TCP SYN Ping should be sent to ports 21, 22, and 25.
+The practical difference is subtle, and in practice, both commands are likely to behave similarly. However, the correct usage would be the first command without the </rich_text>
+    <rich_text family="monospace">-p</rich_text>
+    <rich_text> option
+
+
+</rich_text>
+  </node>
+</cherrytree>

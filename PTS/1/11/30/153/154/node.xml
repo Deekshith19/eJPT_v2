@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SSH" unique_id="154" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707029201" ts_lastsave="1707044677">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Algorithm enumeration
+
+nmap &lt;target&gt; -p22 --script ssh2-enum-algos
+
+
+
+
+This script is designed to enumerate the supported algorithms by an SSH server, providing information about encryption and compression algorithms supported by the SSH service.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> SSH Key enumeration
+
+nmap &lt;target&gt; -p22 --script ssh-hostkey --script-args ssh_hostkey=full
+
+
+
+The purpose of this Nmap command is to gather information about the SSH host key used by the target's SSH server. SSH host keys are used for host authentication, and by examining the host key, you can verify the authenticity of the server you are connecting to.
+
+SSH supports various key types, including RSA, DSA, ECDSA, and ED25519. Modern implementations often favor stronger elliptic curve-based keys like ECDSA and ED25519 over RSA.
+
+
+
+
+On an SSH server, the host key is typically stored in a file that is specified in the server's SSH daemon (sshd) configuration. The exact location and name of this file depend on the operating system and the specific SSH server software being used.
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Authentication Methods
+
+nmap &lt;target&gt; -p22 --script ssh-auth-methods --script-args="ssh.user=admin"
+
+
+
+
+
+
+The purpose of this Nmap command is to gather information about the authentication methods supported by the SSH server on the specified target, using the provided username for the script execution.
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+The following is done in lab
+
+
+
+Here we found there is no auth method for student.
+
+ASo there is no need to enter the password
+
+Flag retrieved.
+
+
+
+</rich_text>
+    <encoded_png char_offset="72" justification="left" link="" sha256sum="6320076edae90f261614a698e7a80b095b0232d92891847d359e1050f2737149"/>
+    <encoded_png char_offset="75" justification="left" link="" sha256sum="04744a6ffb88e382445b82a9e04ff9ed05b9d71e500079282e4a541958ef489e"/>
+    <encoded_png char_offset="353" justification="left" link="" sha256sum="746b3c168e7d85d02c576b39f7376014bca09856411adcde6bfd21edb397242a"/>
+    <encoded_png char_offset="796" justification="left" link="" sha256sum="d85bcb0e9364837b401bff57a2adc29c624a2c8fc0d0f964f9c7c67d934c3f9c"/>
+    <encoded_png char_offset="1158" justification="left" link="" sha256sum="4a3762c61433e5e411f9fced43893d65ca01352c3c1c65fc178bb4f2a63982fc"/>
+    <encoded_png char_offset="1399" justification="left" link="" sha256sum="cf27cdf8a36cfb3311d51514d69f7bf75808e4bb1a71cbc4126667f0f80b88a7"/>
+    <encoded_png char_offset="1496" justification="left" link="" sha256sum="f1f76f0b51b1161bd4df7b8e4f0ac51193a22d1a1b6e8f57c70c181ef8f9d163"/>
+    <encoded_png char_offset="1516" justification="left" link="" sha256sum="e2f9ed3f3ff36be33b83a927321b8753f11dcd91e8ab99e767c90daeac4b629b"/>
+  </node>
+</cherrytree>

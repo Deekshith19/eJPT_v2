@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Information Gathering" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#33d17a" ts_creation="1702452598" ts_lastsave="1702795436">
+    <rich_text>Types of Information Gathering
+	</rich_text>
+    <rich_text link="node 3">Passive Information Gathering </rich_text>
+    <rich_text>:
+							+ Identifying IP addresses and DNS Info, domain Names, email addesses, socila medi profiles, subdomains. 
+							
+	Active Information gathering:
+		+Discovering Open Ports on target systems, enumerationg infor from target systems.</rich_text>
+  </node>
+</cherrytree>

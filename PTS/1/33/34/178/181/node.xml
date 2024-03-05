@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMB Server Psexec" unique_id="181" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707409576" ts_lastsave="1707415898">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>Following is done on lab
+
+
+
+
+
+
+
+
+Sometimes we dont get meterpreter session at first, so try again to get the access
+
+</rich_text>
+    <encoded_png char_offset="29" justification="left" link="" sha256sum="6b04dad20b06c9e21f39f961bd9534c1ecf2176e9bd3efbe058c28420bb6adc4"/>
+    <encoded_png char_offset="32" justification="left" link="" sha256sum="73a2d348d17a51d66a706a716dfb0c31d885123b283d512ebf0da65048f1b87e"/>
+    <encoded_png char_offset="37" justification="left" link="" sha256sum="b15a0bd1e8a2dafe00a8c0c2ebf6e9596029e41ce42ff94daa25c989ea20682e"/>
+    <encoded_png char_offset="123" justification="left" link="" sha256sum="d422edc3528efa9e317563ead87736744e7d8aebdeb02d014f6d608a9a5a4237"/>
+  </node>
+</cherrytree>

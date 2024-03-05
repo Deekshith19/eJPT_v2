@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Network Layer" unique_id="24" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1703255419" ts_lastsave="1703263708">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> </rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="6e262b7296c14913164bb57f4d9f05033e96c27f1e203acbb29cb5342ed20904"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="782f320a4a1989e10aac7bcc1ff181cf8d03a7ba9097a394080f3d8732319d5d"/>
+    <encoded_png char_offset="6" justification="left" link="" sha256sum="b9a97d7ad97d51b1b4997d00e05c23ac868c770bbcf28d4c7a5338ba0572c892"/>
+    <encoded_png char_offset="9" justification="left" link="" sha256sum="1d89814abfaa889bfaf9b9988bf34870af2cb785e1846b93142f1b749a921ca6"/>
+    <encoded_png char_offset="11" justification="left" link="" sha256sum="f25e12e52d22b957d88e00c7b4d0e0095f34201cff9de6d6d50f34943c3f77e4"/>
+  </node>
+</cherrytree>

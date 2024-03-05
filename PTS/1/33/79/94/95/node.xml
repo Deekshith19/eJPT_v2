@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="MSF Process Maker" unique_id="95" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706167526" ts_lastsave="1706175335">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Here we are going to exploit process maker
+ Its default username and password is admin:admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> We have an exploit for authenticated processmaker, so we'll try on that
+ 
+ 
+ 
+ 
+ It is also available in metasploit
+ 
+ 
+ Configure the required options
+ 
+ 
+ 
+ 
+ 
+ After exploiting we got the required flag</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="6d32dfbda0b8f64dba547d1dfd8c1a21d7e3015daf65a60f1701cab5ee8f409c"/>
+    <encoded_png char_offset="109" justification="left" link="" sha256sum="d6e0f00572212b32a7b2922677c6adc36e3a1ac47b85b28f8ee88ea1b809c317"/>
+    <encoded_png char_offset="114" justification="left" link="" sha256sum="da21fdbdb91be799ad270fa67fd68af75acdf36d71ef7a211a86d8a53c44051e"/>
+    <encoded_png char_offset="201" justification="left" link="" sha256sum="de79f28b7c2e57edbe8d7752b182970136aa8d993328dfd3286072834f3782ef"/>
+    <encoded_png char_offset="206" justification="left" link="" sha256sum="c6a20c8709ad2a951a53ad349f6b5f24eaf9d42263b8fafa308945a5c6eec5af"/>
+    <encoded_png char_offset="247" justification="left" link="" sha256sum="43194d3f38dddb5785a7f221eb454972c841d83c7c3b2b94f85edfb8eb7fcb76"/>
+    <encoded_png char_offset="290" justification="left" link="" sha256sum="c66284e1dd62f12fa9db8abfbef38033e4a74045969a93583199ed87cebbe0e6"/>
+  </node>
+</cherrytree>

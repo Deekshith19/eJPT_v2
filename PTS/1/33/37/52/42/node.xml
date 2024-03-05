@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Port Scanning with Auxilary Modules" unique_id="42" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704308180" ts_lastsave="1704879739">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy"> Auxilary modules</rich_text>
+    <rich_text> are useful in port scanning when we want to scan other systems in the same network where we have exploited a vulnerable system. Nmap cant do this type of scanning.
+ This type of scanning is helpful during post exploitation.
+ 
+ Here I am going to port scan using auxilary modules on tcp port.
+ 
+ Following are done in the Lab:
+  Getting the target ip.
+  
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+  Target 1 is our ip because  when I used curl on it I got the xoda ( in question it is given that xoda is the vulnerability).
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+  use xoda 
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+  set the RHOSTS and TARGETURI as /.
+  Then exploit.
+  
+  After executing , we got the the meterpreter session. type shell,, then type /bin/bash -i to the get the bash shell.
+  
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+  Here we got the second ip which is 192.168.157.2  and our target system will be  192.168.157.3
+  
+  come back to meterpreter session  to  configure a route to that subnet (192.168.157.3)
+  by typing “run autoroute -s 192.168.157.3” and type “background” to go back with affecting.
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+  
+  search portscan and use auxilary module for tcp scan and set the rhosts to new taget ip (192.195.157.3)
+  </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+  
+ 
+ now type “run” to see the services running on 192.195.157.3.
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+ 
+ 
+ These services are running on different system ( 192.195.157.3) and not on our currrent system (192.193.6.2 ).</rich_text>
+    <encoded_png char_offset="375" justification="left" link="" sha256sum="9a4a6b2a0198a1679c2487027f65d6f574796b7258febdae7e525a72420fef46"/>
+    <encoded_png char_offset="509" justification="left" link="" sha256sum="ba647afdccd09ea90e993f2bf207ecb0c85448f5210acf49e39ddfe9a16f68b4"/>
+    <encoded_png char_offset="528" justification="left" link="" sha256sum="fd452b94199df5131a636646b7b8474793bc91b014e706b36a03febdd327df69"/>
+    <encoded_png char_offset="713" justification="left" link="" sha256sum="79321628ca23f6433f2d5996e1494a7f18ca701b40332e8c73432c33ba95134e"/>
+    <encoded_png char_offset="1003" justification="left" link="" sha256sum="f7aea661caab7d4d2147fa81058332949d122e80b5b897660777e8ec1b39695a"/>
+    <encoded_png char_offset="1119" justification="left" link="" sha256sum="7f40974ae51b107eadbf2f272f3be73afed75186d3601c0bac31e49a50c0be68"/>
+    <encoded_png char_offset="1191" justification="left" link="" sha256sum="f2584505538f6209d13dfebe96e4419fabc2e0142c583144e9cdf8991bd951b1"/>
+  </node>
+</cherrytree>

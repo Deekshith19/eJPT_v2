@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Samba 3" unique_id="148" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706983290" ts_lastsave="1706985045">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Info about groups using enum4linux
+
+
+
+
+
+
+Using rpcclient
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+The following is done in lab
+
+</rich_text>
+    <rich_text weight="heavy">a.</rich_text>
+    <rich_text> Using smbclient
+
+
+
+
+
+
+
+or else
+
+</rich_text>
+    <rich_text weight="heavy">b.</rich_text>
+    <rich_text> using smbmap
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="40" justification="left" link="" sha256sum="9cf4851e9894672f362401c4cac089e3fb98f010c5a0dd8ae5e893f3e845447e"/>
+    <encoded_png char_offset="43" justification="left" link="" sha256sum="08f79010f579f420019401f1491b88334b42d915d667f772363099e99b8b5dfe"/>
+    <encoded_png char_offset="64" justification="left" link="" sha256sum="13e184aa55d145830c3d1286401952094e96bb6aac4d81977e73e4b732be7ef3"/>
+    <encoded_png char_offset="125" justification="left" link="" sha256sum="774ae85ca51961fa61a554cddd33c96d11cf80f2b303a94ad88e44606442a4d2"/>
+    <encoded_png char_offset="128" justification="left" link="" sha256sum="62571e22ee2b235b22f5e506e686c7a204f64a6170cccd01d80ce58b0815bfdd"/>
+    <encoded_png char_offset="159" justification="left" link="" sha256sum="d1e3cef3d480b7e7dd28bbfbb499c7616c4901a9bff3226adb1dbdfd0297b99b"/>
+    <encoded_png char_offset="162" justification="left" link="" sha256sum="0dd329bed4dfc38b8228892d4c9197ba8237beb046c727524be4dcd9c5bac921"/>
+    <encoded_png char_offset="165" justification="left" link="" sha256sum="b2f376b8c0f7db2aefd26f15afa43f13d7ba7bfa178bbc8e6956eaf34d403f98"/>
+    <encoded_png char_offset="168" justification="left" link="" sha256sum="24d31fdee0546210637b5cfb92b1cc21a0c078c8518783ea340fc98cf3a34aac"/>
+  </node>
+</cherrytree>

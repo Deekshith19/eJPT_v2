@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Privilege Escalation" unique_id="76" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705726772" ts_lastsave="1705727588">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+
+logging through given credntials
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+
+
+here in the processes /bin/checkdown , the chkrootkit is executing every 60s ,(chkroot kit is anti rootkit system to find any rootkit in the system),, now we are going to exploit the vulnerable chkrootkit ( here the version of chkrootkit is 0.5)
+
+
+
+
+
+
+set required options
+
+
+
+
+After exploiting we'll get the root</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="9e5bf5f4f5a37577dfa3a8fdb318d745481d0d60c7c6a38229929344972ad6f7"/>
+    <encoded_png char_offset="14" justification="left" link="" sha256sum="9800b585d4753a6a24a147aad81d86b28a53b7de806f1384412aac42c90b1bac"/>
+    <encoded_png char_offset="56" justification="left" link="" sha256sum="6ba1a68b351faa413b0e967eb07486cfaaf40c24a42cedc31922bc56b6ca7ca0"/>
+    <encoded_png char_offset="307" justification="left" link="" sha256sum="314bc7c177a6eacf86e6650436496519eaafff2125ebf22a67a1ed086ae5c450"/>
+    <encoded_png char_offset="311" justification="left" link="" sha256sum="f67469d909a3b877a49cc771e59d918ea132593e117dce2f70fbe4a196695572"/>
+    <encoded_png char_offset="337" justification="left" link="" sha256sum="408aeea63154d8b89188449e1275a5815a903a0cbab7bb2af8fbdd74983ec313"/>
+  </node>
+</cherrytree>

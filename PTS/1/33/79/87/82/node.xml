@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Searching for publically available Exploits" unique_id="82" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706009335" ts_lastsave="1706085776">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Exploit DB
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> rapid 7
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> Packet Storm wont provide that much exploits however it provides info about latest vulnerabilities.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="76472444c1eb91a1143f0142e90802824331bf205e01bbe3b1c7d3ba16a04173"/>
+    <encoded_png char_offset="23" justification="left" link="" sha256sum="4958de15217ea4365bc76e27c4ec16f770b8a567fdd7f31bdcd96e704a5f8c5f"/>
+    <encoded_png char_offset="40" justification="left" link="" sha256sum="e4f36534f525f0204ce42c5f46fa28390f910e61dde60962a80b060d2587d11c"/>
+    <encoded_png char_offset="148" justification="left" link="" sha256sum="8dead036263d740f5c21215078ca32f7ff1f038f0c3fc66ca9a131d9f7c70617"/>
+  </node>
+</cherrytree>

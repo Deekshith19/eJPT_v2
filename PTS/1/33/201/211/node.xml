@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Filtering wifi" unique_id="211" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708276568" ts_lastsave="1708276734">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Its about filtering wifi traffic using tshark,.
+
+</rich_text>
+    <rich_text weight="heavy">Better to look in the provided pdf</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="90" justification="left" link="" sha256sum="dd59ad55daf1fa099ae211acec7ae2dfd84259719f592ab50dc8e1ac95d5b691"/>
+    <encoded_png char_offset="93" justification="left" link="" sha256sum="9e38c3ad8e0ddfebc923870769eaea6c39e216502a4daaab26fc2e26c9c8a0ba"/>
+    <encoded_png char_offset="98" justification="left" link="" sha256sum="a16a862d9a46e3efea0ce42fc433a3b0f1da8318a9c2052d6bf4d76eb5238de6"/>
+  </node>
+</cherrytree>

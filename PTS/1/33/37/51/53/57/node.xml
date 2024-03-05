@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Apache Tomcat" unique_id="57" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1704971031" ts_lastsave="1704973835">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+The following is a Lab:
+
+Scanned the target ip
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Selected the required exploit
+
+
+Here, it upload a jsp payload, hence we cannot a meterpreter. So we need to assign a java payload
+
+
+Java_jsp shell payload is set here.
+
+
+
+Set the shell 
+
+
+
+
+
+
+Sometimes it may get stuck showing “Uploading payload”.
+So we need to stop it by “ctr+c” and run it again.
+
+When it shows "Command shell session 2 opened" , press enter to get the cmd.
+
+
+
+
+
+Now finding the flag
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="678fa7cd738b5e3e813d97fb6b79ff9753ed00385810f053aee2fa5f19d56d2d"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="5d67b41681ccb6a26e03e6741cd517d4f02fe5dbeb37c23fcba0b7b53a7b3ada"/>
+    <encoded_png char_offset="60" justification="left" link="" sha256sum="ec28eb855f4bff84267810e5a2573e146770615b7fc78d843c9b160ee709f9db"/>
+    <encoded_png char_offset="94" justification="left" link="" sha256sum="6c551948eff3b10da49ed0c8b46dcf12387914e63da8cacf8e9346c423f614ac"/>
+    <encoded_png char_offset="196" justification="left" link="" sha256sum="7313d905f740a9b02ef4accac539dabfa21c7cdddab9dd4431fd2b88e8d86ae7"/>
+    <encoded_png char_offset="252" justification="left" link="" sha256sum="b6221debb46b36f4f00d8dd0eaa0de0bf09b82def0e68b220f7768d3939dbd73"/>
+    <encoded_png char_offset="258" justification="left" link="" sha256sum="000aeb0c527ee07ba2fb7019ddcdeea72241a213e8606a9739f77ccc3a50895f"/>
+    <encoded_png char_offset="446" justification="left" link="" sha256sum="90a5b5d36a0dacc64ebb214f669b9077ac9053cdb18b092d41611971131862e3"/>
+    <encoded_png char_offset="472" justification="left" link="" sha256sum="4a3aba9b4d9c684d4541a4e47e1894424d3fc02200ab42e6d1231c501275a87e"/>
+  </node>
+</cherrytree>

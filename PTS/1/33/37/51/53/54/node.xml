@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Http File Server" unique_id="54" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704880049" ts_lastsave="1704892015">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is the lab of exploitation of windows http file server:
+
+Here we are going to exploit the vulnerable Rejetto HFS using the required exploit and payload.
+
+
+
+Scanning the given i_address
+
+
+
+
+
+Here the http file sever is going to be exlploited
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Set the payload 
+
+
+
+Configure the options:
+
+
+
+Then exploit:
+
+
+
+
+
+Now finding the flag
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="b65f493c6731e8b8146deaa1b8ccbe9774a1f1e1c635d072a943c8ed9e03e42b"/>
+    <encoded_png char_offset="213" justification="left" link="" sha256sum="98d83274290d22f96c452e20c5e7052a78fd359c9917271bd012a38a53d50925"/>
+    <encoded_png char_offset="216" justification="left" link="" sha256sum="348c32e16a2669627a307282cdec88fca25a892634fa430bc4c15637d31d4806"/>
+    <encoded_png char_offset="271" justification="left" link="" sha256sum="62baa8bc977222eb7312b6e82c5c1158ba72948c7b7ae6924ad98a92ab1bcfb0"/>
+    <encoded_png char_offset="293" justification="left" link="" sha256sum="c567c720abc4ff2d24c8e6a600aa219f36e9f61d71f159ef797c063d4c33cfa4"/>
+    <encoded_png char_offset="320" justification="left" link="" sha256sum="d7aa3e91f67c2ed02e3a5f45c4b4cc0f9c98e6e01153e7ec4b77783bc599cd6d"/>
+    <encoded_png char_offset="338" justification="left" link="" sha256sum="009197c551d2b28300c4292724f25d75b2bb29562b71bc6760f59a62509d8d35"/>
+    <encoded_png char_offset="341" justification="left" link="" sha256sum="d120b0bbd4b1615a19adba045d53fd5fa95fe3b963c188cb238d7b0f1dec52f7"/>
+    <encoded_png char_offset="366" justification="left" link="" sha256sum="5c27f5e45b073cf130bab24ef7f5e28aa5680eedcdd603fc9aef551986770227"/>
+    <encoded_png char_offset="369" justification="left" link="" sha256sum="499c9d278ad3fd98aaa1b948c00e084cef10fca57676fd49f5772e83d57e508d"/>
+    <encoded_png char_offset="372" justification="left" link="" sha256sum="83c28c1ff9f87c4217457b04098f2bc3483c1a74ac78499b60bc49117d93ba83"/>
+  </node>
+</cherrytree>

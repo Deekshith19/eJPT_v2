@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="OpenSSH" unique_id="101" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706201820" ts_lastsave="1706206311">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+Here we used Hydra to enumerate the password of user ‘vagrant’
+
+
+
+
+Here they diasbled the ssh login to the administrator account
+
+Logged into vagrant user checked the privileges
+
+
+
+
+However we dont have that much privileges for exploitation of the server
+
+
+
+we just went to msfconsole to login to ssh server.
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+Following is done in the lab
+
+In the lab I enumerated the users
+
+
+
+
+I tried to enumerate the password for user ‘sshd’
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="97687e36f526a61bd2ac00015b1e5ffac611042d54b4775e1ca0622b3c2351c7"/>
+    <encoded_png char_offset="72" justification="left" link="" sha256sum="521316c94d5f545c70fd97986613a5756fc879eb290f2463cba6e0f23850124a"/>
+    <encoded_png char_offset="185" justification="left" link="" sha256sum="3f30edfeed1ded24d6ffea892292a20846a341a0899e41b677cfcf0b59aa16b0"/>
+    <encoded_png char_offset="188" justification="left" link="" sha256sum="c02e986e5f3df1f2f1a73cae0114e2285310a6764df61885fa8eb491fe052963"/>
+    <encoded_png char_offset="266" justification="left" link="" sha256sum="5f0528133a85b1fbbd88ce23245b0dae246f8edcaf197187976d62591a22c721"/>
+    <encoded_png char_offset="393" justification="left" link="" sha256sum="68ae508e82b4c3b5d80e8a04a04fe13d0c195599e43bf327be3e3c0bf3fc16c0"/>
+    <encoded_png char_offset="447" justification="left" link="" sha256sum="741ed010458af9ce8a39ad4264107ab5193e05d0bdbd22f8203e7cd8ff8c609f"/>
+  </node>
+</cherrytree>

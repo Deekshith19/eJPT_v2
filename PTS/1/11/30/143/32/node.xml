@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Windows Discover &amp; Mount" unique_id="32" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1703941507" ts_lastsave="1706951950">
+    <rich_text weight="heavy">
+SMB</rich_text>
+    <rich_text> (Server Message Block):
+
+Its port number is </rich_text>
+    <rich_text weight="heavy">445</rich_text>
+    <rich_text>. 
+SMB enables the sharing of files and printers between devices on a network.
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+After this command , we'll get a new drive in network location
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+The above is the C drive and below is the new drive in the network location which maps to C drive
+
+This is also smb
+
+
+
+
+
+The following is done on the lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <encoded_png char_offset="133" justification="left" link="" sha256sum="7ff01dcc2f63030e2f9f9e2b096147606bb389525e35b9549812d9173c66c287"/>
+    <encoded_png char_offset="199" justification="left" link="" sha256sum="78df7a209df149abb372cd79e4bb0af7577d606e7650eb019086ba70bc70692f"/>
+    <encoded_png char_offset="356" justification="left" link="" sha256sum="d266c37780ebb808c43c66e262f2ef7b81713eedd19dbd7fc97184bd77776746"/>
+  </node>
+</cherrytree>

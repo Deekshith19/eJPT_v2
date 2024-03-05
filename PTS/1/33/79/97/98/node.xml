@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Windows" unique_id="98" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="120" is_bold="1" foreground="#cdab8f" ts_creation="1706179792" ts_lastsave="1706351669">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Here's where our target ip is located
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="42" justification="left" link="" sha256sum="aaf3978fe6147eb7b4a939a6a505d57747531bf727f358918cacda3f92abd242"/>
+  </node>
+</cherrytree>

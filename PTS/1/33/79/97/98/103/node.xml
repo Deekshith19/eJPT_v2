@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="MySql" unique_id="103" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706351669" ts_lastsave="1706379820">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Performing bruteforce to find the credentials
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here the ‘root’ does not hold any password
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Now we are going to check the passwords for the database by going thrrough the server by exploiting the eternal blue vulnerability
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Vulnerability exploited
+
+
+After exploting we moves to the root directory
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Moves inside wamp directory
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+There we found www, goes inside www and sees the wordpress where the database of the wordpress info would be stored.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+wp-config.pho ciontains the info about the stored passwords of the mysql database
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>'
+Here we found the database name is wordpress and found the db_user is root and the password is null value
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Now the next task is we have an access denied issue on phpmyadmin
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+We are going to create access to “phpmyadmin” by changing the script in phpmyadmin.conf file. That file will be stored in /wamp/alias
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We downloaded the phpmyadmin.conf file
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+When we opened the downloaded file it is shown that only from local host we can access the phpmyadmin subdomain. 
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+So we change it so as to enter in to that domain.
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we uploaded the the new file and the old file got automatically replaced by the new file.
+
+
+
+Once we made any changes to the appache configuration we need to restart  the appache service.
+
+For that we first need to go to the shell and stop the service and start it again
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Now we are able to access the phpmyadmin after reloading the site
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Here we'll be able to view all the databases and we goes to wordpress db
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+There we are able to see the wp_users where the users of the db will be stored
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Now we are able to change the password. However in the sense of penetration tester we can only the steps in reaching this critacal situation and are not allowed to change the password.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+For the educational purpose we changed the password to “password123”
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now went to wamp server homepage to login to the wordpress with the new credentials
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Now we entered the user:admin and password:password123 and hence we got the wordpress dashboard
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+By looking the whole process , we started the journey from enumerating the credentials of mysql db.
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> The following is done on my Lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We'll be able to see all the tables in the db and can modify if we want.
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we exploited the eternal blue vulnerability
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We are able top explore the server
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+
+Similiary I done to sqlbuddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Since there is no passwd for root
+</rich_text>
+    <encoded_png char_offset="51" justification="left" link="" sha256sum="d57d7712c702b3c513ae220c4acf61a1905a3d400a02b1db17e8beab500dacb1"/>
+    <encoded_png char_offset="54" justification="left" link="" sha256sum="3a805dff89a682975315a60332535fe90ac12756c62ae36bd6d8928575dc6bc5"/>
+    <encoded_png char_offset="101" justification="left" link="" sha256sum="50925370d99e2db96a5830017f96913bc01d07f3c1e5ed96091c431cf36bfe83"/>
+    <encoded_png char_offset="104" justification="left" link="" sha256sum="0f270eb94ab34ad761e766c9950cb534b7929b9b77586eee64afa9f522c19992"/>
+    <encoded_png char_offset="246" justification="left" link="" sha256sum="0905bb5488dd4d4d54c45f774f7b19e1419b8add373cd41b2613db5a092a68c6"/>
+    <encoded_png char_offset="321" justification="left" link="" sha256sum="ab79ca7c311176441c6806c90eef46e3af975d2ab2f190a6f596c5e5a585af78"/>
+    <encoded_png char_offset="353" justification="left" link="" sha256sum="0c6b47621129193061f806190df53c0a561ba29941eddba52719d395e2db3580"/>
+    <encoded_png char_offset="473" justification="left" link="" sha256sum="12f743725351bb841ae900e0b4ad3e36c815f8998750d46bf4acec7f44ddad6d"/>
+    <encoded_png char_offset="476" justification="left" link="" sha256sum="d84fbc387675c3d1c0dbc0768d72ab39ca967f5b492dd3032f2b48a81c1ab39a"/>
+    <encoded_png char_offset="561" justification="left" link="" sha256sum="c0df8efa9fe24ee3c7e00d1a4ae5ad686ef104bfab9dd9f6634a2a0803128ef9"/>
+    <encoded_png char_offset="743" justification="left" link="" sha256sum="1eba8f747d1410aafbc5d9001680305d9d298f09a3ec1b672555f96aada4dca7"/>
+    <encoded_png char_offset="881" justification="left" link="" sha256sum="d3bf2196cb1537029a0a25031c156ba7550d73f03a9e5a6cd1737424d130c7a4"/>
+    <encoded_png char_offset="885" justification="left" link="" sha256sum="fa74b5627e1e8d1e70114aaccd63354894171b1de3c8b03e92ee8f5b09f4433d"/>
+    <encoded_png char_offset="927" justification="left" link="" sha256sum="98937af1f7c50971c6c90157c936537753db026d8a11b51dd6574d0c8e11c726"/>
+    <encoded_png char_offset="1045" justification="left" link="" sha256sum="578080aedb119081a6e981904b80bc2ea2e89e8717858a12e40c45936ecefdc2"/>
+    <encoded_png char_offset="1099" justification="left" link="" sha256sum="0fceec7fb4feb70cfc12f575a4dfcda3c20de3e38adb6f5aa55071299d003c81"/>
+    <encoded_png char_offset="1376" justification="left" link="" sha256sum="a29604d90f134ed2802db28033fb562a69940ec3bb78c804553275fa7846aa42"/>
+    <encoded_png char_offset="1446" justification="left" link="" sha256sum="0cce3df9ede016769addeb658f09b6794908d37ec42c7c11f273054006009677"/>
+    <encoded_png char_offset="1448" justification="left" link="" sha256sum="cf2580a71e5ce813e975edf220dd781c3c666cf50be14b7c50f49cd19eecb660"/>
+    <encoded_png char_offset="1525" justification="left" link="" sha256sum="4ed229d6e6da20b6f13135fcf24497085ecf5335abbf2a7e0c03297bf7bc8a2b"/>
+    <encoded_png char_offset="1608" justification="left" link="" sha256sum="93e15c255102fe745b1bd16f1c6568239b3916ef172c2f37f449f300bd2e6450"/>
+    <encoded_png char_offset="1796" justification="left" link="" sha256sum="e03468751e2a4e592ebc66f691adba5e519f966988e7a5f56e7a8e8bbf188b26"/>
+    <encoded_png char_offset="1798" justification="left" link="" sha256sum="c115724dd49217d1af119235d59ebbf196c15faf2108c83e1a2611008e73fc4b"/>
+    <encoded_png char_offset="1872" justification="left" link="" sha256sum="fc050ad6a58935d106180c41818f2013d99fd6bef2fd6e36a9d1a4726943babc"/>
+    <encoded_png char_offset="1877" justification="left" link="" sha256sum="7ae07676fc58efea24b3524029b9bc4fcedf9e82522e885db9ae4a8f154d08e3"/>
+    <encoded_png char_offset="1964" justification="left" link="" sha256sum="0407aa442827d917e7493bf672692f959d2d60d681079a47f043113a083a2ce8"/>
+    <encoded_png char_offset="1967" justification="left" link="" sha256sum="108558b97c62560bacc1805cb0ae6d4ae34c144dc0f83e748b2c358854a2f6a6"/>
+    <encoded_png char_offset="2067" justification="left" link="" sha256sum="8f4463bf32bf4db0289f53c30a1fdeca156d5ee7845708e2b7ac0b7f6748f6bd"/>
+    <encoded_png char_offset="2217" justification="left" link="" sha256sum="d1abc381325e0eb9d1edec86305a0252e609817c83a766c4c5902bf3122e74b9"/>
+    <encoded_png char_offset="2220" justification="left" link="" sha256sum="e77b5072c84bf81b855a7914fcb4da20fd24ffac851446bf3f5d68c29643efca"/>
+    <encoded_png char_offset="2223" justification="left" link="" sha256sum="2d5aeeb41808904edf432a2c6e67139eee5983a7912d3fae634c0f86e644abde"/>
+    <encoded_png char_offset="2228" justification="left" link="" sha256sum="9af08037f0d85a677f9d2506c39e305d9a4cdcc8a78d6ca9288014b0fabef355"/>
+    <encoded_png char_offset="2306" justification="left" link="" sha256sum="1df46903f1a49200bbf6d49341d37f43e331dbf452aa6efef4b38f09557cc28b"/>
+    <encoded_png char_offset="2357" justification="left" link="" sha256sum="35fb7a719185c2a057737d223cdaab4a7c5aa7c44dfd62266634b2d953093175"/>
+    <encoded_png char_offset="2361" justification="left" link="" sha256sum="714228353146a5c77592ac6f01022bf2e6a224aab8098b610cf1928fe06b04e9"/>
+    <encoded_png char_offset="2364" justification="left" link="" sha256sum="dd3a8f281ff9e73234af68870d038d485fec34ba24a35970beefa6acc2fa37c6"/>
+    <encoded_png char_offset="2368" justification="left" link="" sha256sum="ec07be5f09bd59730103d353097c9643e2b82fdbed99f7e50607e7b57756b6df"/>
+    <encoded_png char_offset="2406" justification="left" link="" sha256sum="71d8f6010d7dd770b5bfb4ed4ed8f505dbc52d051d0300bf42307bb83a39e460"/>
+    <encoded_png char_offset="2409" justification="left" link="" sha256sum="b12ea4547e4a36a25f15e99f126448e84320530a18f84d79467630ebf8842881"/>
+    <encoded_png char_offset="2412" justification="left" link="" sha256sum="284fa73b3a2f20cc1ba8bea1ce47337ae7eb943f11979899f08ad0c24203a733"/>
+    <encoded_png char_offset="2415" justification="left" link="" sha256sum="6e4df20080cb5130b88169aed308221bcf0aa56be5b5588424d496daa26261a7"/>
+    <encoded_png char_offset="2418" justification="left" link="" sha256sum="02199f54a33ce5f11ec72443924647ebaed8569e407c98733ac2bafbdfd55ccb"/>
+    <encoded_png char_offset="2421" justification="left" link="" sha256sum="e87ed271d44fda98934819d56b166de8cf27fac2adc51fd46d0ac329a04ba3ca"/>
+    <encoded_png char_offset="2425" justification="left" link="" sha256sum="aac7b50d001db4a92d1679bfe8c7d571a87bd2239840ed3642670625269c25ad"/>
+    <encoded_png char_offset="2429" justification="left" link="" sha256sum="d6bab0654eff7d0b9257d7296acfce814478c223a664def4114b3bc9e5ab285c"/>
+    <encoded_png char_offset="2464" justification="left" link="" sha256sum="a1732c1a5b7f925b12f24ea1f4f898b371bd47aaa841bca3f60c683b942aef71"/>
+    <encoded_png char_offset="2466" justification="left" link="" sha256sum="e097a6162bb043113791dace4ea176d645dafc4e147ffd3c35920b97428084b8"/>
+    <encoded_png char_offset="2469" justification="left" link="" sha256sum="eb2db38decc3809a08928c160be2a5b22eda148c46640d384205f9df1d449cf8"/>
+    <encoded_png char_offset="2471" justification="left" link="" sha256sum="110e43e865ecec8fcb6a570fcf5cdecf11d0401b9f1c3dce833e43bfc30b54a4"/>
+    <encoded_png char_offset="2474" justification="left" link="" sha256sum="323a5a1eb6c4e3660a9c9e84e8e19c9bbd6a6cdb5c67f7eea8274e4c212e05ea"/>
+    <encoded_png char_offset="2478" justification="left" link="" sha256sum="4cf4d1e288d9ed8c725e5a488fcda5518af64f4af9e3631bd387fa0708483028"/>
+    <encoded_png char_offset="2481" justification="left" link="" sha256sum="90108a3e3b59c136e9e1334ceae57c325e1e53c57f2f40cbfecf485623ab6f88"/>
+    <encoded_png char_offset="2484" justification="left" link="" sha256sum="f35e4cd867c5cb28b3667e160ae2447a76da1d0bfecbebb08e20e0b363a3e302"/>
+    <encoded_png char_offset="2521" justification="left" link="" sha256sum="4f087993a79d8fe834a05d7e5aa93ec7112ae99f692daa9bb32af0550771ca34"/>
+  </node>
+</cherrytree>

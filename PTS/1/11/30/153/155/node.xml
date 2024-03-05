@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Dictionary Attack" unique_id="155" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707046798" ts_lastsave="1707050225">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> The following is done on lab
+ 
+Enumerating the password of root user
+
+
+Eumerated the password.
+
+
+</rich_text>
+    <encoded_png char_offset="74" justification="left" link="" sha256sum="eb3b93349dd13647460845dedc5728efd7c7d5ad63dd2cfbfb1b77fc55b8d508"/>
+    <encoded_png char_offset="102" justification="left" link="" sha256sum="4e834d35c0b9abd5072ed5d54e9e20f4f74f120fd08faa1df842e7148c9f5579"/>
+  </node>
+</cherrytree>

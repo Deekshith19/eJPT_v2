@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="FTP Anononymous Login" unique_id="152" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706990517" ts_lastsave="1706990732">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text> Here we are performing anonymous login on ftp
+
+
+Here we dont require the password
+
+</rich_text>
+    <encoded_png char_offset="51" justification="left" link="" sha256sum="db1060401e427d3e9f2e43028e2be97a4d26abac4eb0d95076e09a3533db5114"/>
+    <encoded_png char_offset="88" justification="left" link="" sha256sum="329b3b238708a1bfb81a5491836179fc148ef4b790acf67a28ad68774981e898"/>
+  </node>
+</cherrytree>

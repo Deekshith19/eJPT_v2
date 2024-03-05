@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Setuid Binaries" unique_id="205" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708197834" ts_lastsave="1708198613">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+Here the welcome is a setuid binary file and everyone has the permission to execute the binary
+
+
+
+
+The command "stringr &lt;binary_file&gt;"  it'll get a list of strings in binary, here it shows ‘greetings' which is also a binarry. Actually when welcome is executed then the greeting will aslo get executed.
+
+
+So we delete the 'greetings' file and create a new coden which calls a bash shell
+
+
+
+
+
+
+Since welcome is a setuid program owned by root , after executing it , we'll get a root shell since greetings call the bash shell</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="0d2fc8ed0bed91791b959fa091b86f892a732058fbad63c0f2e66294f5ef83b7"/>
+    <encoded_png char_offset="15" justification="left" link="" sha256sum="82f4128cdf1f2431e2c765e97a20e818b61eb8cb5897839839d3ad3369220da3"/>
+    <encoded_png char_offset="115" justification="left" link="" sha256sum="f6315441ef20e7bc81e70ab7dc0fd221ec5b7105ab38011785e73374351677a0"/>
+    <encoded_png char_offset="405" justification="left" link="" sha256sum="40435b8d12a8f6c94f234ef1bfe0ad2cd9e7418aa8af358bacbcc9b039651c86"/>
+    <encoded_png char_offset="410" justification="left" link="" sha256sum="84ff315ceedbdf021cde0f9dfa2925e0a7042169ded17f1584ed1867450a0a4e"/>
+  </node>
+</cherrytree>

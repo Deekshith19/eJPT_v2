@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Authenticated XSS" unique_id="209" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708268588" ts_lastsave="1708270767">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+Intercepted
+
+
+
+Copy and paste the get request part and also the cookie part
+
+
+Add XSS after firstname by replacing joe
+
+
+We go the payload
+
+
+
+
+
+
+Ustom script 
+
+
+
+We got the payload, copy the final attack part to browser	
+
+
+
+
+
+
+This is XSS since the script is added to the server , here we can see the added script in the page source (which is &lt;script&gt;alert(1)&lt;/script&gt;)
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="102d78efaac790a94a8588e0ca9616afa9fd4cd6d96e331408694640dea801dd"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="4e927c9c603b7a315da72349fd9afff8d5c704e5ac68cec642237be20909870a"/>
+    <encoded_png char_offset="13" justification="left" link="" sha256sum="9521e65d8972d1cb6159fe269b4fc348f1bc5c4b2f74a7046a8e342b9a9afba8"/>
+    <encoded_png char_offset="92" justification="left" link="" sha256sum="293333c628b4126ec73c8f39105d7fd4ca618a3be6e3f0e088d63b1d604865c9"/>
+    <encoded_png char_offset="136" justification="left" link="" sha256sum="3dfd402e71de68880d0a28a2afac3ef92c57ea9f9987b75bac09bf212d67e4dd"/>
+    <encoded_png char_offset="176" justification="left" link="" sha256sum="55bbcb9192a65591407f7379994e6265f51bdc5fe3e4d049007424e34bb452bb"/>
+    <encoded_png char_offset="179" justification="left" link="" sha256sum="e595b67903279b2fba650190623ae2e92b79c816b5083c983c18ccdf9cbc8d9d"/>
+    <encoded_png char_offset="241" justification="left" link="" sha256sum="31e55614f557c0b2db1710f9792908a267d25c072c208626e3cdf8b80d6dc1af"/>
+    <encoded_png char_offset="244" justification="left" link="" sha256sum="8410b5d192da3a797d159258a9fb077771461759da563e4f8c7a028ec72b5850"/>
+    <encoded_png char_offset="391" justification="left" link="" sha256sum="ef57fe853bdebaa7d9b53c5dc21f7ecf25fa636c14d33aac07e675a3bcbb7c66"/>
+  </node>
+</cherrytree>

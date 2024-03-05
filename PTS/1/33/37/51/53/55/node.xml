@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMB(Eternal_Blue)" unique_id="55" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1704895157" ts_lastsave="1704901058">
+    <rich_text>	
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+By exploiting vulnerability, we'll get privileged session.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+First of all an Nmap scan is done on the vulnerable windows7 vm.
+
+Then we search an auxiliary module for eternal blue and scanned using it.
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Here we found the host is vulnerable.
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Now we search for the exploit  module for eternal blue
+
+
+
+We use the this exploit and also the default payload is used
+
+
+
+
+After configuring the options, exploit to get the meterpreter session.
+
+
+
+Here below you can see NT  Authority\System which means that we have highest privilege and total control of the system  and can execute any commands.
+
+</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="a64ca0956e8c06a4693030e7d3a67cf98e94cd742c19687db5aa570267a834ae"/>
+    <encoded_png char_offset="68" justification="left" link="" sha256sum="e742b5681680e66acd3a15dbb93edada9ff0746521627116708de1c01897e4a8"/>
+    <encoded_png char_offset="218" justification="left" link="" sha256sum="b983f3c4548dbb6beff0fe6ba67ec435587e16176f0e9519ae519fdf4dc4e8db"/>
+    <encoded_png char_offset="320" justification="left" link="" sha256sum="b0d8711c9e68bc8f9ba61c0c89a93658b487699200477f0f3dd5633a7aebacff"/>
+    <encoded_png char_offset="385" justification="left" link="" sha256sum="3f46fb25e3bce95c28fccde2159cdbcc53cfffd3932c799e6f278e16705077fd"/>
+    <encoded_png char_offset="462" justification="left" link="" sha256sum="e8f2fb6487607296170a2bd5c77dd1ccd142f6a9b132e9c2546adf05a500c6ce"/>
+    <encoded_png char_offset="616" justification="left" link="" sha256sum="a1f839a5571496a6ebbd9d7d7270558920a2ca9fb1199cb3dacbc1818eab3d60"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="System Info" unique_id="121" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706546402" ts_lastsave="1706549066">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Exploited the vsftpd vulnerability and got the shell, then moved to bash shell
+
+
+
+
+Then upgraded to meterpreter session
+
+
+
+
+Distribution and release version
+
+
+
+basic info
+
+
+
+
+Environment Variables
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> CPU info
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+To view the ram space
+
+
+
+</rich_text>
+    <rich_text weight="heavy">
+6.</rich_text>
+    <rich_text> Space available in disks
+
+
+
+To view the space utilized in the disks only
+
+
+
+Info about the storage devices
+	
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> To view all the installed packages
+
+
+
+Here bash 4.4-5 is vulnerable to privilege escalation</rich_text>
+    <encoded_png char_offset="84" justification="left" link="" sha256sum="680dcbc08f72a43c9b64e5f653d4153e2f9eefb541dac6acf777f5060fa4b0cb"/>
+    <encoded_png char_offset="87" justification="left" link="" sha256sum="be92167a47b85d1598cf9d1d1a06c6f653e266e81ed5f75eeb6a899186dcf505"/>
+    <encoded_png char_offset="129" justification="left" link="" sha256sum="7956d2029ee1a8bcaf35ec29f446eaad413bc043e8288e73d821df9451e2a573"/>
+    <encoded_png char_offset="166" justification="left" link="" sha256sum="957d220e6b3cca7efcf6140173769984f6e78ac3bc119697a9c58b060a173f0c"/>
+    <encoded_png char_offset="182" justification="left" link="" sha256sum="519ef4aec5f6abcd7b8d38d219af671f3ec0dc7bf42030dd70ad8b829aaef952"/>
+    <encoded_png char_offset="222" justification="left" link="" sha256sum="81ff2122f4bb9cfb833e9d2349b6bc1237cc8d3ac401749c36a06a358e155cbb"/>
+    <encoded_png char_offset="252" justification="left" link="" sha256sum="b79b67777045c9b030ca408c03f6571cc366c7ef352ed981beb1c72daad8f0cc"/>
+    <encoded_png char_offset="284" justification="left" link="" sha256sum="b168e52502406e8bf46a083155951516f7e6b89f1146d2df0e3821a3ba9a7cdd"/>
+    <encoded_png char_offset="287" justification="left" link="" sha256sum="448803b17078347ec1a687cb136cd739e75f81b8442fad68d10368305c478392"/>
+    <encoded_png char_offset="336" justification="left" link="" sha256sum="5e54b1a31275e1eb6b3f9962b9e54281c18c22d57f0063ad74a4bfd2ee406d61"/>
+    <encoded_png char_offset="369" justification="left" link="" sha256sum="80dfe17a749c80db60a822da922cecb27fbc12d57e82b5c24cde2b8782c6f77f"/>
+    <encoded_png char_offset="414" justification="left" link="" sha256sum="324fa1d25be32eddfc93b8ad254ba4374c9db2d5e9e1c43c13ec5506ccbf183e"/>
+    <encoded_png char_offset="416" justification="left" link="" sha256sum="3acf6fef768e7d620780ccdd0e72ebaaef2887848b60861092c63199f45ca247"/>
+  </node>
+</cherrytree>

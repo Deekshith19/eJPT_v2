@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="21" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="187" is_bold="1" foreground="#c061cb" ts_creation="1702835674" ts_lastsave="1704216735">
+    <rich_text>
+9. What tool (command) is used to test connectivity to a computer.
+Ans.) Ping
+
+
+10. What protocol matches MAC addresses to IP addresses?
+ Ans.) ARP
+ 
+ 
+11. What tool is a GUI (graphical user interface) tool for scanning a network?
+ Ans.) Zenmap
+  
+  
+12. What tool captures network traffic and can be used to identify endpoints from that traffic?
+ Ans.) Wireshark
+ 
+ 
+ Updated:
+
+
+13. Which type of reconnaissance involves collecting information from publicly available sources, such as websites, social media, and public records?
+ Ans.) Passive Reconnaissance
+ 
+
+14. What is the primary focus of footprinting in the reconnaissance phase?
+ Ans.)  Collecting detailed information about the target's network and systems
+ 
+ 
+15. What is the primary responsibility of the Network layer in the OSI model?
+ Ans.) Logical addressing and routing
+
+
+16. Which layer of the OSI model is responsible for end-to-end communication, flow control, and error correction?
+ Ans.) Transport Layer
+ 
+ 
+17. Which layer of the OSI model is responsible for translating data between the application and lower layers, including encryption and compression?
+ Ans.) Presentation Layer
+ 
+ 
+18. What is the purpose of the TTL (Time-to-Live) field in the IP header at the Network layer?
+  Ans.) To limit the number of hops a packet can take through the network
+  
+  
+19. Which protocol operates at the Network layer and is commonly used for logical addressing and routing on the Internet?
+ Ans.) IP
+ 
+ 
+20. What is the primary role of the UDP (User Datagram Protocol) in the Transport layer?
+ Ans.) Fast and Connectionless Communication
+  
+
+21. How many packets are exchanged during the TCP three-way handshake?
+ Ans.) 3
+ 
+ 
+22. What is the significance of network mapping in the reconnaissance phase of penetration testing?
+ Ans.) t provides a blueprint of the target network architecture
+ 
+ 
+23. Which host discovery technique involves sending ICMP Echo Request packets to potential hosts and analyzing their responses?
+ Ans.) Ping Sweeping
+ 
+ 
+24. In ping sweeping, what is the purpose of adjusting the Time To Live (TTL) value in ICMP packets?
+ Ans.) To limit the number of hops
+ 
+ 
+25. What is the purpose of the "-PE" option in Nmap's host discovery scans?
+ Ans.) To perform a ping sweep using ICMP Echo Request
+
+
+26. Which Nmap option is commonly used for host discovery and sends ICMP Echo Request packets to determine the status of a host?
+ Ans.)  -sn
+ 
+ 
+27. What is the significance of using the "-p-" option in Nmap's port scanning?
+ Ans.) Scans all TCP ports
+
+
+28. Which Nmap option is used for performing a UDP port scan to identify open UDP ports on a target host?
+ Ans.) -sU
+ 
+ 
+29. In Nmap, what does the "--version-intensity" option control in service detection?
+ Ans.)  The aggressiveness of service version detection
+ 
+ 
+30. How can script categories be specified when using the Nmap Scripting Engine?
+ Ans.) --script=category
+ 
+ 
+31. Which Nmap option is specifically designed for firewall evasion by splitting large packets into smaller fragments?
+ Ans.) --fragments
+ 
+ 32.) Which output format in Nmap provides a machine-readable format that can be easily parsed by scripts and tools?
+ Ans.) -oG
+ 
+ 
+ 33.) System/Host based attacks are attacks that are targeted towards a specific system running a specific operating system?
+ Ans.) True
+ 
+ 
+34.) What year was Metasploit officially released to the public?
+ Ans.) 2003
+ 
+ 
+35.) The Metasploit Framework is open source and the codebase is publicly available on GitHub.
+ Ans.) True
+ 
+ 
+36.)Encoders are used to encode payloads with the aim of evading signature based AVs.
+Ans.) True
+
+
+37.) What directory is the Metasploit Framework installed in by default on Kali Linux?
+ Ans.) usr/share/metasploit-framework
+ 
+ 
+38.) What programming language is used to develop MSF modules?
+ Ans.) Ruby
+ 
+ 
+39.) What type of MSF modules are used to perform functionality associated with information gathering?
+ Ans.) Auxiliary Modules
+ 
+ 
+40.) Which one of the following commands can be used to setup and initialize the Metasploit Framework database?
+ Ans.) sudo msfdb init</rich_text>
+  </node>
+</cherrytree>

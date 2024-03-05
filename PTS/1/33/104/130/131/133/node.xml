@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Privilege Escalation" unique_id="133" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706701243" ts_lastsave="1706709514">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+We obtained the administator user and it password
+
+Now we can either login legitimately using psexec or we can exploit it using msfconsole
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Logging legitimately with psexec.py
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> With msfconsole for exploitation
+
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> The following is done our lab env
+
+
+
+
+Copied the command in the victim's cmd and then got the connection
+
+(Here I transferrred the command by hosting  the command in a text file and downloded the file in target's system and then ran in the cmd)
+
+
+
+
+Upgraded the shell to meterpreter session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here we got administrator password
+
+
+
+
+
+Used msfconsole to exploit and login to target system
+
+
+
+
+
+
+
+
+Now we found the flag from Administrator's Desktop
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="81cc686eaf86696a6c12e03123ac6873af77f3f76a321b0fb7953f5c70e290d1"/>
+    <encoded_png char_offset="189" justification="left" link="" sha256sum="5a487819855f719f3f691b7975efd01049acda99811e9551a33abc69ebe2bb3e"/>
+    <encoded_png char_offset="231" justification="left" link="" sha256sum="17e678aedf74d5ade950d50fc75b51df2fce4b48dd0be9563d700cfae79985ad"/>
+    <encoded_png char_offset="281" justification="left" link="" sha256sum="f3114d56dc3e9b14b1d825b990d50de57caecd432876cbe4e9b025acdfe61397"/>
+    <encoded_png char_offset="352" justification="left" link="" sha256sum="f3cd907dccdc23956732a5c090814e79eb255edd0d543c3fc32c85dd2f8f72ea"/>
+    <encoded_png char_offset="496" justification="left" link="" sha256sum="7f117759beed308e3ec6981712c55ef9c1c4b15d98f43715fcfb18525f4025cc"/>
+    <encoded_png char_offset="543" justification="left" link="" sha256sum="823f2544ffb081aa07cc4d648c92025ca31f6712186f8f707e9e3a25a0d2b244"/>
+    <encoded_png char_offset="547" justification="left" link="" sha256sum="33cfdc7189a72385f69dd1c29e744ff197c57c5b301b4bf34ccdfd3a3bb3bb81"/>
+    <encoded_png char_offset="551" justification="left" link="" sha256sum="9226a39bbb5a7b6c08455a04a8a7030d21abfb78a88dbda4cc96813eec0e3ee6"/>
+    <encoded_png char_offset="556" justification="left" link="" sha256sum="6d78d53a10ee23df3c742435d8778a7bb4eecbfdaab9b8813a9d3ff435df1f52"/>
+    <encoded_png char_offset="597" justification="left" link="" sha256sum="a0de7d26c7873afdaca6ea75156f57209218a4c0ddb29da11859f9b9d446cff8"/>
+    <encoded_png char_offset="654" justification="left" link="" sha256sum="7c17d66c5445e927051d3b72d192338e71c4aee08fa608f35c1584906bf0e3da"/>
+    <encoded_png char_offset="661" justification="left" link="" sha256sum="0a0a8364d34beb22ec839a863219c5467dc7f974b8447342698e3cd9bebe23da"/>
+  </node>
+</cherrytree>

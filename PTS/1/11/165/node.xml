@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Vulnerability Assessment" unique_id="165" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#57e389" ts_creation="1707133256" ts_lastsave="1707158907">
+    <rich_text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="2" justification="left" link="" sha256sum="3a67c84f252d171571e67d3d64c21843ac38ffc6c023dbda64067fea07240eaa"/>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="ecee9f7408a5f3c823a7edb6ae53138560c450e956fad8a61206c43d268a7ee9"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="8e849b71627962f84e780ffc405b368c202906639cd2b060913e9336faa773c7"/>
+    <encoded_png char_offset="12" justification="left" link="" sha256sum="c08963f1aa9ca80367cacc45f218a13bc988db11748e4ffc17c97d190d1a351d"/>
+    <encoded_png char_offset="15" justification="left" link="" sha256sum="91d1bca5f80fab6c988bffd976464643ac6c7ff5a98be78d35d5dd5ae97bc781"/>
+    <encoded_png char_offset="19" justification="left" link="" sha256sum="7ef0e1cff4214ee742b0f31c46e00ccfbe7c3471e35c644bda28802538c3fafa"/>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="22c3f30fb7ac9d534e2b341f4428a98a0a7167e2ebb9d94a1750d69e78b72818"/>
+    <encoded_png char_offset="25" justification="left" link="" sha256sum="c29b2b4dfac39f2087cfc4ef85acbe27f98cf5e1f47c51f2888fe8991a50d823"/>
+    <encoded_png char_offset="30" justification="left" link="" sha256sum="88eb3ca4dd53e04e2211608d4868eca82fa086ba11208fe9861ad6af6f307874"/>
+  </node>
+</cherrytree>

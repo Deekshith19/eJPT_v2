@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="FTP Enumeration" unique_id="43" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="29" is_bold="1" foreground="" ts_creation="1704371922" ts_lastsave="1704879765">
+    <rich_text>
+Here I am going to exploit the ftp by enumerating username and password through bruteforcing.
+The following is a part of a Lab.
+
+Checking the version of the ftp using an auxiliary module of ftp
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Then setting the wordlist for user_id and password for auxiliary/scanner/ftp/ftp_login module to bruteforce the user_id and password
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Then ran exploit to enumerate the user_id and password
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+The user_id and password is enumerated, now login to ftp  192.9.109.3  and enter the user_id and password.
+
+</rich_text>
+    <encoded_png char_offset="196" justification="left" link="" sha256sum="247c8bc75ffbc6f0a23ef7f27e311082742560db7cc786b1460f6f34350084a2"/>
+    <encoded_png char_offset="332" justification="left" link="" sha256sum="827c03cf745e431e3ce8bfc814bfb4a609a09820fb4872bf3ff5c96cc993097d"/>
+    <encoded_png char_offset="392" justification="left" link="" sha256sum="417e994d5cea5481ba1fd848e586d6d05b19f8079f30a54f161198de9a2c0f31"/>
+  </node>
+</cherrytree>

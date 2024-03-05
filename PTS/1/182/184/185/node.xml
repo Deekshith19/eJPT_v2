@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Gobuster" unique_id="185" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707682293" ts_lastsave="1707906500">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+Main help page
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+Particular command help page
+(following is dir command help page)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+
+syntax: gobuster dir -u &lt;target url&gt; -w &lt;wordlist&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+
+
+Avoiding particular status codes
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+
+Avoiding particular status codes and finding particular file extensions
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+Enumeration of particular sub directory (here it is data)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We found account.xml in data sudomain
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We got the userid and passwords
+
+</rich_text>
+    <encoded_png char_offset="20" justification="left" link="" sha256sum="654f249fbe7992ab0843faabddc246bcd7c6e0c7f46fc94d04a31d33e6e496d4"/>
+    <encoded_png char_offset="93" justification="left" link="" sha256sum="1708b12c3917ef83cd0df4f68d769fd215838b36b8c4b1712f9237a350f2854d"/>
+    <encoded_png char_offset="153" justification="left" link="" sha256sum="c30c5b7a508566d5bd70591667c1a3096b99ed6f44a0de672e785cbe5d52ce07"/>
+    <encoded_png char_offset="196" justification="left" link="" sha256sum="0153c686f1e4e6e3189c85c67ef7014126024c1e44e535c5f8e7f7ccab182eff"/>
+    <encoded_png char_offset="278" justification="left" link="" sha256sum="eeaf40f61fdf69f5e29910701ca9d4b227a5f74d346617b3462da93768a09a15"/>
+    <encoded_png char_offset="281" justification="left" link="" sha256sum="e42625b86e1de3fb3e1645aa17e00639936bb80ba65134f5ea58bd8c565d2818"/>
+    <encoded_png char_offset="348" justification="left" link="" sha256sum="a4de2abff710f6a26c24fb6f35117680c945545aaa04e10727836081dc65105a"/>
+    <encoded_png char_offset="389" justification="left" link="" sha256sum="1d368ee1acb43051e2ad644ba376ac8f527a7697787c912702fcc78af19e70b5"/>
+    <encoded_png char_offset="392" justification="left" link="" sha256sum="a71c9e08ce0a77e5628073e58913e4730fd7a816037838dae94b6cd4265d5469"/>
+  </node>
+</cherrytree>

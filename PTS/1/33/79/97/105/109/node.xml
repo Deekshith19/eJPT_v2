@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Samba" unique_id="109" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706436772" ts_lastsave="1706446009">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+This is better for banner grabbing of smb than netcat
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+We got the version from this module
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> After exploiting, we got the shell 
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> The following is all the lab of this linux black box penetration testing I've done
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We are not getting the session
+
+Now we try to enumerate the users using smtp port
+
+
+
+
+
+
+
+
+
+enumerated users form smtp port
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>   
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+Exploited Samba Vulnerability:
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Exploiting PHP   
+
+
+
+Exploited php using metasploit</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="899bdd9b115eae0e4abe31d4f57936c97543938c84c1aebcafc0b82b5deb23f5"/>
+    <encoded_png char_offset="61" justification="left" link="" sha256sum="ea28017f308036bcf4a8d15369433cf429eafea3e7b290f56a3a84be6b7bb0ef"/>
+    <encoded_png char_offset="102" justification="left" link="" sha256sum="5c1e5c6be4c12b74d7118f4c6f316b8dadfaeaed3d3213893fb1a98cae076c61"/>
+    <encoded_png char_offset="106" justification="left" link="" sha256sum="97306a958bc3ff17474eb179c7af2ac17fdbf935c74b74aa865dc7240c56c813"/>
+    <encoded_png char_offset="239" justification="left" link="" sha256sum="ff54f48c5a4e7ab3d9e3411d9eea1f343c3a003ea7068a8c996f5c14d7778c27"/>
+    <encoded_png char_offset="242" justification="left" link="" sha256sum="32d9da64523acd33ee18e2977090a468a931f6eeb2f2e53a4767fb827a74cb2f"/>
+    <encoded_png char_offset="367" justification="left" link="" sha256sum="612150bd440aa2034f392d0a519dce8f02f2bf083ba9939788222662c4384747"/>
+    <encoded_png char_offset="370" justification="left" link="" sha256sum="532de6a9a785d2bd1aedba5ff0466d13944ffff86b9bafce97a049c1168b3775"/>
+    <encoded_png char_offset="373" justification="left" link="" sha256sum="c1707a76486195cf6c65757b910d7ef991cc09391c0c03c84d617762f3f31e23"/>
+    <encoded_png char_offset="376" justification="left" link="" sha256sum="1860aa728bf19167e8f766934fad393eca9a7f76d601377993480f41127d94ab"/>
+    <encoded_png char_offset="379" justification="left" link="" sha256sum="80c59984f14277410ab516a5ded9f8386c7bda3f0f652704559dec21fe9b77a2"/>
+    <encoded_png char_offset="385" justification="left" link="" sha256sum="7e552c4350a68dfa0f25de467d39ec8dea55082c481778dd4c33c443880b09ba"/>
+    <encoded_png char_offset="388" justification="left" link="" sha256sum="f5da3e622fe3030f719701570ba71f2f709bcf25bd1dc5a2bf8739932623c5f1"/>
+    <encoded_png char_offset="392" justification="left" link="" sha256sum="0cc638985d4cf1f6e517ef05c48a185700f6db5652d3465ef8ba460f11fba114"/>
+    <encoded_png char_offset="430" justification="left" link="" sha256sum="ace06d78d902fd4e0e2773273d429ef67381b10ab46ca64650a6284d397ee8a7"/>
+    <encoded_png char_offset="449" justification="left" link="" sha256sum="35b2c08699b4173cdf8ccbc008fefd25d8e34e4aea96aaf0cfaf3ce70ed01c9c"/>
+    <encoded_png char_offset="456" justification="left" link="" sha256sum="cc73c93d7d76ea5543061f5da00eadf0b47c3b060b11d82e69f5f39ad86b8c2f"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nmap Scripts" unique_id="81" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706001187" ts_lastsave="1706085984">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+We can search for scipts using particular keyword
+
+ls -al /usr/share/nmap/scripts | grep &lt;keyword&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following is done on lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here after running the script we are not able to get useful info since the shellshock nse scripts need s additional script arguments
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> Getting the additional arguements needed for the script
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Here we have .cgi scripts, which is the required argument
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we are checking whether this cgi script is vulnerable to the shellshock vulnerability
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+
+Now we add the argument needed for the script to run and we got some required output and it says it is vulnerable to shellshock vulnerability
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+(Note: Some nse scripts does not require script arguments,, we can check if the scripts needed args or not in nmap.org)4
+
+
+
+
+
+Also we can search the modules and use on them to get various output, here I used an auxiliary module
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="104" justification="left" link="" sha256sum="1b2e7b1f6e87521525e0ef6e25e982ef72ade729ed23479f5de959320bb7615d"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="ffe7d5e1560730575fb77a8020d044a7da3bbfe6bbdf685860d1903ed7a00f94"/>
+    <encoded_png char_offset="141" justification="left" link="" sha256sum="1e7c513b581d8229db87e9906dd7686390fefce99969187b692ec081b2406a17"/>
+    <encoded_png char_offset="338" justification="left" link="" sha256sum="c6069b05463b9988a64d54a0998e2ad8da28636f89d060613016e793ddb1ad8f"/>
+    <encoded_png char_offset="342" justification="left" link="" sha256sum="0d10ecc289692fcf9ef03e51f0372d253fc0916149a6c6b4074416559f3ce8c1"/>
+    <encoded_png char_offset="403" justification="left" link="" sha256sum="95fd3fe5c7a685c7ae79725b8bdf5be7e1ff1537db9fe7b4a1d5c1106535d7d3"/>
+    <encoded_png char_offset="644" justification="left" link="" sha256sum="9228b8c48c0cc999ddfa0f26f196d6198192dee019572d3a037772ae757e02bd"/>
+    <encoded_png char_offset="880" justification="left" link="" sha256sum="ffa03eea843ccf384a07eed257761aea14aab9e9ca92dd252cd4fc3a7d3d3ae3"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Nmap Scipts" unique_id="144" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706951963" ts_lastsave="1706955909">
+    <rich_text>
+Overview
+
+1.nmap -p445 --script smb-protocols &lt;target&gt;
+2.nmap -p445 --script smb-security-mode &lt;target&gt;
+3.nmap -p445 --script smb-enum-sessions &lt;target&gt;
+4.nmap -p445 --script smb-enum-sessions --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+5.nmap -p445 --script smb-enum-shares &lt;target&gt;
+6.nmap -p445 --script smb-enum-shares --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+7.nmap -p445 --script smb-enum-users --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+8.nmap -p445 --script smb-server-stats --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+9.nmap -p445 --script smb-enum-domains --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+10.nmap -p445 --script smb-enum-groups --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+11.nmap -p445 --script smb-enum-services --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+12.nmap -p445 --script smb-enum-shares,sm-ls --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+
+
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-protocols &lt;target&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-security-mode &lt;target&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-sessions &lt;target&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-sessions --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-shares &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-shares --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-users --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-server-stats --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-domains --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">10.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-groups --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">11.</rich_text>
+    <rich_text>
+
+nmap -p445 --script smb-enum-services --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">12.</rich_text>
+    <rich_text>
+nmap -p445 --script smb-enum-shares,sm-ls --script-args smbusername=administrator,smbpassword=smbserver_771 &lt;target&gt;
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">13.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Many modules are available for enumeration of smb other this also</rich_text>
+    <encoded_png char_offset="1168" justification="left" link="" sha256sum="7cd4f3edd7625dda2f726f9c396c868154da04a7000385c8b249c6508ff3840e"/>
+    <encoded_png char_offset="1223" justification="left" link="" sha256sum="61dcde95d0179898811589609b322fe8ac1bde947007bb6b7ca60a6fe3adb6c6"/>
+    <encoded_png char_offset="1279" justification="left" link="" sha256sum="f10b9c2134f26517f47d14ba8d80e423bc309641900414fde57bd57bc4ed8156"/>
+    <encoded_png char_offset="1400" justification="left" link="" sha256sum="5abee7c4ff5ec0d338d65af48ef250aca4955b1b9b3769d3330ea1e1bd650c42"/>
+    <encoded_png char_offset="1453" justification="left" link="" sha256sum="001a7daa45ea0756d1e41ea0502251e946c2df6f294961a76ca34bf3be6be991"/>
+    <encoded_png char_offset="1572" justification="left" link="" sha256sum="733f918941a501ea677156674b282ab4107860604d9aec51f778de072989fd35"/>
+    <encoded_png char_offset="1690" justification="left" link="" sha256sum="93fd8ff56133e33c2e521988806371053b5419ba176b78161b52e4515a49d90b"/>
+    <encoded_png char_offset="1811" justification="left" link="" sha256sum="b84cddb426d66af5779ad01a1b5c726708f37b3751bf480f6bdfe7d5be7da6d2"/>
+    <encoded_png char_offset="1931" justification="left" link="" sha256sum="6cbc6b96e158aa6062346e2ab6337d09e41f2dc98bdef244608699ab196a865e"/>
+    <encoded_png char_offset="2050" justification="left" link="" sha256sum="301f799bef26648a56e7771c57530420f789657a5fc9caf7745b592497c62a51"/>
+    <encoded_png char_offset="2173" justification="left" link="" sha256sum="43c48429cb59abc48ad563a9a1c9d2c68c506358506b1deb16dffd2947421ce3"/>
+    <encoded_png char_offset="2299" justification="left" link="" sha256sum="29b7a7f7352e129807e1168c1bfebe35f5ef4f640f2c6a8afe04e22c9a865a11"/>
+    <encoded_png char_offset="2302" justification="left" link="" sha256sum="081da0f438388a1cf076e41279e6eef5e806c2b306990dcb03d22adffe1254f5"/>
+    <encoded_png char_offset="2305" justification="left" link="" sha256sum="fdd5d238125b00b8c3b2fc11e00efcd489deeee2f01a5abb0092c68de3938429"/>
+    <encoded_png char_offset="2308" justification="left" link="" sha256sum="84f3248d152b452513bb7079874c97398862b1f51fea1fb4fb82eb699fd5e010"/>
+    <encoded_png char_offset="2317" justification="left" link="" sha256sum="209b0fc3d4e8b0e2779246de312a0075f7863247c7b18011ca0deaff9db1160a"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Linux Hashes" unique_id="196" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708016979" ts_lastsave="1708018708">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Following is done on lab
+
+
+First exploit the vulnerability
+
+
+
+We need to crack the root's hash to retrieve the password
+
+
+So we are going to gather the hashes using an msf module
+
+
+
+we gathered the hashes
+
+
+Now we use hash cracker linux module to crack the hashes
+
+
+
+
+
+We successfully retrieved the password after cracking the hashes.
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="7842c7b5a039b5df7150cac46dc2e726d885202e636d24577d04cbfe8fc7a1e0"/>
+    <encoded_png char_offset="7" justification="left" link="" sha256sum="33d87705feb26e1b6a5c6f9031decd24d0b2d068f8ce30f95f7602a48359a230"/>
+    <encoded_png char_offset="44" justification="left" link="" sha256sum="0871190d0adde48ef6fd0218ee6bab48f32ec198e9d911a8442765085fee0712"/>
+    <encoded_png char_offset="80" justification="left" link="" sha256sum="cf5cd2421e626ad8c9ad6404716977e595d25ca1094e894afac5d3c534b0ea10"/>
+    <encoded_png char_offset="200" justification="left" link="" sha256sum="c6b5aa5bf14cf5153f91f236588f0627046471f71c8d561f3fb995a9640ff380"/>
+    <encoded_png char_offset="202" justification="left" link="" sha256sum="a7e1aa7b952de4ce1710ba1dfbe1b7f3b9d85448428f3c8762dee7524656f186"/>
+    <encoded_png char_offset="287" justification="left" link="" sha256sum="f44f4f331fc1ec4e91255df821a680c0dde47211fd2cdaa988080490782ef4c6"/>
+    <encoded_png char_offset="290" justification="left" link="" sha256sum="f47a13766c2e4baafeace0789357f6ad73c3e292d6f23652f86d3d2ad68bca88"/>
+    <encoded_png char_offset="360" justification="left" link="" sha256sum="a97cce21e357686c8d31abc0d42b37c80e32931ba9ad18699e368ec4a9c6b947"/>
+  </node>
+</cherrytree>

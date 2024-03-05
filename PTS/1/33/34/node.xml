@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="System/Host Based Attacks" unique_id="34" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="209" is_bold="1" foreground="#57e389" ts_creation="1704024545" ts_lastsave="1707224370">
+    <rich_text>
+1.
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+We are able to scan for a particular nse script use ls -al /usr/share/nmap/scripts | grep &lt;script_name&gt;
+
+Here we are searching for shellshock script
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="158" justification="left" link="" sha256sum="e85a83a60973606abc5007e087aa3d4f59c4009dc69b405c115fd58a7cde1f43"/>
+  </node>
+</cherrytree>

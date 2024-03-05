@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="ARP Poisoning" unique_id="203" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708174612" ts_lastsave="1708175211">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+First discover all of the hosts in our network
+Here we found telnet is running on 10.100.13.36
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Enabling ipv4 forwarding: echo 1 &gt; /proc/sys/net/ipv4/ip_forward
+And then performing arp spoofing and simulataneously capturing the traffic in wireshark
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> In the wireshark, look for telnet traffic
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> 
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Got the id and passwd
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Now we are able to login to the telnet service</rich_text>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="51b114762bf9462f6adfb77e35af5d93417375a05ae02bd7468b0a7ea63aa408"/>
+    <encoded_png char_offset="8" justification="left" link="" sha256sum="3b75f9b2cad970314ec48fcd35ee7253fe33798c1aa7ad667b18e7c73ac61a02"/>
+    <encoded_png char_offset="111" justification="left" link="" sha256sum="9803097c24ecec61f189b39c6cd0f1c0665bd85ebe162f3d266adcd4dbc074b2"/>
+    <encoded_png char_offset="315" justification="left" link="" sha256sum="eb7079bb280f7df790972b229abf9ac332edc43cc48158a9778b98859ea736af"/>
+    <encoded_png char_offset="320" justification="left" link="" sha256sum="ad875a4f3eebbe8e2b7a95fe5ca143b0ca788b6f0708ce29866253106922ae39"/>
+    <encoded_png char_offset="324" justification="left" link="" sha256sum="3304259a12476555ed47925080ca3ca4d7e8fc09526415ec5ad00aa90dba2281"/>
+    <encoded_png char_offset="350" justification="left" link="" sha256sum="4f9910eab0281c8956041273e63a55195d5c0c4ddc7f33cd9d7b91d1f845aff8"/>
+  </node>
+</cherrytree>

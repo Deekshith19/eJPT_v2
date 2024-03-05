@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Searchsploit" unique_id="83" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706026944" ts_lastsave="1706085785">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+Our kali linux comes with preinstalled exploitdb
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+We all exploit locally in our system
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>  Copying
+Below we are copying an exploit ‘49757.py’ from the local exploit db(/usr/share/sxploitdb/exploits)  to our current working directory
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Case sensitive searching
+
+syntax: searchsploit -c &lt;keyword&gt;   (it is not that much useful)
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> Exact match search
+
+syntax: searchspoit -e “&lt;key word&gt;"
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+With this technique it will give output combined with the microsoft only
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> With many terms
+
+This is actually an useful filtering technique
+
+syntax: searchsploit term1 term2 ..termN
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+With grep
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text> To get the online links of the exploits : use '-w'  with the command
+ 
+ 
+ </rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="41c161978547f43823b6987fd1a71fae5814596616d41975f4b62ef521603c94"/>
+    <encoded_png char_offset="61" justification="left" link="" sha256sum="28270277250ae15920275e67d86156d4d83e0d7208fba8005ebffbc88eb63d36"/>
+    <encoded_png char_offset="65" justification="left" link="" sha256sum="2d6573ed5a873c89ddc5247f9583d4633cd9bb8c1a162b6ccd7caba411a2c221"/>
+    <encoded_png char_offset="110" justification="left" link="" sha256sum="1ec9cb140b51c98caea25fb2a717937a82d7fbde10516c415595cc9923116320"/>
+    <encoded_png char_offset="263" justification="left" link="" sha256sum="27e3984b9863a21b3caa3edaecbd2d585fc1ec73e80b0e4286be781c17ac8df2"/>
+    <encoded_png char_offset="362" justification="left" link="" sha256sum="543721f09d2467b759e264c96b1deac3fe55364ba9e81ee4039dcb505d6b04d2"/>
+    <encoded_png char_offset="427" justification="left" link="" sha256sum="82493a5913eac86f1185e1f24ca97dab1ba7cd753af256855fcca8a5669426ec"/>
+    <encoded_png char_offset="435" justification="left" link="" sha256sum="4016af27ff8919859818c7bb5c8d24c8f7cb80a6432aef46c0a77ae854c39614"/>
+    <encoded_png char_offset="623" justification="left" link="" sha256sum="57d8e64f75926d8eefa8d0b7c0a607fd6b2f5d359312fcd4419ea3f2a392270d"/>
+    <encoded_png char_offset="626" justification="left" link="" sha256sum="609717e7bf4c1f8b821c18a289a31ea14cc9374c9a889502d61535a28ebde796"/>
+    <encoded_png char_offset="629" justification="left" link="" sha256sum="b105051a06a0295e9f36bdc4de3c7ae880d3a1e39d63fa94c591dd3870bfe23c"/>
+    <encoded_png char_offset="644" justification="left" link="" sha256sum="b5fcfd501744aa246730dadab8737a0d2d35d4d7f78ee07c4ab2e8229b08aa09"/>
+    <encoded_png char_offset="727" justification="left" link="" sha256sum="6eadcf2478885ec91c31a28b89df519a3ca19a994be7d30e94f4241c79d4715f"/>
+  </node>
+</cherrytree>

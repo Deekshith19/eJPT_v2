@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Google Dorks" unique_id="12" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="35" is_bold="1" foreground="" ts_creation="1702622503" ts_lastsave="1702628662">
+    <rich_text>
+1. </rich_text>
+    <rich_text weight="heavy">Google Dorking</rich_text>
+    <rich_text>:
+
+Google dorking" refers to the practice of using advanced search techniques on the Google search engine to discover information that is not easily accessible through conventional searches.
+
+• </rich_text>
+    <rich_text family="monospace">site:example.com</rich_text>
+    <rich_text> - Searches for results only within a specific site.
+• </rich_text>
+    <rich_text family="monospace">site:*.example.com</rich_text>
+    <rich_text> - Searches for subdomains of a specific domain.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+2.</rich_text>
+    <rich_text weight="heavy"> Wayback Machine</rich_text>
+    <rich_text>:
+
+Gives the old versions of any website
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+3. </rich_text>
+    <rich_text weight="heavy">Google Hacking DB</rich_text>
+    <rich_text>:
+
+This contains many google dorking coomands to be typed in search bar of the search engine
+
+</rich_text>
+    <encoded_png char_offset="351" justification="left" link="" sha256sum="c9f2d7ec1f6deb840a780369ab85b3a6988d10010174d99ae7122a611d9b48c5"/>
+    <encoded_png char_offset="354" justification="left" link="" sha256sum="5f23f18dda99b8b3d2076ccb9dfca231ac4ebe1bf72b0befe29d67fe8c096812"/>
+    <encoded_png char_offset="419" justification="left" link="" sha256sum="0b4b12b6fa7823c14db532c822589956f827dd8c43d5246a45eae7e57c371086"/>
+    <encoded_png char_offset="537" justification="left" link="" sha256sum="58007b76ca317b22bd9cde0661fc3772ad2d73f9dac563caefdacadbcf72102c"/>
+  </node>
+</cherrytree>

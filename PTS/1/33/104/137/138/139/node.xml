@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Via RDP" unique_id="139" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706730499" ts_lastsave="1706731036">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+First of all exploit and migrate to explorer.exe
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+run getgui,, is used to check rdp is enabled or disabled,, if it is disabled, this command will enable them.
+Then a new user alexis with passwd hacker_123321 is created and is added to RDP group
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> 
+
+
+This is the command to login the system using rdp
+
+
+
+
+
+
+In the windows cmd, we can see our newly created user is added to the system and can act as backdoor</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="1a3811cb33cc3cc817aaffa08eb930cfb073175605a87987e4bd71ec6b434305"/>
+    <encoded_png char_offset="63" justification="left" link="" sha256sum="0f95db065d201c1a7e837f41a788e5efb10f623035357c73c9e4dd21e853a5e2"/>
+    <encoded_png char_offset="260" justification="left" link="" sha256sum="3e48fb9434cacc7e1265a44e6a445f0b662d4b0ed80642514e08356092fb7ab4"/>
+    <encoded_png char_offset="268" justification="left" link="" sha256sum="03d9bae77e8149bd36012557355c3d70b69da9c8662237525a8370dc7be36bb4"/>
+    <encoded_png char_offset="322" justification="left" link="" sha256sum="9981398ca07d8f78c69664c31ab93fa14dd12e7b2c5cd10dbd687ba54db2a6dd"/>
+    <encoded_png char_offset="327" justification="left" link="" sha256sum="4d649d64617d202481c3f86eb2f00908b7b83d7f4d728e8579e0c948869e5d20"/>
+  </node>
+</cherrytree>

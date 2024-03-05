@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="SMBMap" unique_id="146" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1706974606" ts_lastsave="1706984569">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+SMBMap
+
+  SMBMap  allows  users  to enumerate samba share drives across an entire
+       domain. List share  drives,  drive  permissions,  share  contents,  up‐
+       load/download  functionality, file name auto-download pattern matching,
+       and even execute remote commands.
+       
+       
+       
+       
+       
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Logging with null password
+
+smbmap -u &lt;username&gt; -p “” -d . -H &lt;target&gt;
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> To execute a particular command
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+To list drives
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+
+To view items in a particular drive
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+, the </rich_text>
+    <rich_text family="monospace">-r</rich_text>
+    <rich_text> option is used to specify the remote directory or share to connect to on the SMB server. In this case, you have used </rich_text>
+    <rich_text family="monospace">-r 'C$'</rich_text>
+    <rich_text>, where </rich_text>
+    <rich_text family="monospace">'C$'</rich_text>
+    <rich_text> is the name of the share.
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+To upload files
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>]
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text>
+--download
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> To view all the files on all shares which includes drives, print, Downloads, etc
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">9.</rich_text>
+    <rich_text>
+Following is done in lab
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+or to view the file
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <encoded_png char_offset="401" justification="left" link="" sha256sum="d5468ab88a07880c303fe56f137480d84ec2d223eb3775160cbafa164d1d5da6"/>
+    <encoded_png char_offset="442" justification="left" link="" sha256sum="a66d3151602f445821f9f3ef049c388d4f7bd388bd9e2aae211668275ee196d5"/>
+    <encoded_png char_offset="467" justification="left" link="" sha256sum="63aa5479e7c4a748efbfb8dd71560136ba5d63686b3f224335f4c05481e35f4c"/>
+    <encoded_png char_offset="513" justification="left" link="" sha256sum="68610a497ac2fa453f16f742dbb5ed740b36a361fe080f9d28feb348af9925fe"/>
+    <encoded_png char_offset="709" justification="left" link="" sha256sum="1a3fb5c151cd652fa8bc25d9b70070b38cda9232bc2a00acf5ea5244620fe1a2"/>
+    <encoded_png char_offset="729" justification="left" link="" sha256sum="29becda10dbb0ada0e4450444638703223c7771bc3c9004ae158f4ecae3f3b02"/>
+    <encoded_png char_offset="819" justification="left" link="" sha256sum="7ab0da80ddbfe70a81637a84f0b0cec77aadd05f2dac36332c6b1486542405a9"/>
+    <encoded_png char_offset="853" justification="left" link="" sha256sum="2469aa7393fb7cf6bbbad370eb9bee31c97205db77e428f8fea4e618b36b60c8"/>
+    <encoded_png char_offset="856" justification="left" link="" sha256sum="e55482d9efadd3c16a90117a5a4a09022e6fc32d29f2cb0ae3067915b989152c"/>
+    <encoded_png char_offset="879" justification="left" link="" sha256sum="ec95672d3b6423d157636417f6e37e28f56db957ce622044282cf22f57bb5f78"/>
+  </node>
+</cherrytree>

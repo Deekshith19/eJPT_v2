@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="MySQL" unique_id="161" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1707066500" ts_lastsave="1707122698">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+Finding writable mysql directories
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">2.</rich_text>
+    <rich_text> Finding hashdumps
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">
+3.</rich_text>
+    <rich_text> Getting the mysql info using nmap script
+
+nmap &lt;target&gt; -sV -p 3306 --script=mysql-info
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> 
+
+To get sql users list
+
+nmap &lt;target&gt; -sV -p3306 --script=mysql-users --script-args="mysqluser='root',mysqlpass=' ' "    
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text>
+To get database list
+
+nmap &lt;target&gt; -sV -p3306 --script=mysql-databases --script-args="mysqluser='root',mysqlpass=' '"    
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text>
+
+To enumerate mysql variables
+
+nmap &lt;target&gt; -sV -p3306 --script=mysql-variables --script-args="mysqluser='root',mysqlpass=' ' "    
+
+  ( "--script=mysql-variables" or "--script mysql-variables" to achieve the same result when running the MySQL Variables script.)
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text>
+Auditting sql
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text> Hashdump
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+nmap &lt;target&gt; -sV -p3306 --script=mysql-dump-hashes --script-args="username='root',password=' '"
+
+
+</rich_text>
+    <rich_text weight="heavy">8.</rich_text>
+    <rich_text> 
+Performing queries in mysql using nmap scripts
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="40" justification="left" link="" sha256sum="9f52616b8b3824ee0a2987c816223d975f6b500f8a8d71b1e7a202628f9ab33d"/>
+    <encoded_png char_offset="65" justification="left" link="" sha256sum="570b842f791459a0f927f4da4451feb5f4604fe4cffa493155b65ac49c8bb9c1"/>
+    <encoded_png char_offset="162" justification="left" link="" sha256sum="dbe45dd9cf7cc5443dd1290a56f5afffce3098a362f9569884101e9ce122552c"/>
+    <encoded_png char_offset="294" justification="left" link="" sha256sum="471f4fdbbc39509a048c13c599fbab01c4c5cae4fc7b9df7587aaf868ef78a5a"/>
+    <encoded_png char_offset="426" justification="left" link="" sha256sum="f0e45b6855ec501bd833ad310f1d52a6ce2c5427f36bb848d0b4fe7bca288563"/>
+    <encoded_png char_offset="701" justification="left" link="" sha256sum="35fcd71255cb470e4e3fc818801de7b837f04b30947bfbc5b30a4a9254a768b8"/>
+    <encoded_png char_offset="725" justification="left" link="" sha256sum="ea148d2087660bd29e2583cc9cffccd97a108311ca28253e27d659b0cb6f7515"/>
+    <encoded_png char_offset="743" justification="left" link="" sha256sum="2806f13ed54157664c0c14fe148ba6e7f3eb124a0427b6bbaed37faca91512c1"/>
+    <encoded_png char_offset="899" justification="left" link="" sha256sum="1c716ab91e9358a5f1ee7784d6023f1d4436d3e713a749d739ac4714f7ceb55e"/>
+  </node>
+</cherrytree>

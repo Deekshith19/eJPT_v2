@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Quiz" unique_id="35" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="187" is_bold="1" foreground="#c061cb" ts_creation="1704025366" ts_lastsave="1707982892">
+    <rich_text>
+37.) An Information disclosure vulnerability is a type of vulnerability that could potentially allow an attacker to remotely execute arbitrary code on a target system.
+ Ans.) False
+ 
+ 
+38.) Which one of the following is not a frequently exploited Windows service?
+ Ans.) SAMBA
+ 
+ 
+39.) Which one of the following ports is used by RDP?
+ Ans.) 3389
+ 
+ 
+40.) The cadaver utility can be used to upload files on to a WebDAV server.
+Ans.) True
+
+
+41.) Which one of the following file extensions cannot be executed on a Microsoft IIS web server?
+Ans.) .py
+
+
+42.) Which one of the following commands can be used to upload malicious .asp payloads with cadaver?
+Ans.) put /PATH-TO-FILE/payload.asp
+
+
+43.) Which one of the following commands can be used to authenticate with a target system with PsExec?
+Ans.) psexec.py Administrator@192.168.1.1
+
+
+44.) PsExec authentication is performed via SMB.
+ Ans.) True
+ 
+ 
+45.) Which one of the following CVEs was assigned to the EternalBlue vulnerability?
+ Ans.)  CVE-2017-0144
+
+
+46.) The EternalBlue exploit takes advantage of a vulnerability in SMBv1.
+ Ans.) True
+ 
+ 
+47.) The BlueKeep exploit could potentially allow an attacker to execute arbitrary code on a Windows target.
+ Ans.) True	
+ 
+ 
+48.) Which one of the following commands can be used to execute a malicious executable with elevated privileges with the Akagi tool?
+ Ans.) Akagi64.exe 23 C:\Temp\payload.exe
+
+
+49.) In order to elevate privileges by bypassing UAC, you will need access to a user that is a member of the local administrators group.
+ Ans.) True
+ 
+ 
+50.) Which one of the following meterpreter commands can be used to enumerate user privileges?
+ Ans.) getprivs
+ 
+ 
+51.) In order to impersonate an access token, you will need to have access to an account with the "SeImpersonatePrivilege"?
+ Ans.) True
+ 
+ 
+52.) Bash is the default shell used by most Linux distributions.
+ Ans.) True
+ 
+ 
+53.) The Shellshock vulnerability affects both Windows &amp; Linux.
+ Ans.) False
+ 
+ 
+54.) In certain cases, FTP can be configured to allow anonymous connections.
+ Ans.) True
+ 
+ 
+55.) SSH only supports username/password authentication.
+ Ans.) False
+ 
+ 
+56.) Which one of the following commands can be used to enumerate shares with SMBMap?
+ Ans.) smbmap -H 192.168.1.1 -u admin -p password123
+
+
+57.) smbclient provides users with an ftp-like console interface.
+ Ans.) True</rich_text>
+  </node>
+</cherrytree>

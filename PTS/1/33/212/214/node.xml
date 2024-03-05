@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Lets go phishing" unique_id="214" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708281588" ts_lastsave="1708281647">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1. It is better to look in the solution page provided in the</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="65" justification="left" link="" sha256sum="77c90904f4559e46695b465bc0e4354b6c7df65805d4a8f75c5b33564e99b006"/>
+  </node>
+</cherrytree>

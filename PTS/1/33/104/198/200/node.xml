@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Linux" unique_id="200" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1708151094" ts_lastsave="1708151279">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+
+
+
+
+To clear the history, enter the command : history -c
+
+
+
+
+We can also use this command to clear them
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="dd6f3acdae83d5a79574e2eb018b88c6d8a2c139452ec1c74ac4bbdf42bc0f6e"/>
+    <encoded_png char_offset="63" justification="left" link="" sha256sum="740ed3dfd7c8e0186a839ccdd9f15b18b3d6e48a80c211e5bbdbcbc3cd5e283f"/>
+    <encoded_png char_offset="110" justification="left" link="" sha256sum="010c97351a1bd581007c5f7b217fd979b1f34700d1fba717ac89cfc31d06cac9"/>
+  </node>
+</cherrytree>

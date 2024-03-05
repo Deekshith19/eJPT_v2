@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Bypassing UAC" unique_id="67" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1705328158" ts_lastsave="1707935830">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">1.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+To use the uacbypass module, first we have to exploit the vulnerability using another module.
+
+
+Before bypassing the uac
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Privilege escalation failed
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">
+2.</rich_text>
+    <rich_text> to view all the users in the shell
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text weight="heavy">3.</rich_text>
+    <rich_text> to view the members who are are part of administrators group
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">4.</rich_text>
+    <rich_text> We can bypass UAC usnig an exploit module of injection of uac bypass
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>4Set the required port
+
+
+
+</rich_text>
+    <rich_text weight="heavy">5.</rich_text>
+    <rich_text> Set the target
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+run to get the new meterpreter session where the UAC flag is disabled
+
+
+</rich_text>
+    <rich_text weight="heavy">6.</rich_text>
+    <rich_text> After bypassing the UAC
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text weight="heavy">7.</rich_text>
+    <rich_text>  To view the hashes
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="ab52ee1a6898e4aa15454d5e75fc9516ea70e6164ad48a5ff2d037685c6f7d23"/>
+    <encoded_png char_offset="129" justification="left" link="" sha256sum="aa8ddd1a5fdab4e95bb7d67194b35785961f4380a6d36c0d547400d755617767"/>
+    <encoded_png char_offset="162" justification="left" link="" sha256sum="24c4af827d493f97a8215cde503e0b5e7ad2467d2eabd42955825ada9bbd21e0"/>
+    <encoded_png char_offset="204" justification="left" link="" sha256sum="2e7c489d6f2b752fb80e1955d5c23b244909993344c3a5fc6230566ced70c560"/>
+    <encoded_png char_offset="273" justification="left" link="" sha256sum="55ebed71d31b9b708fc71c03714e91a90198231f61a6a2d9ce939fff0db0289b"/>
+    <encoded_png char_offset="351" justification="left" link="" sha256sum="67efbf5ef7c7487946504d0fd8a31b5576c959f4d1f49b80d6e3812f2041cbfe"/>
+    <encoded_png char_offset="355" justification="left" link="" sha256sum="a49ee1069ca4ceb9ec0b1ac77e2e2321af42f24da79c50b1f001c4de9ebc498a"/>
+    <encoded_png char_offset="400" justification="left" link="" sha256sum="59d234ba8cb4f0359e7a3dc0c567f54f68ffee993d26cddd881769b78317cb7d"/>
+    <encoded_png char_offset="404" justification="left" link="" sha256sum="f276f4e32a516ede295006b9c0e48fe8500e9f06200851d1a3c41b4055f8a66f"/>
+    <encoded_png char_offset="506" justification="left" link="" sha256sum="b7869d56242b6eb58c7bdf39547e2185cb7605ee6ad022c5671a096e279aa7d0"/>
+    <encoded_png char_offset="535" justification="left" link="" sha256sum="38c43ad96670264a1ad8966bedcba254405a68e941f980c07e2b3dec7c90e405"/>
+  </node>
+</cherrytree>
